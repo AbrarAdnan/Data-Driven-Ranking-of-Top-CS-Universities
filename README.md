@@ -63,3 +63,5 @@ python scraper.py --chromedriver_path <Location to the chromedriver>
 # Notes
 1. The chromedriver file is included in the repository
 2. The code needs python to run. Download python from here [Windows](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe) [Linux](https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz) [MAC OS](https://www.python.org/ftp/python/3.11.0/python-3.11.0-macos11.pkg)
+3. While running the code a window of chrome will appear. You can see the website it's working on in real time. You can check the console/terminal to get an more of what it's doing in real time through the output messages.
+4. The code will take a while to run
