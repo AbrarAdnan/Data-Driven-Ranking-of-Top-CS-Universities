@@ -12,7 +12,9 @@ Computer Acrhitecture, Computer Networks, Computer Security, Operating Systems, 
 We took the ranking of the whole world from the year 2000 to 2022. In our search we found a little less then 500 universities.
 
 The raw data scraped from the website looked like this
-
+<br>
+![image](https://user-images.githubusercontent.com/52294804/209989670-7b18be8a-5922-4c5d-bcb5-04109728c44a.png)
+<br>
 
 We used our scraped data to find answers to some questions.
 1. Top 10 universities are best in ranking (along with their country name).
@@ -65,4 +67,4 @@ python scraper.py --chromedriver_path <Location to the chromedriver>
 1. The chromedriver file is included in the repository
 2. The code needs python to run. Download python from here [Windows](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe) [Linux](https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz) [MAC OS](https://www.python.org/ftp/python/3.11.0/python-3.11.0-macos11.pkg)
 3. While running the code a window of chrome will appear. You can see the website it's working on in real time. You can check the console/terminal to get an more of what it's doing in real time through the output messages.
-4. The code will take a while to run
+4. The code will take a little less than 10 minutes to run and give the output.
