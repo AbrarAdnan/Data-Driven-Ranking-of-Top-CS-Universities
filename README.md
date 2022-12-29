@@ -38,24 +38,26 @@ https://github.com/AbrarAdnan/Week-6-Project.git
 ```
 3. Initialize and activate the virtual environment
 
-    Windows: 
+Windows: 
 ```bash
 virtualenv venv
 venv\Scripts\activate
 ```
-    Linux:
+Linux:
 ```bash
 virtualenv --no-site-packages  venv
 source venv/bin/activate
 ```
 4. Install Dependencies
 ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
    
 5. Run the scraper
 ```bash
-   python scraper.py --chromedriver_path <Location to the chromedriver>
+python scraper.py --chromedriver_path <Location to the chromedriver>
 ```
    eg. python scraper.py --chromedriver_path "C:\Users\Adnan\Desktop\chromedriver.exe"
+6. After the script has finished running it'll save a our scraped data into file called best_uni_list.csv in the project directory.
+7. 
 
