@@ -12,7 +12,7 @@ Computer Acrhitecture, Computer Networks, Computer Security, Operating Systems, 
 We took the ranking of the whole world from the year 2000 to 2022. In our search we found a little less then 500 universities.
 
 The raw data scraped from the website looked like this
-<INSERT IMAGE OF CSV FILE>
+INSERT IMAGE OF CSV FILE
 
 We used our scraped data to find answers to some questions.
 1. Top 10 universities are best in ranking (along with their country name).
