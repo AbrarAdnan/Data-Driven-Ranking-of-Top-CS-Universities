@@ -28,4 +28,34 @@ we found out that
 4. The ranking of universities are highly correlated with the count and faculty number
 
 ## How to build the source code and run it
-TBA
+
+
+1. Open command prompt(windows) or termial(Linux) and additionally you can go to a directory of your choice after opening it
+
+2. Clone the repository in your pc with this code git clone 
+```bash
+https://github.com/AbrarAdnan/Week-6-Project.git
+```
+3. Initialize and activate the virtual environment
+
+    Windows: 
+```bash
+virtualenv venv
+venv\Scripts\activate
+```
+    Linux:
+```bash
+virtualenv --no-site-packages  venv
+source venv/bin/activate
+```
+4. Install Dependencies
+```bash
+   pip install -r requirements.txt
+```
+   
+5. Run the scraper
+```bash
+   python scraper.py --chromedriver_path <Location to the chromedriver>
+```
+   eg. python scraper.py --chromedriver_path "C:\Users\Adnan\Desktop\chromedriver.exe"
+
