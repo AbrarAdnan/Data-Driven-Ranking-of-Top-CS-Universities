@@ -12,7 +12,9 @@ Computer Acrhitecture, Computer Networks, Computer Security, Operating Systems, 
 We took the ranking of the whole world from the year 2000 to 2022. In our search we found a little less then 500 universities.
 
 The raw data scraped from the website looked like this
-INSERT IMAGE OF CSV FILE
+<br>
+![image](https://user-images.githubusercontent.com/52294804/209989670-7b18be8a-5922-4c5d-bcb5-04109728c44a.png)
+<br>
 
 We used our scraped data to find answers to some questions.
 1. Top 10 universities are best in ranking (along with their country name).
@@ -21,6 +23,7 @@ We used our scraped data to find answers to some questions.
 4. Correlation of ranking of universities with count and faculty number.
 
 ## From our findings in [Tableau](https://public.tableau.com/app/profile/abrar.faiaz.adnan/viz/CSrankingsdemoproject/Dashboard1?publish=yes)
+![image](https://user-images.githubusercontent.com/52294804/209989293-866157c5-3527-4bc3-8970-421700e33241.png)
 we found out that
 1. American Universities have highest ranks with Carnegie Mellon University scoring the highest rank.
 2. America has the highest number of universities with 172 leaving other countries in far off. Our 2nd place holder was Germany with 57 Universities
@@ -43,7 +46,7 @@ Windows:
 virtualenv venv
 venv\Scripts\activate
 ```
-Linux:
+MAC/Linux:
 ```bash
 virtualenv --no-site-packages  venv
 source venv/bin/activate
@@ -59,5 +62,9 @@ python scraper.py --chromedriver_path <Location to the chromedriver>
 ```
    eg. python scraper.py --chromedriver_path "C:\Users\Adnan\Desktop\chromedriver.exe"
 6. After the script has finished running it'll save a our scraped data into file called best_uni_list.csv in the project directory.
-7. 
 
+# Notes
+1. The chromedriver file is included in the repository
+2. The code needs python to run. Download python from here [Windows](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe) [Linux](https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz) [MAC OS](https://www.python.org/ftp/python/3.11.0/python-3.11.0-macos11.pkg)
+3. While running the code a window of chrome will appear. You can see the website it's working on in real time. You can check the console/terminal to get an more of what it's doing in real time through the output messages.
+4. The code will take a little less than 10 minutes to run and give the output.
