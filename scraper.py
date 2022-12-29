@@ -43,12 +43,13 @@ def getCountry(c):
 
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--chromedriver_path', type=str)
+    start_time = time.time()
+    parser = argparse.ArgumentParser(description="Please specify a chromedriver path. For more information please refer to the documentation here https://github.com/AbrarAdnan/Week-6-Project/blob/master/README.md#how-to-build-the-source-code-and-run-it")
+    parser.add_argument('--chromedriver_path', type=str, required=True)
     args = parser.parse_args()
 
-    if args.chromedriver_path is None:
-        parser.error("Please specify a chromedriver path")
+    #if args.chromedriver_path is None:
+    #    parser.error("Please specify a chromedriver path. For more information please refer to the documentation here https://github.com/AbrarAdnan/Week-6-Project/blob/master/README.md#how-to-build-the-source-code-and-run-it")
 
     webdriver_path = args.chromedriver_path
     
@@ -60,7 +61,7 @@ def main():
     #ADBLOCK
     sponsor = driver.find_element(By.XPATH, '//*[@id="sponsor"]/button[2]')
     if sponsor.is_displayed():
-        print("==========Blocked a popup Ad===========")
+        print("==========Blocked a popup Ad==========")
         sponsor.click()
         time.sleep(3)
     # Get table of a region
@@ -68,7 +69,7 @@ def main():
     options = region.find_elements(By.TAG_NAME, "option")
     for option in options:
         if option.text == "the world":
-            print("==========The World=============")
+            print("==========Selected region: The World==========")
             time.sleep(3)
             option.click()
 
@@ -77,7 +78,7 @@ def main():
     years = timeline.find_elements(By.TAG_NAME, "option")
     for year in years:
         if year.text == "2000":
-            print("==========2000=============")
+            print("==========Selected year: 2000==========")
             time.sleep(3)
             year.click()
     # Deselect all topics of focus
@@ -104,12 +105,12 @@ def main():
     soft = driver.find_element(By.XPATH,'//*[@id="soft"]')
     soft.click()
     time.sleep(1)
-    print("===========Selected subjects=========")
+    print("==========Selected subjects==========")
 
     # Scroll the table to load it fully
     scrollbar = driver.find_element(By.XPATH, '//*[@id="success"]/div')
     driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight", scrollbar)
-    print("==========Scroll===========")
+    print("==========Loaded all the university in the table==========")
     time.sleep(3)
 
     # Scrap data from the table into a variable and clean it
@@ -128,6 +129,10 @@ def main():
 
     df = pd.DataFrame(uni_list,columns=columns)
     df.to_csv("best_uni_list.csv")
+    print('Sucess: Saved the output data in the best_uni_list.csv file')
+    end_time = time.time()
+    time_taken = end_time-start_time
+    print(f"Time taken: {time_taken / 60} minutes")
 
 if __name__ == "__main__":
     main()
