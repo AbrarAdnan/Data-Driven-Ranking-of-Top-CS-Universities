@@ -12,7 +12,7 @@ Computer Acrhitecture, Computer Networks, Computer Security, Operating Systems, 
 We took the ranking of the whole world from the year 2000 to 2022. In our search we found a little less then 500 universities.
 
 The raw data scraped from the website looked like this
-INSERT IMAGE OF CSV FILE
+
 
 We used our scraped data to find answers to some questions.
 1. Top 10 universities are best in ranking (along with their country name).
@@ -21,6 +21,7 @@ We used our scraped data to find answers to some questions.
 4. Correlation of ranking of universities with count and faculty number.
 
 ## From our findings in [Tableau](https://public.tableau.com/app/profile/abrar.faiaz.adnan/viz/CSrankingsdemoproject/Dashboard1?publish=yes)
+![image](https://user-images.githubusercontent.com/52294804/209989293-866157c5-3527-4bc3-8970-421700e33241.png)
 we found out that
 1. American Universities have highest ranks with Carnegie Mellon University scoring the highest rank.
 2. America has the highest number of universities with 172 leaving other countries in far off. Our 2nd place holder was Germany with 57 Universities
