@@ -43,7 +43,7 @@ Windows:
 virtualenv venv
 venv\Scripts\activate
 ```
-Linux:
+MAC/Linux:
 ```bash
 virtualenv --no-site-packages  venv
 source venv/bin/activate
@@ -59,5 +59,7 @@ python scraper.py --chromedriver_path <Location to the chromedriver>
 ```
    eg. python scraper.py --chromedriver_path "C:\Users\Adnan\Desktop\chromedriver.exe"
 6. After the script has finished running it'll save a our scraped data into file called best_uni_list.csv in the project directory.
-7. 
 
+# Notes
+1. The chromedriver file is included in the repository
+2. The code needs python to run. Download python from here [Windows](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe) [Linux](https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz) [MAC OS](https://www.python.org/ftp/python/3.11.0/python-3.11.0-macos11.pkg)
