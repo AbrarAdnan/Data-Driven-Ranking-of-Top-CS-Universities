@@ -13,7 +13,7 @@ To gather the data, we used a Python script and the [Selenium](https://selenium-
 We used our scraped data to answer the following questions:
 
 1. What are the top 10 universities in terms of ranking?
-2. What are the top 10 countries with the most number of publications(i.e. count score)?
+2. What are the top 10 countries with the most number of publications (i.e. count score)?
 3. What are the top 10 countries with most universities?
 4. Is there any correlation between the ranking of universities and the count and faculty number?
 
