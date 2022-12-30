@@ -37,7 +37,7 @@ Check the interactive [Tableau dashboard](https://public.tableau.com/app/profile
 ```bash
 git clone https://github.com/AbrarAdnan/University-data-scraper.git
 ```
-3. Initialize and activate the virtual environment
+3. Initialize and activate the virtual environment after navigating into the project folder
 
 On Windows:
 ```bash
