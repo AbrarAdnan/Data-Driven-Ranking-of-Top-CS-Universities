@@ -1,6 +1,6 @@
 # Statistical Analysis of Top CS Universities
 
-## Problem Statement
+## Introduction
 The goal of this project was to gather and analyze data on the top computer science institutions around the world, as ranked by the website [CS Rankings](https://csrankings.org/#/index?all&world) which is a metrics-based ranking of top computer science institutions around the world. The data we gathered includes information about university rankings, the count of geometric mean papers published across all areas, and the number of faculty members who have published papers in our areas of concern (Computer Architecture, Computer Networks, Computer Security, Operating Systems, Programming Languages, and Software Engineering). We took the ranking of the whole world from 2000 to 2022 and found approximately 500 universities.
 
 ## Data Collection
@@ -21,7 +21,7 @@ We used our scraped data to answer the following questions:
 We used [Tableau](https://public.tableau.com/app/profile/abrar.faiaz.adnan/viz/CSrankingsdemoproject/Dashboard1?publish=yes) to visualize and analyze our data. Some of our findings include:
 1. American universities have the highest ranks, with Carnegie Mellon University having the highest rank.
 2. America has the highest number of universities (172), followed by Germany (57 universities).
-3. The average ranking of the top universities in Brazil, Norway, Finland, Czech Republic, Hungary, Malta, Greece,      Turkey, Iran, and UAE is over 300.
+3. The average ranking of the top universities in Brazil, Norway, Finland, Czech Republic, Hungary, Malta, Greece, Turkey, Iran, and UAE is over 300.
 4. There is a strong correlation between the ranking of universities and the count and number of faculty members.
 
 ![image](https://user-images.githubusercontent.com/52294804/209989293-866157c5-3527-4bc3-8970-421700e33241.png)
