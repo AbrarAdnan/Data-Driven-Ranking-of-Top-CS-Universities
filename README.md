@@ -1,52 +1,49 @@
-# Statistical analysis of top CS Universities
+# Statistical Analysis of Top CS Universities
 
 ## Problem Statement
-The goal of the project is to gather data from the website [CS Rankings](https://csrankings.org/#/index?all&world)<br/>
-This is a metrics-based ranking of top computer science institutions around the world.
+The goal of this project was to gather and analyze data on the top computer science institutions around the world, as ranked by the website [CS Rankings](https://csrankings.org/#/index?all&world)<br/>
+which is a metrics-based ranking of top computer science institutions around the world. The data we gathered includes information about university rankings, the count of geometric mean papers published across all areas, and the number of faculty members who have published papers in our areas of concern (Computer Architecture, Computer Networks, Computer Security, Operating Systems, Programming Languages, and Software Engineering). We took the ranking of the whole world from 2000 to 2022 and found approximately 500 universities.
 
-The data we gathered are the information of the university rankings, 
-count(Geometric mean count of papers published across all areas)
-and number of faculties published papers in our areas of concern.
-We chose these area of topics 
-Computer Acrhitecture, Computer Networks, Computer Security, Operating Systems, Programming Languages and Software Engineering
-We took the ranking of the whole world from the year 2000 to 2022. In our search we found a little less then 500 universities.
-
-The raw data scraped from the website looked like this
+## Data Collection
+To gather the data, we used a Python script and the Selenium library to scrape the CS Rankings website. An example of the raw data obtained from the website is shown below:
 <br>
 ![image](https://user-images.githubusercontent.com/52294804/209989670-7b18be8a-5922-4c5d-bcb5-04109728c44a.png)
 <br>
 
-We used our scraped data to find answers to some questions.
-1. Top 10 universities are best in ranking (along with their country name).
-2. Top 10 countries with most number of universities
-3. Average ranking of universities of all countries
-4. Correlation of ranking of universities with count and faculty number.
+## Data Analysis
+We used our scraped data to answer the following questions:
 
-## From our findings in [Tableau](https://public.tableau.com/app/profile/abrar.faiaz.adnan/viz/CSrankingsdemoproject/Dashboard1?publish=yes)
+1. What are the top 10 universities in terms of ranking (along with their country names)?
+2. What are the top 10 countries with the most number of universities?
+3. What is the average ranking of universities in all countries?
+4. Is there a correlation between the ranking of universities and the count and faculty number?
+
+## Findings
+We used [Tableau](https://public.tableau.com/app/profile/abrar.faiaz.adnan/viz/CSrankingsdemoproject/Dashboard1?publish=yes) to visualize and analyze our data. Some of our findings include:
+1. American universities have the highest ranks, with Carnegie Mellon University having the highest rank.
+2. America has the highest number of universities (172), followed by Germany (57 universities).
+3. The average ranking of the top universities in Brazil, Norway, Finland, Czech Republic, Hungary, Malta, Greece,      Turkey, Iran, and UAE is over 300.
+4. There is a strong correlation between the ranking of universities and the count and number of faculty members.
+
 ![image](https://user-images.githubusercontent.com/52294804/209989293-866157c5-3527-4bc3-8970-421700e33241.png)
-we found out that
-1. American Universities have highest ranks with Carnegie Mellon University scoring the highest rank.
-2. America has the highest number of universities with 172 leaving other countries in far off. Our 2nd place holder was Germany with 57 Universities
-3. In average rankings of the top universities per country Brazil, Norway, Finland,Czech Republic, Hungary, Malta, Greece, Turkey, Iran, UAE has average rating of over 300
-4. The ranking of universities are highly correlated with the count and faculty number
 
-## How to build the source code and run it
+## Building and Running the Source Code
 
 
-1. Open command prompt(windows) or termial(Linux) and additionally you can go to a directory of your choice after opening it
+1. Open the command prompt (Windows) or terminal (Linux/Mac) and navigate to the desired directory.
 
-2. Clone the repository in your pc with this code git clone 
+2. Clone the repository on your computer using the following command:
 ```bash
 https://github.com/AbrarAdnan/Week-6-Project.git
 ```
 3. Initialize and activate the virtual environment
 
-Windows: 
+On Windows:
 ```bash
 virtualenv venv
 venv\Scripts\activate
 ```
-MAC/Linux:
+On Mac/Linux:
 ```bash
 virtualenv --no-site-packages  venv
 source venv/bin/activate
@@ -60,11 +57,11 @@ pip install -r requirements.txt
 ```bash
 python scraper.py --chromedriver_path <Location to the chromedriver>
 ```
-   eg. python scraper.py --chromedriver_path "C:\Users\Adnan\Desktop\chromedriver.exe"
-6. After the script has finished running it'll save a our scraped data into file called best_uni_list.csv in the project directory.
+For example: `python scraper.py --chromedriver_path "C:\Users\Adnan\Desktop\chromedriver.exe"`
+6. After the script has finished running, it will save the scraped data in a file called best_uni_list.csv in the project directory.
 
 # Notes
 1. The chromedriver file is included in the repository
-2. The code needs python to run. Download python from here [Windows](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe) [Linux](https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz) [MAC OS](https://www.python.org/ftp/python/3.11.0/python-3.11.0-macos11.pkg)
-3. While running the code a window of chrome will appear. You can see the website it's working on in real time. You can check the console/terminal to get an more of what it's doing in real time through the output messages.
-4. The code will take a little less than 10 minutes to run and give the output.
+2. The code needs python to run. Download python for [Windows](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe), [Linux](https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz) or [MAC OS](https://www.python.org/ftp/python/3.11.0/python-3.11.0-macos11.pkg).
+3. While running the code, a window of Chrome will appear. You can see the website it is working on in real time. You can also check the console/terminal for additional output messages to get a better understanding of what is happening in real time.
+4. The code will take approximately 10 minutes to run and produce output.
