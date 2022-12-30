@@ -37,7 +37,12 @@ Check the interactive [Tableau dashboard](https://public.tableau.com/app/profile
 ```bash
 git clone https://github.com/AbrarAdnan/University-data-scraper.git
 ```
-3. Initialize and activate the virtual environment after navigating into the project folder
+
+3. Navigate to the downloaded project folder\
+```bash
+cd University-data-scraper
+```
+4. Initialize and activate the virtual environment after navigating into the project folder
 
 On Windows:
 ```bash
@@ -49,17 +54,17 @@ On Mac/Linux:
 virtualenv --no-site-packages  venv
 source venv/bin/activate
 ```
-4. Install Dependencies
+5. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
    
-5. Run the scraper
+6. Run the scraper
 ```bash
 python scraper.py --chromedriver_path <Location to the chromedriver>
 ```
 For example: `python scraper.py --chromedriver_path "C:\Users\Adnan\Desktop\chromedriver.exe"`
-6. After the script has finished running, it will save the scraped data in a file called best_uni_list.csv in the project directory.
+7. After the script has finished running, it will save the scraped data in a file called best_uni_list.csv in the project directory.
 
 # Notes
 1. The chromedriver file is included in the repository
