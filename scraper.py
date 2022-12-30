@@ -57,7 +57,7 @@ def getCountry(c):
 def main():
     start_time = time.time()
     # Create the parser
-    #parser = argparse.ArgumentParser(description="Specify a chromedriver path. For more information, see the documentation at https://github.com/AbrarAdnan/Week-6-Project/blob/master/README.md#how-to-build-the-source-code-and-run-it")
+    #parser = argparse.ArgumentParser(description="Specify a chromedriver path. For more information, see the documentation at https://github.com/AbrarAdnan/University-data-scraper/blob/master/README.md#building-and-running-the-source-code")
     parser = argparse.ArgumentParser()
     # Add the chromedriver path argument
     parser.add_argument("--chromedriver_path", type=str, help="Path to the chromedriver executable")
