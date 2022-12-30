@@ -5,24 +5,26 @@ The goal of this project was to gather and analyze data on the top computer scie
 
 ## Data Collection
 To gather the data, we used a Python script and the [Selenium](https://selenium-python.readthedocs.io/) library to scrape the CS Rankings website. An example of the raw data obtained from the website is shown below:
-<br>
+<br><br>
 ![image](https://user-images.githubusercontent.com/52294804/209989670-7b18be8a-5922-4c5d-bcb5-04109728c44a.png)
 <br>
 
 ## Data Analysis
 We used our scraped data to answer the following questions:
 
-1. What are the top 10 universities in terms of ranking (along with their country names)?
-2. What are the top 10 countries with the most number of universities?
-3. What is the average ranking of universities in all countries?
-4. Is there a correlation between the ranking of universities and the count and faculty number?
+1. What are the top 10 universities in terms of ranking?
+2. What are the top 10 countries with the most number of publications(i.e. count score)?
+3. What are the top 10 countries with most universities?
+4. Is there any correlation between the ranking of universities and the count and faculty number?
 
 ## Findings
 We used [Tableau](https://public.tableau.com/app/profile/abrar.faiaz.adnan/viz/CSrankingsdemoproject/Dashboard1?publish=yes) to visualize and analyze our data. Some of our findings include:
 1. American universities have the highest ranks, with Carnegie Mellon University having the highest rank.
-2. America has the highest number of universities (172), followed by Germany (57 universities).
-3. The average ranking of the top universities in Brazil, Norway, Finland, Czech Republic, Hungary, Malta, Greece, Turkey, Iran, and UAE is over 300.
-4. There is a strong correlation between the ranking of universities and the count and number of faculty members.
+2. America has highest number of publication score with other countries at weighing at one sixth of America's publication points.
+3. America takes the first position by a huge margin with 172 universities, followed by Germany with 57 universities.
+4. There is a strong correlation between the ranking and the count score but relatively weaker correlation between rank and the number of faculty members.
+
+Check the interactive [Tableau dashboard](https://public.tableau.com/app/profile/abrar.faiaz.adnan/viz/CSrankingsdemoproject/Dashboard1?publish=yes) to get more information of each datapoint
 
 ![image](https://user-images.githubusercontent.com/52294804/209989293-866157c5-3527-4bc3-8970-421700e33241.png)
 
