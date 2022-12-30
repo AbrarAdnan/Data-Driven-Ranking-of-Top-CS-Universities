@@ -1,11 +1,10 @@
 # Statistical Analysis of Top CS Universities
 
 ## Problem Statement
-The goal of this project was to gather and analyze data on the top computer science institutions around the world, as ranked by the website [CS Rankings](https://csrankings.org/#/index?all&world)<br/>
-which is a metrics-based ranking of top computer science institutions around the world. The data we gathered includes information about university rankings, the count of geometric mean papers published across all areas, and the number of faculty members who have published papers in our areas of concern (Computer Architecture, Computer Networks, Computer Security, Operating Systems, Programming Languages, and Software Engineering). We took the ranking of the whole world from 2000 to 2022 and found approximately 500 universities.
+The goal of this project was to gather and analyze data on the top computer science institutions around the world, as ranked by the website [CS Rankings](https://csrankings.org/#/index?all&world) which is a metrics-based ranking of top computer science institutions around the world. The data we gathered includes information about university rankings, the count of geometric mean papers published across all areas, and the number of faculty members who have published papers in our areas of concern (Computer Architecture, Computer Networks, Computer Security, Operating Systems, Programming Languages, and Software Engineering). We took the ranking of the whole world from 2000 to 2022 and found approximately 500 universities.
 
 ## Data Collection
-To gather the data, we used a Python script and the Selenium library to scrape the CS Rankings website. An example of the raw data obtained from the website is shown below:
+To gather the data, we used a Python script and the [Selenium](https://selenium-python.readthedocs.io/) library to scrape the CS Rankings website. An example of the raw data obtained from the website is shown below:
 <br>
 ![image](https://user-images.githubusercontent.com/52294804/209989670-7b18be8a-5922-4c5d-bcb5-04109728c44a.png)
 <br>
