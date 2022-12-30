@@ -66,4 +66,4 @@ For example: `python scraper.py --chromedriver_path "C:\Users\Adnan\Desktop\chro
 2. The code needs python to run. Download python for [Windows](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe), [Linux](https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz) or [MAC OS](https://www.python.org/ftp/python/3.11.0/python-3.11.0-macos11.pkg).
 3. While running the code, a window of Chrome will appear. You can see the website it is working on in real time. You can also check the console/terminal for additional output messages to get a better understanding of what is happening in real time.
 4. The code will take approximately 10 minutes to run and produce output.
-5. While loading the csv file into tableau, Taiwan needs to be identified manually or it'll not be recognized with tableau's country database.
+5. While loading the csv file into tableau, Taiwan needs to be identified manually or it'll not be recognized with Tableau's country database.
