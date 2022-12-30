@@ -26,7 +26,7 @@ We used [Tableau](https://public.tableau.com/app/profile/abrar.faiaz.adnan/viz/C
 
 Check the interactive [Tableau dashboard](https://public.tableau.com/app/profile/abrar.faiaz.adnan/viz/CSrankingsdemoproject/Dashboard1?publish=yes) to get more information of each datapoint
 
-![image](https://user-images.githubusercontent.com/52294804/209989293-866157c5-3527-4bc3-8970-421700e33241.png)
+![image](https://user-images.githubusercontent.com/52294804/210097706-6a95e8ec-61d4-4d91-ad24-d11d5f7bb02a.png)
 
 ## Building and Running the Source Code
 
