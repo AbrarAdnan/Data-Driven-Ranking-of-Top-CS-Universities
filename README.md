@@ -33,7 +33,7 @@ We used [Tableau](https://public.tableau.com/app/profile/abrar.faiaz.adnan/viz/C
 
 2. Clone the repository on your computer using the following command:
 ```bash
-https://github.com/AbrarAdnan/Week-6-Project.git
+git clone https://github.com/AbrarAdnan/University-data-scraper-.git
 ```
 3. Initialize and activate the virtual environment
 
