@@ -106,6 +106,16 @@ def main():
                 print(">>>Selected year: 2000")
                 time.sleep(3)
                 year.click()
+
+        # Get table of a region
+        region = driver.find_element(By.XPATH, '//*[@id="regions"]')
+        options = region.find_elements(By.TAG_NAME, "option")
+        for option in options:
+            if option.text == "the world":
+                print(">>>Selected region: The world")
+                time.sleep(3)
+                option.click()
+        
         # Find the "deselect all" button for the topic of focus
         all_button = driver.find_element(By.XPATH, "//*[@id='all_areas_off']")
         # Click the button to deselect all topics
@@ -113,7 +123,7 @@ def main():
         time.sleep(5)
     except Exception as e:
         # Print an error message if an exception occurs
-        print("An error occurred while selecting the year range and deselecting all topics:", e)
+        print("An error occurred while selecting the year range, region and deselecting all topics:", e)
         sys.exit(1)
 
     try:
@@ -165,16 +175,11 @@ def main():
         
         print(">>>Raw data of universities found will be shown in real time below")
         # Iterate through the rows and get the country name for each row
-        tick = 0
         for row in rows:
             if row.text:
-                tick = tick + 1
-                
                 print(row.text)
                 country_name = getCountry(row)
                 uni_list.append(cleanup(row.text, country_name))
-                if tick == 10:
-                    break
 
     except Exception as e:
         # Print an error message if an exception occurs
