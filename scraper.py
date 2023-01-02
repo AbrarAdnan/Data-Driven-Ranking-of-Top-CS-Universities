@@ -213,6 +213,7 @@ def main():
         # Print an error message if an exception occurs
         print("An error occurred while saving the output data:", e)
         sys.exit(1)
+    driver.close()
 
 if __name__ == "__main__":
     main()
