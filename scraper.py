@@ -56,20 +56,31 @@ def getCountry(c):
 
 def main():
     start_time = time.time()
+    
     # Create the parser
     parser = argparse.ArgumentParser()
-    # Add the chromedriver path argument
-    parser.add_argument("--chromedriver_path", type=str, help="Path to the chromedriver executable")
+
+    # Add the browser argument
+    parser.add_argument("--browser", default="firefox", type=str, help="choose your browser")
 
     # Parse the command-line arguments
     args = parser.parse_args()
 
-    # Get the chromedriver path
-    webdriver_path = args.chromedriver_path
+    # Get the browser choice
+    browser = args.browser.lower()
     
     try:
-        # Create a Chrome webdriver
-        driver = webdriver.Chrome(webdriver_path)
+        # Create a webdriver
+        if browser == 'firefox':
+            driver = webdriver.Firefox()
+        elif browser == 'edge':
+            driver = webdriver.Edge()
+        elif browser == 'chrome':
+            driver = webdriver.Chrome()
+        else:
+            raise ValueError("Invalid browser choice. Choose 'firefox', 'edge', or 'chrome'.")
+
+        
 
         # Set the url to visit
         url = f"https://csrankings.org/#/index?all&world"
@@ -79,7 +90,7 @@ def main():
     
     except Exception as e:
         # Print an error message and exit if an exception occurs
-        print("An error occurred with chromedriver, Please run the script again", e)
+        print("An error occurred with web driver, Please run the script again", e)
         sys.exit(1)
 
     # Block the sponsor popup if it appears randomly
