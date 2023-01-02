@@ -40,7 +40,7 @@ git clone https://github.com/AbrarAdnan/Data-Driven-Ranking-of-Top-CS-Universiti
 
 3. Navigate to the downloaded project folder\
 ```bash
-cd University-data-scraper
+cd Data-Driven-Ranking-of-Top-CS-Universities
 ```
 4. Initialize and activate the virtual environment after navigating into the project folder
 
