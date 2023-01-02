@@ -63,8 +63,9 @@ pip install -r requirements.txt
 ```bash
 python scraper.py
 ```
-(OPTIONAL)You can add an argument to choose your desired browser for scraping.
+(OPTIONAL) You can add an argument to choose your desired browser for scraping.<br>
 For example: python scraper.py --browser firefox
+<br>
 You can put firefox chrome or edge as a choice but firefox has faster scraping speed and it's used by default
 
 7. After the script has finished running, it will save the scraped data in a file called best_uni_list.csv in the project directory.
