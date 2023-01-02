@@ -35,7 +35,7 @@ Check the interactive [Tableau dashboard](https://public.tableau.com/app/profile
 
 2. Clone the repository on your computer using the following command:
 ```bash
-git clone https://github.com/AbrarAdnan/University-data-scraper.git
+git clone https://github.com/AbrarAdnan/Data-Driven-Ranking-of-Top-CS-Universities.git
 ```
 
 3. Navigate to the downloaded project folder\
