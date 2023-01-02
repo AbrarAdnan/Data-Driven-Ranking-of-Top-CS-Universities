@@ -63,8 +63,8 @@ pip install -r requirements.txt
 ```bash
 python scraper.py --chromedriver_path <Location to the chromedriver>
 ```
-For example: `python scraper.py --chromedriver_path "C:\Users\Adnan\Desktop\chromedriver.exe"`
-<br>
+For example: python scraper.py --chromedriver_path "C:\Users\Adnan\Desktop\chromedriver.exe"
+
 7. After the script has finished running, it will save the scraped data in a file called best_uni_list.csv in the project directory.
 
 # Notes
