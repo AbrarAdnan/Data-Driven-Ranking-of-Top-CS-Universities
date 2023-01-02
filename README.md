@@ -1,4 +1,4 @@
-# Statistical Analysis of Top CS Universities
+# Data-Driven Ranking of Top CS Universities
 
 ## Introduction
 The goal of this project was to gather and analyze data on the top computer science institutions around the world, as ranked by the website [CS Rankings](https://csrankings.org/#/index?all&world) which is a metrics-based ranking of top computer science institutions around the world. The data we gathered includes information about university rankings, the count of geometric mean papers published across all areas, and the number of faculty members who have published papers in our areas of concern (Computer Architecture, Computer Networks, Computer Security, Operating Systems, Programming Languages, and Software Engineering). We took the ranking of the whole world from 2000 to 2022 and found approximately 500 universities.
