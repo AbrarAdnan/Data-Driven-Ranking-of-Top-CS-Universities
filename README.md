@@ -61,9 +61,11 @@ pip install -r requirements.txt
    
 6. Run the scraper
 ```bash
-python scraper.py --chromedriver_path <Location to the chromedriver>
+python scraper.py
 ```
-For example: python scraper.py --chromedriver_path "C:\Users\Adnan\Desktop\chromedriver.exe"
+(OPTIONAL)You can add an argument to choose your desired browser for scraping.
+For example: python scraper.py --browser firefox
+You can put firefox chrome or edge as a choice but firefox has faster scraping speed and it's used by default
 
 7. After the script has finished running, it will save the scraped data in a file called best_uni_list.csv in the project directory.
 
