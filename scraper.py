@@ -8,8 +8,10 @@ import argparse
 import sys
 
 
-columns = ['Rank', 'University Name', 'Country', 'Count', 'Faculty']
+uni_columns = ['Rank', 'University Name', 'Country', 'Count', 'Faculty']
 uni_list = []
+faculty_columns = ['Faculty Name' , 'University Name' , 'Publications' , 'Adj']
+faculty_list = []
 
 def cleanup(uni_string,country):
     # Cleans up the string with the country name, university name, rank
@@ -187,9 +189,33 @@ def main():
         # Iterate through the rows and get the country name for each row
         for row in rows:
             if row.text:
-                print(row.text)
-                country_name = getCountry(row)
-                uni_list.append(cleanup(row.text, country_name))
+                if '►' in row.text:
+                    country_name = getCountry(row)
+                    uni_list.append(cleanup(row.text, country_name))
+                    rank, uni_name, country, count, faculty = cleanup(row.text, country_name)
+                    print(uni_name)
+                    
+                    
+                    # find the button in the row
+                    btns = row.find_element(By.CSS_SELECTOR, "table td span.hovertip")
+                    # click the button
+                    btns.click()
+                # check if the row text does not contain the icon '►'
+                elif '►' not in row.text:
+                    if len(row.text) > 100:
+                        continue
+                        
+                    # split the string on the whitespace character
+                    parts = row.text.split()
+                    name = parts[0] + ' ' + parts[1]
+                    pub = parts[-2]
+                    adj = parts[-1]
+                    #print(row.text)
+                    if(name=='Faculty #'):
+                        continue
+                    faculty = [name,uni_name,pub,adj]
+                    print(name+','+uni_name+','+ pub + ','+ adj)
+                    faculty_list.append(faculty)
 
     except Exception as e:
         # Print an error message if an exception occurs
@@ -198,11 +224,15 @@ def main():
 
     try:
         # Create a DataFrame from the list of university data
-        df = pd.DataFrame(uni_list, columns=columns)
+        uni_df = pd.DataFrame(uni_list, columns=uni_columns)
+        faculty_df = pd.DataFrame(faculty_list, columns=faculty_columns)
         
         # Save the DataFrame to a CSV file
-        df.to_csv("best_uni_list.csv")
+        uni_df.to_csv("best_uni_list.csv")
         print('Sucess: Saved the output data in the best_uni_list.csv file')
+
+        faculty_df.to_csv("best_uni_faculty_list.csv")
+        print('Sucess: Saved the output data in the best_uni_faculty_list.csv file')
         
         # Calculate the total time taken to run the script
         end_time = time.time()

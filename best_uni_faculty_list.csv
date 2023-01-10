@@ -1,0 +1,3902 @@
+,Faculty Name,University Name,Publications,Adj
+0,Vyas Sekar,Carnegie Mellon University,44,8.3
+1,Elaine Shi,Carnegie Mellon University,38,9.3
+2,Christian Kästner,Carnegie Mellon University,34,8
+3,David G.,Carnegie Mellon University,30,6.6
+4,Bryan Parno,Carnegie Mellon University,30,5.9
+5,Srinivasan Seshan,Carnegie Mellon University,28,5.8
+6,David Brumley,Carnegie Mellon University,26,7.5
+7,Brandon Lucia,Carnegie Mellon University,26,8.7
+8,Phillip B.,Carnegie Mellon University,25,4.4
+9,Gregory R.,Carnegie Mellon University,23,4.5
+10,Bogdan Vasilescu,Carnegie Mellon University,20,4.7
+11,Nicolas Christin,Carnegie Mellon University,18,4.1
+12,Todd C.,Carnegie Mellon University,18,3.4
+13,Umut A.,Carnegie Mellon University,16,4.2
+14,Nathan Beckmann,Carnegie Mellon University,16,4.1
+15,James D.,Carnegie Mellon University,16,5.9
+16,Robert Harper,Carnegie Mellon University,15,5.6
+17,Jan Hoffmann,Carnegie Mellon University,15,4.9
+18,Dimitrios Skarlatos,Carnegie Mellon University,14,2.5
+19,Anupam Datta,Carnegie Mellon University,14,3.4
+20,Justine Sherry,Carnegie Mellon University,14,2.7
+21,Guy E.,Carnegie Mellon University,13,4.2
+22,Lorrie Faith,Carnegie Mellon University,13,2.3
+23,Matt Fredrikson,Carnegie Mellon University,12,3.4
+24,James C.,Carnegie Mellon University,12,2.7
+25,Lujo Bauer,Carnegie Mellon University,11,2.2
+26,Claire Le,Carnegie Mellon University,11,3.2
+27,Swarun Kumar,Carnegie Mellon University,11,2.5
+28,Brad A.,Carnegie Mellon University,11,3.9
+29,Jonathan Aldrich,Carnegie Mellon University,10,2.9
+30,Peter Steenkiste,Carnegie Mellon University,10,2.2
+31,Karl Crary,Carnegie Mellon University,9,5.4
+32,Virgil D.,Carnegie Mellon University,9,3.1
+33,K. V.,Carnegie Mellon University,9,2.2
+34,Wenting Zheng,Carnegie Mellon University,8,1.6
+35,Yuvraj Agarwal,Carnegie Mellon University,7,1.5
+36,David Garlan,Carnegie Mellon University,7,1.9
+37,Zhihao Jia,Carnegie Mellon University,7,0.7
+38,Eunsuk Kang,Carnegie Mellon University,6,1.6
+39,Vipul Goyal,Carnegie Mellon University,5,1.3
+40,Mor Harchol-Balter,Carnegie Mellon University,5,1.2
+41,Vincent J.,Carnegie Mellon University,5,1.5
+42,Farnam Jahanian,Carnegie Mellon University,5,1.4
+43,Rohan Padhye,Carnegie Mellon University,5,1.5
+44,Frank Pfenning,Carnegie Mellon University,5,1.9
+45,Seth Copen,Carnegie Mellon University,4,1.4
+46,Mary Shaw,Carnegie Mellon University,4,1.1
+47,Travis D.,Carnegie Mellon University,3,0.5
+48,Randal E.,Carnegie Mellon University,3,0.5
+49,Laura A.,Carnegie Mellon University,3,0.9
+50,Jason I.,Carnegie Mellon University,3,0.6
+51,George Amvrosiadis,Carnegie Mellon University,2,0.5
+52,Yuanzhi Li,Carnegie Mellon University,2,0.2
+53,Diana Marculescu,Carnegie Mellon University,2,1
+54,Heather Miller,Carnegie Mellon University,2,0.3
+55,Graham Neubig,Carnegie Mellon University,2,0.3
+56,Bruno Sinopoli,Carnegie Mellon University,2,0.4
+57,Alessandro Acquisti,Carnegie Mellon University,1,0.3
+58,Luis von,Carnegie Mellon University,1,0.3
+59,Stephen D.,Carnegie Mellon University,1,0.3
+60,Tianqi Chen,Carnegie Mellon University,1,0.1
+61,Rayid Ghani,Carnegie Mellon University,1,0.3
+62,Pravesh Kothari,Carnegie Mellon University,1,0.3
+63,Maxim Likhachev,Carnegie Mellon University,1,0.2
+64,David R.,Carnegie Mellon University,1,0.3
+65,André Platzer,Carnegie Mellon University,1,0.2
+66,William L.,Carnegie Mellon University,1,0.5
+67,Nihar B.,Carnegie Mellon University,1,0.2
+68,Douglas C.,Carnegie Mellon University,1,0.3
+69,David P.,Carnegie Mellon University,1,0.5
+70,Hari Balakrishnan,Massachusetts Institute of Technology,51,13.5
+71,Martin C.,Massachusetts Institute of Technology,50,15.6
+72,M. Frans,Massachusetts Institute of Technology,48,10.6
+73,Nickolai Zeldovich,Massachusetts Institute of Technology,47,12
+74,Dina Katabi,Massachusetts Institute of Technology,41,11.9
+75,Daniel Sánchez,Massachusetts Institute of Technology,33,10.7
+76,Mohammad Alizadeh,Massachusetts Institute of Technology,33,5.7
+77,Srini Devadas,Massachusetts Institute of Technology,31,6.8
+78,Robert Tappan,Massachusetts Institute of Technology,31,7.4
+79,Saman P.,Massachusetts Institute of Technology,27,6.6
+80,Adam Chlipala,Massachusetts Institute of Technology,22,10.6
+81,Armando Solar-Lezama,Massachusetts Institute of Technology,19,5.6
+82,Christina Delimitrou,Massachusetts Institute of Technology,16,4
+83,Daniel Jackson,Massachusetts Institute of Technology,14,5.7
+84,Barbara Liskov,Massachusetts Institute of Technology,14,4
+85,Arvind arch,Massachusetts Institute of Technology,13,3.3
+86,Michael Carbin,Massachusetts Institute of Technology,13,3
+87,Manya Ghobadi,Massachusetts Institute of Technology,12,1.7
+88,Fadel Adib,Massachusetts Institute of Technology,11,3.6
+89,Adam Belay,Massachusetts Institute of Technology,10,1.9
+90,Samuel Madden,Massachusetts Institute of Technology,9,2.1
+91,Ronald L.,Massachusetts Institute of Technology,8,2.8
+92,Anant Agarwal,Massachusetts Institute of Technology,5,1.1
+93,David R.,Massachusetts Institute of Technology,5,1
+94,Jonathan Ragan-Kelley,Massachusetts Institute of Technology,5,1
+95,Vinod Vaikuntanathan,Massachusetts Institute of Technology,5,1.3
+96,Silvio Micali,Massachusetts Institute of Technology,3,0.7
+97,Devavrat Shah,Massachusetts Institute of Technology,3,0.7
+98,David K.,Massachusetts Institute of Technology,2,0.5
+99,Piotr Indyk,Massachusetts Institute of Technology,2,0.4
+100,Muriel Médard,Massachusetts Institute of Technology,2,0.4
+101,Nir Shavit,Massachusetts Institute of Technology,2,0.8
+102,Julian Shun,Massachusetts Institute of Technology,2,0.4
+103,Vivienne Sze,Massachusetts Institute of Technology,2,0.5
+104,Antonio Torralba,Massachusetts Institute of Technology,1,0.1
+105,Rob Miller,Massachusetts Institute of Technology,1,0.3
+106,Erik D.,Massachusetts Institute of Technology,1,0.1
+107,Frédo Durand,Massachusetts Institute of Technology,1,0.2
+108,John V.,Massachusetts Institute of Technology,1,0.2
+109,Nancy A.,Massachusetts Institute of Technology,1,0.3
+110,Daniela Rus,Massachusetts Institute of Technology,1,0.2
+111,Rahul Sarpeshkar,Massachusetts Institute of Technology,1,0.3
+112,Ryan Williams,Massachusetts Institute of Technology,1,0.3
+113,Josep Torrellas,Univ. of Illinois at Urbana-Champaign,86,23.5
+114,Nam Sung,Univ. of Illinois at Urbana-Champaign,35,7.1
+115,Christopher W.,Univ. of Illinois at Urbana-Champaign,34,6.6
+116,Sarita V.,Univ. of Illinois at Urbana-Champaign,24,6.8
+117,Darko Marinov,Univ. of Illinois at Urbana-Champaign,24,5.2
+118,Lingming Zhang,Univ. of Illinois at Urbana-Champaign,23,5.6
+119,Vikram S.,Univ. of Illinois at Urbana-Champaign,22,6
+120,Kirill Levchenko,Univ. of Illinois at Urbana-Champaign,22,3.7
+121,Wen-Mei W.,Univ. of Illinois at Urbana-Champaign,21,4.7
+122,P. Madhusudan,Univ. of Illinois at Urbana-Champaign,20,6.1
+123,Tianyin Xu,Univ. of Illinois at Urbana-Champaign,20,3
+124,Gang Wang,Univ. of Illinois at Urbana-Champaign,18,3.9
+125,Adam Bates,Univ. of Illinois at Urbana-Champaign,17,3.4
+126,Ling Ren,Univ. of Illinois at Urbana-Champaign,17,4.7
+127,Rakesh Kumar,Univ. of Illinois at Urbana-Champaign,17,4.1
+128,Brighten Godfrey,Univ. of Illinois at Urbana-Champaign,17,3.6
+129,Jian Huang,Univ. of Illinois at Urbana-Champaign,16,3.5
+130,Nikita Borisov,Univ. of Illinois at Urbana-Champaign,16,4.6
+131,Saugata Ghose,Univ. of Illinois at Urbana-Champaign,16,1.8
+132,Carl A.,Univ. of Illinois at Urbana-Champaign,16,3.7
+133,Sasa Misailovic,Univ. of Illinois at Urbana-Champaign,15,3.5
+134,Grigore Rosu,Univ. of Illinois at Urbana-Champaign,14,4.3
+135,Bo Li,Univ. of Illinois at Urbana-Champaign,12,1.9
+136,Andrew Miller,Univ. of Illinois at Urbana-Champaign,10,2.1
+137,Mahesh Viswanathan,Univ. of Illinois at Urbana-Champaign,10,3.1
+138,Deepak Vasisht,Univ. of Illinois at Urbana-Champaign,10,2.2
+139,Craig B.,Univ. of Illinois at Urbana-Champaign,10,4.2
+140,Saurabh Sinha,Univ. of Illinois at Urbana-Champaign,9,2.5
+141,Romit Roy,Univ. of Illinois at Urbana-Champaign,8,2.3
+142,Gagandeep Singh,Univ. of Illinois at Urbana-Champaign,7,1.9
+143,Reyhaneh Jabbarvand,Univ. of Illinois at Urbana-Champaign,7,2.2
+144,Radhika Mittal,Univ. of Illinois at Urbana-Champaign,7,1.2
+145,Ramnatthan Alagappan,Univ. of Illinois at Urbana-Champaign,6,1.1
+146,Yih-Chun Hu,Univ. of Illinois at Urbana-Champaign,6,1.2
+147,Roy H.,Univ. of Illinois at Urbana-Champaign,5,1.2
+148,Aishwarya Ganesan,Univ. of Illinois at Urbana-Champaign,5,0.9
+149,Ravishankar K.,Univ. of Illinois at Urbana-Champaign,5,1
+150,Steven S.,Univ. of Illinois at Urbana-Champaign,5,0.9
+151,David A.,Univ. of Illinois at Urbana-Champaign,5,1.7
+152,Charith Mendis,Univ. of Illinois at Urbana-Champaign,4,1
+153,Gul A.,Univ. of Illinois at Urbana-Champaign,3,1.1
+154,Deming Chen,Univ. of Illinois at Urbana-Champaign,3,0.4
+155,Lawrence Rauchwerger,Univ. of Illinois at Urbana-Champaign,3,1.3
+156,Alexander G.,Univ. of Illinois at Urbana-Champaign,3,0.5
+157,Jiawei Han,Univ. of Illinois at Urbana-Champaign,2,0.7
+158,Yang Wang,Univ. of Illinois at Urbana-Champaign,2,0.4
+159,Klara Nahrstedt,Univ. of Illinois at Urbana-Champaign,2,0.6
+160,Talia Ringer,Univ. of Illinois at Urbana-Champaign,2,0.5
+161,William H.,Univ. of Illinois at Urbana-Champaign,2,0.3
+162,Marc Snir,Univ. of Illinois at Urbana-Champaign,2,0.4
+163,Elahe Soltanaghai,Univ. of Illinois at Urbana-Champaign,2,0.4
+164,Jian Peng,Univ. of Illinois at Urbana-Champaign,1,0.1
+165,Saurabh Gupta,Univ. of Illinois at Urbana-Champaign,1,0.3
+166,Brian P.,Univ. of Illinois at Urbana-Champaign,1,0.2
+167,Gerald DeJong,Univ. of Illinois at Urbana-Champaign,1,0.1
+168,Indranil Gupta,Univ. of Illinois at Urbana-Champaign,1,0.2
+169,Laxmikant V.,Univ. of Illinois at Urbana-Champaign,1,0.3
+170,José Meseguer,Univ. of Illinois at Urbana-Champaign,1,0.3
+171,Victoria Stodden,Univ. of Illinois at Urbana-Champaign,1,0.2
+172,Arvind Krishnamurthy,University of Washington,67,12
+173,Ratul Mahajan,University of Washington,44,9.4
+174,Thomas E.,University of Washington,38,7.6
+175,Michael D.,University of Washington,38,11.2
+176,Luis Ceze,University of Washington,36,8.7
+177,Rastislav Bodík,University of Washington,35,10
+178,Tadayoshi Kohno,University of Washington,33,8.8
+179,Baris Kasikci,University of Washington,26,4.7
+180,Dan Grossman,University of Washington,25,6.5
+181,Franziska Roesner,University of Washington,22,5.7
+182,Simon Peter,University of Washington,21,3.8
+183,Shyamnath Gollakota,University of Washington,19,5.2
+184,Zachary Tatlock,University of Washington,15,3.8
+185,Mark Oskin,University of Washington,14,3.4
+186,Michael B.,University of Washington,10,1.6
+187,Joshua R.,University of Washington,8,1.7
+188,David Kohlbrenner,University of Washington,8,2.1
+189,René Just,University of Washington,7,1.2
+190,Stefano Tessaro,University of Washington,5,1.2
+191,Amy J.,University of Washington,4,1.5
+192,Vikram Iyer,University of Washington,3,0.7
+193,Magdalena Balazinska,University of Washington,2,0.5
+194,Aylin Caliskan,University of Washington,2,0.3
+195,Huijia Lin,University of Washington,2,0.3
+196,Shwetak N.,University of Washington,2,0.3
+197,Georg Seelig,University of Washington,2,0.4
+198,Jon Froehlich,University of Washington,1,0.5
+199,Anna R.,University of Washington,1,0.3
+200,Rajesh P.,University of Washington,1,0.1
+201,Dan Suciu,University of Washington,1,0.3
+202,Alexander Aiken,Stanford University,52,16.8
+203,Christoforos E.,Stanford University,52,12.4
+204,Dan Boneh,Stanford University,50,12.6
+205,David Mazières,Stanford University,32,8.4
+206,Kunle Olukotun,Stanford University,25,4.7
+207,Dawson R.,Stanford University,23,7.1
+208,Sachin Katti,Stanford University,23,6.8
+209,William J.,Stanford University,22,5
+210,Nick McKeown,Stanford University,22,4
+211,Matei Zaharia,Stanford University,21,4.4
+212,Mark Horowitz,Stanford University,20,3.3
+213,Zakir Durumeric,Stanford University,17,3.1
+214,John C.,Stanford University,17,4.6
+215,Monica S.,Stanford University,14,5.6
+216,Mendel Rosenblum,Stanford University,12,2.8
+217,Keith Winstein,Stanford University,8,1.9
+218,John K.,Stanford University,7,2
+219,Balaji Prabhakar,Stanford University,7,1.1
+220,Pat Hanrahan,Stanford University,5,1.1
+221,Fredrik Kjolstad,Stanford University,4,1.3
+222,David R.,Stanford University,2,0.4
+223,Ron O.,Stanford University,2,0.1
+224,Maneesh Agrawala,Stanford University,1,0.3
+225,Gill Bejerano,Stanford University,1,0.3
+226,Kayvon Fatahalian,Stanford University,1,0.1
+227,Daniel Jurafsky,Stanford University,1,0.2
+228,Omer Reingold,Stanford University,1,0.1
+229,Christopher Ré,Stanford University,1,0.3
+230,Onur Mutlu,ETH Zurich,116,21.5
+231,Zhendong Su,ETH Zurich,70,21.9
+232,Martin T.,ETH Zurich,54,13.5
+233,Adrian Perrig,ETH Zurich,43,11.9
+234,Srdjan Capkun,ETH Zurich,35,9.8
+235,Kaveh Razavi,ETH Zurich,26,5.9
+236,Laurent Vanbever,ETH Zurich,22,5
+237,Kenneth G.,ETH Zurich,21,6.7
+238,David A.,ETH Zurich,20,5.8
+239,Timothy Roscoe,ETH Zurich,17,3
+240,Thomas R.,ETH Zurich,10,3.6
+241,Florian Tramèr,ETH Zurich,9,1.8
+242,Shweta Shinde,ETH Zurich,8,1.7
+243,Markus Püschel,ETH Zurich,7,2
+244,Peter Müller,ETH Zurich,6,2.1
+245,Torsten Hoefler,ETH Zurich,6,1
+246,Gustavo Alonso,ETH Zurich,5,1.2
+247,Ce Zhang,ETH Zurich,4,0.7
+248,Ana Klimovic,ETH Zurich,4,0.8
+249,Roger Wattenhofer,ETH Zurich,4,0.5
+250,Luca Benini,ETH Zurich,3,0.5
+251,Andreas Krause,ETH Zurich,2,0.6
+252,Joachim M.,ETH Zurich,2,0.6
+253,Dennis Hofheinz,ETH Zurich,2,0.8
+254,Ueli Maurer,ETH Zurich,1,0.5
+255,Lothar Thiele,ETH Zurich,1,0.2
+256,Ranjit Jhala,Univ. of California - San Diego,43,10.5
+257,Stefan Savage,Univ. of California - San Diego,42,8.9
+258,Dean M.,Univ. of California - San Diego,38,10.4
+259,Yuanyuan Zhou,Univ. of California - San Diego,34,6.8
+260,Alex C.,Univ. of California - San Diego,31,7.3
+261,Sorin Lerner,Univ. of California - San Diego,29,8
+262,Steven Swanson,Univ. of California - San Diego,29,6.4
+263,Geoffrey M.,Univ. of California - San Diego,28,4.7
+264,Deian Stefan,Univ. of California - San Diego,21,3.7
+265,Mihir Bellare,Univ. of California - San Diego,14,5.2
+266,Dinesh Bharadia,Univ. of California - San Diego,14,3.6
+267,Jishen Zhao,Univ. of California - San Diego,14,2.6
+268,Nadia Heninger,Univ. of California - San Diego,12,2.3
+269,Farinaz Koushanfar,Univ. of California - San Diego,11,2.6
+270,George Porter,Univ. of California - San Diego,11,1.6
+271,Nadia Polikarpova,Univ. of California - San Diego,9,2.1
+272,William G.,Univ. of California - San Diego,8,2.3
+273,Aaron Schulman,Univ. of California - San Diego,8,1.8
+274,Rajesh K.,Univ. of California - San Diego,7,1.3
+275,Earlence Fernandes,Univ. of California - San Diego,7,1.3
+276,Xinyu Zhang,Univ. of California - San Diego,6,1.5
+277,Ryan Kastner,Univ. of California - San Diego,6,0.9
+278,Amy Ousterhout,Univ. of California - San Diego,5,1.2
+279,Kamalika Chaudhuri,Univ. of California - San Diego,4,1.2
+280,Carlos Jensen,Univ. of California - San Diego,4,1
+281,George Papen,Univ. of California - San Diego,4,0.5
+282,Tajana Rosing,Univ. of California - San Diego,4,0.7
+283,Michael J.,Univ. of California - San Diego,3,0.7
+284,Philip J.,Univ. of California - San Diego,3,0.8
+285,Yiying Zhang,Univ. of California - San Diego,2,0.5
+286,Larry Carter,Univ. of California - San Diego,2,0.7
+287,Yeshaiahu Fainman,Univ. of California - San Diego,2,0.2
+288,Jeanne Ferrante,Univ. of California - San Diego,2,0.7
+289,Haojian Jin,Univ. of California - San Diego,2,0.4
+290,Ingolf Krüger,Univ. of California - San Diego,2,0.8
+291,Pat Pannuto,Univ. of California - San Diego,2,0.3
+292,Ramamohan Paturi,Univ. of California - San Diego,2,0.6
+293,Joe Gibbs,Univ. of California - San Diego,2,0.5
+294,Bill Lin,Univ. of California - San Diego,1,0.3
+295,Hao Zhang,Univ. of California - San Diego,1,0.1
+296,Sicun Gao,Univ. of California - San Diego,1,0.3
+297,Daniel M.,Univ. of California - San Diego,1,0.3
+298,Pradeep K.,Univ. of California - San Diego,1,0.2
+299,Arya Mazumdar,Univ. of California - San Diego,1,0.3
+300,Julian J.,Univ. of California - San Diego,1,0.2
+301,Daniele Micciancio,Univ. of California - San Diego,1,0.1
+302,Siavash Mirarab,Univ. of California - San Diego,1,0.3
+303,Imani N.,Univ. of California - San Diego,1,0.1
+304,Joseph Pasquale,Univ. of California - San Diego,1,0.5
+305,Lawrence K.,Univ. of California - San Diego,1,0.1
+306,Yusu Wang,Univ. of California - San Diego,1,0.2
+307,Somesh Jha,University of Wisconsin - Madison,56,14
+308,Michael M.,University of Wisconsin - Madison,31,8.5
+309,Patrick D.,University of Wisconsin - Madison,30,7.7
+310,Andrea C.,University of Wisconsin - Madison,29,6.2
+311,Remzi H.,University of Wisconsin - Madison,28,6.1
+312,Mikko H.,University of Wisconsin - Madison,28,10.4
+313,Thomas W.,University of Wisconsin - Madison,28,7.7
+314,Karthikeyan Sankaralingam,University of Wisconsin - Madison,23,5.9
+315,Gurindar S.,University of Wisconsin - Madison,22,9.6
+316,Loris D'Antoni,University of Wisconsin - Madison,17,5.2
+317,Rahul Chatterjee,University of Wisconsin - Madison,15,2.7
+318,Aws Albarghouthi,University of Wisconsin - Madison,13,3.9
+319,Kassem Fawaz,University of Wisconsin - Madison,11,3.2
+320,Joshua San,University of Wisconsin - Madison,11,3
+321,Shivaram Venkataraman,University of Wisconsin - Madison,11,2.2
+322,Swamit S.,University of Wisconsin - Madison,10,3.5
+323,Ming Liu,University of Wisconsin - Madison,9,1.5
+324,Suman Banerjee,University of Wisconsin - Madison,8,2.3
+325,Paul Barford,University of Wisconsin - Madison,7,2.3
+326,Matthew D.,University of Wisconsin - Madison,7,1.6
+327,Xiangyao Yu,University of Wisconsin - Madison,5,0.9
+328,Younghyun Kim,University of Wisconsin - Madison,4,1
+329,Barton P.,University of Wisconsin - Madison,4,1.3
+330,Jignesh M.,University of Wisconsin - Madison,2,0.5
+331,Parameswaran Ramanathan,University of Wisconsin - Madison,2,0.5
+332,Amos Ron,University of Wisconsin - Madison,2,0.5
+333,Xiaojin Zhu,University of Wisconsin - Madison,1,0.3
+334,Paraschos Koutris,University of Wisconsin - Madison,1,0.2
+335,Yong Jae,University of Wisconsin - Madison,1,0.1
+336,Miron Livny,University of Wisconsin - Madison,1,0.2
+337,Robert D.,University of Wisconsin - Madison,1,0.3
+338,David Page,University of Wisconsin - Madison,1,0.2
+339,Theodoros Rekatsinas,University of Wisconsin - Madison,1,0.2
+340,Eftychios Sifakis,University of Wisconsin - Madison,1,0.1
+341,Yuhang Zhao,University of Wisconsin - Madison,1,0.2
+342,Ion Stoica,Univ. of California - Berkeley,88,17.6
+343,Scott Shenker,Univ. of California - Berkeley,72,13.7
+344,Vern Paxson,Univ. of California - Berkeley,49,12.5
+345,Sylvia Ratnasamy,Univ. of California - Berkeley,45,9.5
+346,Koushik Sen,Univ. of California - Berkeley,36,11
+347,David A.,Univ. of California - Berkeley,32,10.3
+348,Raluca A.,Univ. of California - Berkeley,31,6.9
+349,George C.,Univ. of California - Berkeley,17,5.7
+350,Eric A.,Univ. of California - Berkeley,16,3.9
+351,Sanjit A.,Univ. of California - Berkeley,14,3
+352,Randy H.,Univ. of California - Berkeley,13,2.9
+353,Alvin Cheung,Univ. of California - Berkeley,12,2.9
+354,John Kubiatowicz,Univ. of California - Berkeley,11,2.3
+355,Joseph Gonzalez,Univ. of California - Berkeley,8,1.3
+356,Joseph M.,Univ. of California - Berkeley,8,1.5
+357,Armando Fox,Univ. of California - Berkeley,6,1.2
+358,Michael I.,Univ. of California - Berkeley,6,1.3
+359,Natacha Crooks,Univ. of California - Berkeley,5,0.9
+360,Yakun Sophia,Univ. of California - Berkeley,5,0.7
+361,Prabal Dutta,Univ. of California - Berkeley,3,0.5
+362,Sanjam Garg,Univ. of California - Berkeley,3,0.6
+363,Borivoje Nikolic,Univ. of California - Berkeley,3,0.3
+364,John F.,Univ. of California - Berkeley,2,1.3
+365,James Demmel,Univ. of California - Berkeley,2,0.2
+366,Shafi Goldwasser,Univ. of California - Berkeley,2,0.4
+367,Björn Hartmann,Univ. of California - Berkeley,2,0.3
+368,Anthony D.,Univ. of California - Berkeley,2,0.3
+369,Richard M.,Univ. of California - Berkeley,2,0.4
+370,Kannan Ramchandran,Univ. of California - Berkeley,2,0.4
+371,Benjamin Recht,Univ. of California - Berkeley,2,0.3
+372,John Wawrzynek,Univ. of California - Berkeley,2,0.3
+373,Sarah E.,Univ. of California - Berkeley,1,0.2
+374,Edward A.,Univ. of California - Berkeley,1,0.2
+375,Kristofer S.,Univ. of California - Berkeley,1,0.2
+376,Alberto L.,Univ. of California - Berkeley,1,0.2
+377,Jacob Steinhardt,Univ. of California - Berkeley,1,0.3
+378,Vladimir Stojanovic,Univ. of California - Berkeley,1,0.1
+379,Martin J.,Univ. of California - Berkeley,1,0.3
+380,Scott A.,University of Michigan,50,12.2
+381,Thomas F.,University of Michigan,38,9.1
+382,Satish Narayanasamy,University of Michigan,34,8.2
+383,Trevor N.,University of Michigan,31,5.9
+384,Z. Morley,University of Michigan,30,6.6
+385,Jason Mars,University of Michigan,27,5.6
+386,Westley Weimer,University of Michigan,27,7.2
+387,Lingjia Tang,University of Michigan,26,5.1
+388,Reetuparna Das,University of Michigan,25,5.2
+389,J. Alex,University of Michigan,25,6.1
+390,Todd M.,University of Michigan,24,6.3
+391,Kang G.,University of Michigan,24,7.8
+392,Mosharaf Chowdhury,University of Michigan,23,5.1
+393,Harsha V.,University of Michigan,22,4.1
+394,Ronald G.,University of Michigan,18,2.9
+395,David T.,University of Michigan,17,2.4
+396,Kevin Fu,University of Michigan,16,3.3
+397,Peng Huang,University of Michigan,15,3.3
+398,Atul Prakash,University of Michigan,12,4.2
+399,Manos Kapritsos,University of Michigan,12,2.1
+400,Valeria Bertacco,University of Michigan,9,2.8
+401,Roya Ensafi,University of Michigan,8,1.6
+402,Xinyu Wang,University of Michigan,5,1.1
+403,Yatin A.,University of Michigan,5,1.2
+404,Florian Schaub,University of Michigan,5,0.9
+405,Georgios Tzimpragos,University of Michigan,5,0.8
+406,Jean-Baptiste Jeannin,University of Michigan,4,0.8
+407,Brian D.,University of Michigan,4,1.6
+408,Cyrus Omar,University of Michigan,4,0.9
+409,Chris Peikert,University of Michigan,4,1.1
+410,Robert P.,University of Michigan,3,0.5
+411,Mingyan Liu,University of Michigan,3,0.4
+412,Barzan Mozafari,University of Michigan,3,0.7
+413,Max S.,University of Michigan,3,0.8
+414,Sugih Jamin,University of Michigan,2,0.5
+415,Hun-Seok Kim,University of Michigan,2,0.3
+416,Stéphane Lafortune,University of Michigan,2,0.4
+417,Qiaozhu Mei,University of Michigan,2,0.3
+418,Jeffrey A.,University of Michigan,1,0.2
+419,Steve Oney,University of Michigan,1,0.2
+420,Marios C.,University of Michigan,1,0.1
+421,Seth Pettie,University of Michigan,1,0.1
+422,Karem A.,University of Michigan,1,0.2
+423,Alanson P.,University of Michigan,1,0.3
+424,Xiangyu Zhang,Purdue University,78,18.2
+425,T. N.,Purdue University,38,13.4
+426,Xuehai Qian,Purdue University,34,6.5
+427,Dongyan Xu,Purdue University,31,6.3
+428,Ninghui Li,Purdue University,28,7.7
+429,Lin Tan,Purdue University,20,4.9
+430,Changhee Jung,Purdue University,18,5.1
+431,Jing (Dave),Purdue University,18,3.2
+432,Suresh Jagannathan,Purdue University,17,4.9
+433,Antonio Bianchi,Purdue University,14,2.4
+434,Milind Kulkarni,Purdue University,12,2.8
+435,Aniket Kate,Purdue University,12,2.7
+436,Y. Charlie,Purdue University,10,2.7
+437,Pedro Fonseca,Purdue University,9,2
+438,Tianyi Zhang,Purdue University,9,2.3
+439,Chunyi Peng,Purdue University,8,1.4
+440,Muhammad Shahbaz,Purdue University,8,1.3
+441,Elisa Bertino,Purdue University,8,1.7
+442,Z. Berkay,Purdue University,8,1.5
+443,Christina Garman,Purdue University,8,1.8
+444,Sanjay G.,Purdue University,7,1.7
+445,Tiark Rompf,Purdue University,7,2.1
+446,Saurabh Bagchi,Purdue University,6,1
+447,Mohammadkazem Taram,Purdue University,6,1.6
+448,Yongle Zhang,Purdue University,6,1.1
+449,Benjamin Delaware,Purdue University,5,1.7
+450,Jeremiah Blocki,Purdue University,4,1.2
+451,Ananth Grama,Purdue University,3,0.9
+452,Roopsha Samanta,Purdue University,3,0.7
+453,Vassilis Zikas,Purdue University,3,0.8
+454,Zhiyuan Li,Purdue University,2,0.8
+455,Jeffrey Mark,Purdue University,2,1
+456,Bruno Ribeiro,Purdue University,1,0.1
+457,Mikhail J.,Purdue University,1,0.3
+458,Dan Goldwasser,Purdue University,1,0.2
+459,Jean Honorio,Purdue University,1,0.1
+460,Hemanta K.,Purdue University,1,0.2
+461,Jennifer Neville,Purdue University,1,0.3
+462,Kihong Park,Purdue University,1,0.5
+463,Sunil Prabhakar,Purdue University,1,0.3
+464,Christos-Alexandros Psomas,Purdue University,1,0.3
+465,Eugene H.,Purdue University,1,0.3
+466,Wenke Lee,Georgia Institute of Technology,56,11.9
+467,Taesoo Kim,Georgia Institute of Technology,50,11.2
+468,Moinuddin K.,Georgia Institute of Technology,42,15.3
+469,Angelos D.,Georgia Institute of Technology,34,9.1
+470,Fabian Monrose,Georgia Institute of Technology,30,7.1
+471,Alessandro Orso,Georgia Institute of Technology,24,7.9
+472,Daniel Genkin,Georgia Institute of Technology,23,4
+473,Hyesoon Kim,Georgia Institute of Technology,22,5.9
+474,Milos Prvulovic,Georgia Institute of Technology,19,5.4
+475,Michael Bailey,Georgia Institute of Technology,18,3.2
+476,Manos Antonakakis,Georgia Institute of Technology,17,3.1
+477,Raheem A.,Georgia Institute of Technology,15,2.3
+478,Tushar Krishna,Georgia Institute of Technology,15,3.9
+479,Brendan Saltaformaggio,Georgia Institute of Technology,13,2.3
+480,Frank Li,Georgia Institute of Technology,12,3.6
+481,Vladimir Kolesnikov,Georgia Institute of Technology,12,3
+482,Paul Pearce,Georgia Institute of Technology,12,2.1
+483,Qirun Zhang,Georgia Institute of Technology,12,3.2
+484,Alexandros Daglis,Georgia Institute of Technology,10,2.6
+485,Santosh Pande,Georgia Institute of Technology,10,3.4
+486,Alexandra Boldyreva,Georgia Institute of Technology,8,2.4
+487,Vivek Sarkar,Georgia Institute of Technology,8,1.9
+488,David Devecsery,Georgia Institute of Technology,7,1.9
+489,Ahmed Saeed,Georgia Institute of Technology,5,0.8
+490,Ling Liu,Georgia Institute of Technology,5,1.7
+491,Mustaque Ahamad,Georgia Institute of Technology,5,1.2
+492,Mostafa H.,Georgia Institute of Technology,4,0.8
+493,Richard W.,Georgia Institute of Technology,4,1
+494,Joy Arulraj,Georgia Institute of Technology,3,0.8
+495,Alberto Dainotti,Georgia Institute of Technology,3,0.6
+496,Constantinos Dovrolis,Georgia Institute of Technology,3,1.3
+497,Alexey Tumanov,Georgia Institute of Technology,3,0.3
+498,Santosh S.,Georgia Institute of Technology,3,0.9
+499,Jun (Jim),Georgia Institute of Technology,3,0.9
+500,Saman A.,Georgia Institute of Technology,3,0.6
+501,Thomas M.,Georgia Institute of Technology,2,0.7
+502,Ashutosh Dhekne,Georgia Institute of Technology,2,0.4
+503,Alexander G.,Georgia Institute of Technology,2,0.5
+504,Rebecca E.,Georgia Institute of Technology,2,0.5
+505,Joseph Jaeger,Georgia Institute of Technology,2,0.7
+506,Richard J.,Georgia Institute of Technology,2,0.8
+507,Calton Pu,Georgia Institute of Technology,2,0.5
+508,Ellen Zegura,Georgia Institute of Technology,2,0.2
+509,Annie I.,Georgia Institute of Technology,1,0.5
+510,W. Keith,Georgia Institute of Technology,1,0.3
+511,Ada Gavrilovska,Georgia Institute of Technology,1,0.3
+512,Colin Potts,Georgia Institute of Technology,1,0.5
+513,John T.,Georgia Institute of Technology,1,0.3
+514,Ari Juels,Cornell University,47,12.4
+515,Thomas Ristenpart,Cornell University,46,9.9
+516,Andrew C.,Cornell University,34,10.8
+517,Vitaly Shmatikov,Cornell University,34,11.2
+518,G. Edward,Cornell University,29,7.8
+519,Nate Foster,Cornell University,24,4.2
+520,Lorenzo Alvisi,Cornell University,21,3.6
+521,Rachit Agarwal,Cornell University,20,4.7
+522,Justin Hsu,Cornell University,18,4.3
+523,David H.,Cornell University,15,3.9
+524,José F.,Cornell University,15,4.6
+525,Christopher Batten,Cornell University,14,3.2
+526,Adrian Sampson,Cornell University,12,2.5
+527,J. Gregory,Cornell University,10,2.8
+528,Robbert van,Cornell University,10,2.3
+529,Hakim Weatherspoon,Cornell University,8,1.6
+530,Nicola Dell,Cornell University,7,1.1
+531,Owolabi Legunsen,Cornell University,7,1.4
+532,Zhiru Zhang,Cornell University,7,1.4
+533,Alexandra Silva,Cornell University,6,1.2
+534,Dexter Kozen,Cornell University,6,1.4
+535,Kenneth P.,Cornell University,5,2
+536,Fred B.,Cornell University,5,1.7
+537,David Bindel,Cornell University,3,0.7
+538,Deborah Estrin,Cornell University,3,0.8
+539,Rafael Pass,Cornell University,3,1
+540,Christopher De,Cornell University,3,0.6
+541,Kavita Bala,Cornell University,2,0.3
+542,Fei Wang,Cornell University,1,0.2
+543,Joseph Y.,Cornell University,1,0.5
+544,Robert D.,Cornell University,1,0.1
+545,Mor Naaman,Cornell University,1,0.2
+546,Rajalakshmi Nandakumar,Cornell University,1,0.3
+547,Helen Nissenbaum,Cornell University,1,0.3
+548,Martha E.,Cornell University,1,0.3
+549,Alexander M.,Cornell University,1,0.1
+550,David B.,Cornell University,1,0.2
+551,Noah Stephens-Davidowitz,Cornell University,1,0.3
+552,Aditya Akella,University of Texas at Austin,46,9.7
+553,Isil Dillig,University of Texas at Austin,34,9
+554,Emmett Witchel,University of Texas at Austin,31,6.9
+555,Hovav Shacham,University of Texas at Austin,25,6.5
+556,Brent Waters,University of Texas at Austin,22,7.4
+557,Swarat Chaudhuri,University of Texas at Austin,20,6.3
+558,Calvin Lin,University of Texas at Austin,20,7.6
+559,Christopher J.,University of Texas at Austin,19,3.6
+560,Yin Zhang,University of Texas at Austin,13,2.8
+561,Don S.,University of Texas at Austin,11,3
+562,James Bornholt,University of Texas at Austin,11,2.4
+563,Lili Qiu,University of Texas at Austin,11,2.6
+564,Vijay Chidambaram,University of Texas at Austin,9,1.7
+565,Daniel Moghimi,University of Texas at Austin,9,1.5
+566,Daehyeok Kim,University of Texas at Austin,8,1.2
+567,Kenneth L.,University of Texas at Austin,7,1.8
+568,David J.,University of Texas at Austin,4,1.6
+569,Donald S.,University of Texas at Austin,3,0.9
+570,Simon S.,University of Texas at Austin,3,0.7
+571,Shuchi Chawla,University of Texas at Austin,2,0.4
+572,Greg Durrett,University of Texas at Austin,2,0.4
+573,Raymond J.,University of Texas at Austin,1,0.2
+574,Vijaya Ramachandran,University of Texas at Austin,1,0.1
+575,Zhangyang Wang,University of Texas at Austin,1,0.1
+576,David Zuckerman,University of Texas at Austin,1,0.3
+577,Jennifer Rexford,Princeton University,43,9.2
+578,Margaret Martonosi,Princeton University,42,11.4
+579,David Walker,Princeton University,32,9.1
+580,David I.,Princeton University,31,6.9
+581,Prateek Mittal,Princeton University,30,7.7
+582,Michael J.,Princeton University,26,7.7
+583,David Wentzlaff,Princeton University,20,6.3
+584,Aarti Gupta,Princeton University,16,4.6
+585,Wyatt Lloyd,Princeton University,16,3.6
+586,Arvind Narayanan,Princeton University,16,4.3
+587,Ravi Netravali,Princeton University,15,3.7
+588,Kyle Jamieson,Princeton University,14,4
+589,Zachary Kincaid,Princeton University,13,4.3
+590,Ruby B.,Princeton University,12,4.7
+591,Amit A.,Princeton University,5,1
+592,Kai Li,Princeton University,4,1.1
+593,Jonathan R.,Princeton University,4,1.7
+594,Aleksandra Korolova,Princeton University,3,0.8
+595,H. Vincent,Princeton University,2,0.6
+596,S. Matthew,Princeton University,2,0.5
+597,Ryan P.,Princeton University,1,0.2
+598,Mark Braverman,Princeton University,1,0.3
+599,Adam Finkelstein,Princeton University,1,0.2
+600,Felix Heide,Princeton University,1,0.1
+601,Jaswinder Pal,Princeton University,1,0.3
+602,Shan Lu,University of Chicago,48,10.1
+603,Frederic T.,University of Chicago,41,7.5
+604,Nick Feamster,University of Chicago,40,9.2
+605,Henry Hoffmann,University of Chicago,29,8
+606,Ben Y.,University of Chicago,19,3.2
+607,Haryadi S.,University of Chicago,18,3.4
+608,Junchen Jiang,University of Chicago,17,2.8
+609,Haitao Zheng,University of Chicago,16,2.8
+610,Blase Ur,University of Chicago,15,2.1
+611,Diana Franklin,University of Chicago,9,1.3
+612,Ravi Chugh,University of Chicago,8,2.1
+613,David Cash,University of Chicago,7,1.7
+614,Michael J.,University of Chicago,7,1.2
+615,Andrew A.,University of Chicago,6,2
+616,Grant Ho,University of Chicago,5,0.8
+617,John H.,University of Chicago,4,1.5
+618,Marshini Chetty,University of Chicago,3,0.5
+619,Robert Rand,University of Chicago,2,0.5
+620,Yanjing Li,University of Chicago,2,0.6
+621,Michael Maire,University of Chicago,2,0.3
+622,Aloni Cohen,University of Chicago,1,1
+623,Aaron J.,University of Chicago,1,0.3
+624,Gordon L.,University of Chicago,1,0.2
+625,Stuart A.,University of Chicago,1,0.3
+626,Mayur Naik,University of Pennsylvania,28,7.5
+627,Joseph Devietti,University of Pennsylvania,22,4.7
+628,Benjamin C.,University of Pennsylvania,22,5.6
+629,Steve Zdancewic,University of Pennsylvania,21,6.6
+630,Andreas Haeberlen,University of Pennsylvania,20,4.5
+631,Benjamin C.,University of Pennsylvania,16,4.7
+632,Rajeev Alur,University of Pennsylvania,15,4.3
+633,Sebastian Angel,University of Pennsylvania,14,3.8
+634,Vincent Liu,University of Pennsylvania,14,3.3
+635,Boon Thau,University of Pennsylvania,13,2.3
+636,Stephanie Weirich,University of Pennsylvania,10,3.1
+637,André DeHon,University of Pennsylvania,8,1.5
+638,Jonathan M.,University of Pennsylvania,8,1.6
+639,Osbert Bastani,University of Pennsylvania,7,1.6
+640,Gushu Li,University of Pennsylvania,7,1.6
+641,Pratyush Mishra,University of Pennsylvania,5,0.9
+642,Jing Li,University of Pennsylvania,4,2
+643,Linh T.,University of Pennsylvania,3,0.6
+644,Tal Rabin,University of Pennsylvania,3,0.7
+645,Zachary G.,University of Pennsylvania,2,0.4
+646,Sampath Kannan,University of Pennsylvania,2,0.7
+647,Insup Lee,University of Pennsylvania,2,0.5
+648,Aaron Roth,University of Pennsylvania,1,0.2
+649,Andrew Head,University of Pennsylvania,1,0.3
+650,Sanjeev Khanna,University of Pennsylvania,1,0.2
+651,Dan Roth,University of Pennsylvania,1,0.3
+652,Andre Scedrov,University of Pennsylvania,1,0.3
+653,Val Tannen,University of Pennsylvania,1,0.2
+654,Mingmin Zhao,University of Pennsylvania,1,0.1
+655,Babak Falsafi,EPFL,44,10.5
+656,Mathias Payer,EPFL,33,7.4
+657,Bryan Ford,EPFL,22,6.4
+658,George Candea,EPFL,17,4.6
+659,Sanidhya Kashyap,EPFL,17,3.2
+660,Rachid Guerraoui,EPFL,15,4.7
+661,Jean-Pierre Hubaux,EPFL,14,2.9
+662,Viktor Kuncak,EPFL,14,4.6
+663,Katerina J.,EPFL,13,3.2
+664,Anastasia Ailamaki,EPFL,12,2.5
+665,Haitham Hassanieh,EPFL,12,2.4
+666,Carmela Troncoso,EPFL,12,3.3
+667,Edouard Bugnion,EPFL,9,2.1
+668,James R.,EPFL,8,1.8
+669,Alessandro Chiesa,EPFL,6,1.2
+670,Martin Odersky,EPFL,5,1.2
+671,Jean-Yves Le,EPFL,3,1
+672,Christoph Koch,EPFL,2,0.4
+673,Paolo Ienne,EPFL,2,0.6
+674,Anne-Marie Kermarrec,EPFL,2,0.3
+675,Karl Aberer,EPFL,1,0.2
+676,Matthias Grossglauser,EPFL,1,0.5
+677,Martin Jaggi,EPFL,1,0.2
+678,Negar Kiyavash,EPFL,1,0.3
+679,Abhik Roychoudhury,National University of Singapore,36,10.2
+680,Prateek Saxena,National University of Singapore,34,8
+681,Zhenkai Liang,National University of Singapore,16,3.7
+682,Li-Shiuan Peh,National University of Singapore,16,4.6
+683,Haifeng Yu,National University of Singapore,13,4.1
+684,Reza Shokri,National University of Singapore,11,3.2
+685,Jin Song,National University of Singapore,10,1.8
+686,Siau-Cheng Khoo,National University of Singapore,10,3
+687,Umang Mathur,National University of Singapore,8,2.6
+688,Jialin Li,National University of Singapore,8,1.8
+689,Ilya Sergey,National University of Singapore,8,2.5
+690,Trevor E.,National University of Singapore,7,1.6
+691,Djordje Jevdjic,National University of Singapore,6,1.3
+692,Manuel Rigger,National University of Singapore,6,2
+693,Xiaokui Xiao,National University of Singapore,6,1.3
+694,Wei-Ngan Chin,National University of Singapore,5,1.3
+695,Joxan Jaffar,National University of Singapore,5,1.8
+696,Tulika Mitra,National University of Singapore,5,1.6
+697,Weng-Fai Wong,National University of Singapore,5,0.9
+698,Mun Choon,National University of Singapore,4,1
+699,Ee-Chien Chang,National University of Singapore,4,1
+700,Bingsheng He,National University of Singapore,4,0.6
+701,Aquinas Hobor,National University of Singapore,4,1.2
+702,Kuldeep S.,National University of Singapore,4,1
+703,Seth Gilbert,National University of Singapore,2,0.5
+704,Ben Leong,National University of Singapore,2,0.7
+705,Damith C.,National University of Singapore,2,0.8
+706,Bruno Bodin,National University of Singapore,1,0.2
+707,Tat-Seng Chua,National University of Singapore,1,0.1
+708,Bryan Hooi,National University of Singapore,1,0.3
+709,Mohan S.,National University of Singapore,1,0.3
+710,Wee Kheng,National University of Singapore,1,0.3
+711,Beng Chin,National University of Singapore,1,0.2
+712,Roland H.,National University of Singapore,1,0.5
+713,Gilles Barthe,Max Planck Society,49,9.5
+714,Derek Dreyer,Max Planck Society,29,7.5
+715,Rupak Majumdar,Max Planck Society,25,8.5
+716,Viktor Vafeiadis,Max Planck Society,24,6.4
+717,Deepak Garg,Max Planck Society,21,5
+718,Peter Druschel,Max Planck Society,21,5
+719,Paul Francis,Max Planck Society,17,5.8
+720,Marcel Böhme,Max Planck Society,15,4.8
+721,Anja Feldmann,Max Planck Society,11,2.7
+722,Krishna P.,Max Planck Society,11,2.1
+723,Catalin Hritcu,Max Planck Society,11,1.8
+724,Giulio Malavolta,Max Planck Society,10,2.7
+725,Christof Paar,Max Planck Society,10,1.9
+726,Keon Jang,Max Planck Society,9,1.7
+727,Peter Schwabe,Max Planck Society,8,1.5
+728,Antoine Kaufmann,Max Planck Society,7,1.4
+729,Jonathan Mace,Max Planck Society,5,1
+730,Björn B.,Max Planck Society,3,0.7
+731,Eva Darulova,Max Planck Society,2,0.6
+732,Joël Ouaknine,Max Planck Society,2,0.3
+733,Georg Zetzsche,Max Planck Society,2,0.5
+734,Bernt Schiele,Max Planck Society,1,0.3
+735,Adish Singla,Max Planck Society,1,0.2
+736,John Kim,KAIST,29,7.6
+737,Jaehyuk Huh,KAIST,17,4.3
+738,Minsoo Rhu,KAIST,17,4.7
+739,Myoungsoo Jung,KAIST,16,3.9
+740,Hongseok Yang,KAIST,16,4.1
+741,Dongsu Han,KAIST,15,2.9
+742,Yongdae Kim,KAIST,15,3
+743,Sang Kil,KAIST,14,3.8
+744,KyoungSoo Park,KAIST,14,3.4
+745,Jeehoon Kang,KAIST,12,2.5
+746,Kihong Heo,KAIST,11,3.1
+747,Youngjin Kwon,KAIST,11,1.9
+748,Insu Yun,KAIST,10,1.8
+749,Jongse Park,KAIST,9,1.5
+750,Sukyoung Ryu,KAIST,8,2.4
+751,Brent ByungHoon,KAIST,7,1.2
+752,Min Suk,KAIST,6,1.7
+753,Sooel Son,KAIST,6,1.3
+754,Shin Yoo,KAIST,6,1.4
+755,Seung Ryoul,KAIST,4,0.9
+756,Insik Shin,KAIST,4,0.7
+757,Moonzoo Kim,KAIST,3,0.9
+758,Sue B.,KAIST,3,0.6
+759,Jinwoo Shin,KAIST,3,0.7
+760,Seungwon Shin,KAIST,2,0.4
+761,Yung Yi,KAIST,2,0.4
+762,Song Min,KAIST,1,0.2
+763,Soontae Kim,KAIST,1,0.3
+764,In-Young Ko,KAIST,1,0.3
+765,Youjip Won,KAIST,1,0.2
+766,George Varghese,Univ. of California - Los Angeles,36,8.8
+767,Guoqing Harry,Univ. of California - Los Angeles,35,8
+768,Miryung Kim,Univ. of California - Los Angeles,30,8
+769,Todd D.,Univ. of California - Los Angeles,26,5.7
+770,Jens Palsberg,Univ. of California - Los Angeles,18,7.5
+771,Songwu Lu,Univ. of California - Los Angeles,13,2.2
+772,Tony Nowatzki,Univ. of California - Los Angeles,13,3.4
+773,Amit Sahai,Univ. of California - Los Angeles,9,2.8
+774,Omid Abari,Univ. of California - Los Angeles,7,1.6
+775,Rafail Ostrovsky,Univ. of California - Los Angeles,6,1.8
+776,Jason Cong,Univ. of California - Los Angeles,5,0.7
+777,Mani B.,Univ. of California - Los Angeles,5,1
+778,Lixia Zhang,Univ. of California - Los Angeles,4,0.9
+779,Glenn Reinman,Univ. of California - Los Angeles,3,0.6
+780,Yuval Tamir,Univ. of California - Los Angeles,3,0.8
+781,Guy Van,Univ. of California - Los Angeles,2,0.5
+782,Milos D.,Univ. of California - Los Angeles,1,0.2
+783,Eleazar Eskin,Univ. of California - Los Angeles,1,0.3
+784,Eli Gafni,Univ. of California - Los Angeles,1,0.1
+785,Quanquan Gu,Univ. of California - Los Angeles,1,0.2
+786,Miodrag Potkonjak,Univ. of California - Los Angeles,1,0.3
+787,Suman Jana,Columbia University,34,7.7
+788,Junfeng Yang,Columbia University,30,6.8
+789,Simha Sethumadhavan,Columbia University,25,6.6
+790,Jason Nieh,Columbia University,24,6.4
+791,Ronghui Gu,Columbia University,18,3.1
+792,Baishakhi Ray,Columbia University,18,4.3
+793,Ethan Katz-Bassett,Columbia University,17,2.3
+794,Asaf Cidon,Columbia University,10,1.8
+795,Roxana Geambasu,Columbia University,10,1.8
+796,Steven M.,Columbia University,9,3.2
+797,Gail E.,Columbia University,8,2.5
+798,Salvatore J.,Columbia University,7,1.7
+799,Martha A.,Columbia University,6,1.3
+800,Tal Malkin,Columbia University,5,1
+801,Martha Mercaldi,Columbia University,4,0.8
+802,Vishal Misra,Columbia University,4,1.1
+803,Daniel Hsu,Columbia University,3,0.6
+804,Kenneth A.,Columbia University,3,0.6
+805,Dan Rubenstein,Columbia University,3,0.8
+806,Allison Bishop,Columbia University,2,0.8
+807,Luca P.,Columbia University,2,0.5
+808,Augustin Chaintreau,Columbia University,2,0.3
+809,Tony Jebara,Columbia University,2,0.4
+810,Rebecca N.,Columbia University,2,0.5
+811,Mihalis Yannakakis,Columbia University,2,0.4
+812,Changxi Zheng,Columbia University,2,0.4
+813,Stephen A.,Columbia University,1,0.1
+814,Christos H.,Columbia University,1,0.2
+815,Timothy Roughgarden,Columbia University,1,0.5
+816,Christopher Krügel,Univ. of California - Santa Barbara,66,14
+817,Giovanni Vigna,Univ. of California - Santa Barbara,61,13.2
+818,Yuan Xie,Univ. of California - Santa Barbara,47,8.4
+819,Timothy Sherwood,Univ. of California - Santa Barbara,35,8
+820,Tevfik Bultan,Univ. of California - Santa Barbara,18,6.5
+821,Yufei Ding,Univ. of California - Santa Barbara,17,3
+822,Yu Feng,Univ. of California - Santa Barbara,14,3.4
+823,Ben Hardekopf,Univ. of California - Santa Barbara,12,2.9
+824,Trinabh Gupta,Univ. of California - Santa Barbara,8,1.6
+825,Jonathan Balkind,Univ. of California - Santa Barbara,6,1.2
+826,Arpit Gupta,Univ. of California - Santa Barbara,6,0.8
+827,Chandra Krintz,Univ. of California - Santa Barbara,5,2.3
+828,Amr El,Univ. of California - Santa Barbara,4,0.7
+829,Divyakant Agrawal,Univ. of California - Santa Barbara,3,0.5
+830,Richard A.,Univ. of California - Santa Barbara,3,0.9
+831,Xifeng Yan,Univ. of California - Santa Barbara,3,0.7
+832,Tao Yang,Univ. of California - Santa Barbara,1,0.3
+833,Prabhanjan Vijendra,Univ. of California - Santa Barbara,1,0.3
+834,Shumo Chu,Univ. of California - Santa Barbara,1,0.3
+835,Teofilo F.,Univ. of California - Santa Barbara,1,0.3
+836,Subhash Suri,Univ. of California - Santa Barbara,1,0.2
+837,Richard Wolski,Univ. of California - Santa Barbara,1,0.3
+838,Andreas Moshovos,University of Toronto,29,7.5
+839,Natalie D.,University of Toronto,20,5.5
+840,Ding Yuan,University of Toronto,18,3.4
+841,David Lie,University of Toronto,17,4.7
+842,Fan Long,University of Toronto,17,4.5
+843,Gennady Pekhimenko,University of Toronto,16,2.4
+844,Azadeh Farzan,University of Toronto,15,5.8
+845,Marsha Chechik,University of Toronto,14,4.4
+846,Michael Stumm,University of Toronto,14,2.8
+847,Nandita Vijaykumar,University of Toronto,12,1.7
+848,Nicolas Papernot,University of Toronto,10,2.1
+849,Ashvin Goel,University of Toronto,8,2.4
+850,Mark C.,University of Toronto,7,1.5
+851,Angela Demke,University of Toronto,5,1.7
+852,Steve M.,University of Toronto,5,1.8
+853,Shurui Zhou,University of Toronto,5,1.3
+854,Eyal de,University of Toronto,4,0.7
+855,Tarek S.,University of Toronto,2,1
+856,Yashar Ganjali,University of Toronto,2,0.5
+857,Bianca Schroeder,University of Toronto,2,0.7
+858,Daniel M.,University of Toronto,1,0.2
+859,Syed Ishtiaque,University of Toronto,1,0.2
+860,J. Christopher,University of Toronto,1,0.3
+861,Maryam Mehri,University of Toronto,1,0.1
+862,Eitan Grinspun,University of Toronto,1,0.2
+863,Baochun Li,University of Toronto,1,0.1
+864,Nathan Wiebe,University of Toronto,1,0.1
+865,Mahmut T.,Pennsylvania State University,63,13.6
+866,Chita R.,Pennsylvania State University,31,5.3
+867,Trent Jaeger,Pennsylvania State University,25,6.7
+868,Peng Liu,Pennsylvania State University,24,5.4
+869,Anand Sivasubramaniam,Pennsylvania State University,23,5.3
+870,Ting Wang,Pennsylvania State University,20,2.7
+871,Narayanan Vijaykrishnan,Pennsylvania State University,20,3.3
+872,Dinghao Wu,Pennsylvania State University,19,4.4
+873,Gang Tan,Pennsylvania State University,18,5.8
+874,Danfeng Zhang,Pennsylvania State University,17,4.4
+875,Hong Hu,Pennsylvania State University,16,3
+876,Jack Sampson,Pennsylvania State University,14,2.6
+877,Aasheesh Kolli,Pennsylvania State University,13,2.7
+878,Linhai Song,Pennsylvania State University,12,2.7
+879,Mary Jane,Pennsylvania State University,7,1.4
+880,Sencun Zhu,Pennsylvania State University,6,1.5
+881,Daniel Kifer,Pennsylvania State University,5,1.4
+882,Taegyu Kim,Pennsylvania State University,5,0.7
+883,Bhuvan Urgaonkar,Pennsylvania State University,5,1.4
+884,Mahanth Gowda,Pennsylvania State University,4,1.1
+885,Thomas La,Pennsylvania State University,3,0.5
+886,Timothy Zhu,Pennsylvania State University,3,0.5
+887,Abutalib Aghayev,Pennsylvania State University,2,0.3
+888,Syed Rafiul,Pennsylvania State University,2,0.4
+889,Dongwon Lee,Pennsylvania State University,1,0.2
+890,Swaroop Ghosh,Pennsylvania State University,1,0.3
+891,Fenglong Ma,Pennsylvania State University,1,0.1
+892,Engin Kirda,Northeastern University,27,6.4
+893,Frank Tip,Northeastern University,20,5.1
+894,Long Lu,Northeastern University,18,4
+895,Abhi Shelat,Northeastern University,18,5.1
+896,David R.,Northeastern University,14,2.8
+897,Alan Mislove,Northeastern University,14,2.7
+898,William K.,Northeastern University,14,3.5
+899,Yanzhi Wang,Northeastern University,13,1.7
+900,Alina Oprea,Northeastern University,12,2.9
+901,Amal Ahmed,Northeastern University,11,3.2
+902,Cristina Nita-Rotaru,Northeastern University,11,2.3
+903,Jan Vitek,Northeastern University,11,2.3
+904,Jonathan Bell,Northeastern University,10,2.5
+905,Matthias Felleisen,Northeastern University,9,2.8
+906,Guevara Noubir,Northeastern University,8,2
+907,Christo Wilson,Northeastern University,8,1.3
+908,Arjun Guha,Northeastern University,7,1.7
+909,Devesh Tiwari,Northeastern University,7,2.2
+910,David R.,Northeastern University,6,1.6
+911,Aanjhan Ranganathan,Northeastern University,5,1.3
+912,Xue Lin,Northeastern University,4,0.5
+913,Stratis Ioannidis,Northeastern University,3,0.5
+914,Olin Shivers,Northeastern University,2,1
+915,Jonathan R.,Northeastern University,2,0.7
+916,Carla E.,Northeastern University,1,0.3
+917,Steven Holtzen,Northeastern University,1,0.2
+918,Karl J.,Northeastern University,1,1
+919,Panagiotis Manolios,Northeastern University,1,0.3
+920,Rajmohan Rajaraman,Northeastern University,1,0.3
+921,Ji-Yong Shin,Northeastern University,1,0.3
+922,Ravi Sundaram,Northeastern University,1,0.1
+923,Stavros Tripakis,Northeastern University,1,0.3
+924,Daniel Wichs,Northeastern University,1,0.2
+925,Ian Goldberg,University of Waterloo,24,9.3
+926,Yousra Aafer,University of Waterloo,15,3
+927,Florian Kerschbaum,University of Waterloo,14,7.1
+928,Chengnian Sun,University of Waterloo,10,2.4
+929,Ondrej Lhoták,University of Waterloo,9,3.3
+930,Bernard Wong,University of Waterloo,8,2.3
+931,Meng Xu,University of Waterloo,8,1.8
+932,N. Asokan,University of Waterloo,8,1.7
+933,Shane McIntosh,University of Waterloo,8,2
+934,Douglas Stebila,University of Waterloo,8,2
+935,Sihang Liu,University of Waterloo,7,1.2
+936,Mina Tahmasbi,University of Waterloo,7,1.5
+937,Arie Gurfinkel,University of Waterloo,7,1.9
+938,Ali José,University of Waterloo,7,1.5
+939,Samer Al-Kiswany,University of Waterloo,6,1.2
+940,Hong Zhang,University of Waterloo,5,0.9
+941,Joanne M.,University of Waterloo,5,1.9
+942,Vijay Ganesh,University of Waterloo,5,1.3
+943,Meiyappan Nagappan,University of Waterloo,5,1.2
+944,Patrick Lam,University of Waterloo,4,1.7
+945,Sergey Gorbunov,University of Waterloo,4,1
+946,Yizhou Zhang,University of Waterloo,4,1.4
+947,Michael W.,University of Waterloo,3,0.9
+948,Derek Rayside,University of Waterloo,3,0.9
+949,Diogo Barradas,University of Waterloo,2,0.6
+950,Nancy A.,University of Waterloo,2,0.8
+951,Werner Dietl,University of Waterloo,2,0.3
+952,Xi He,University of Waterloo,1,0.3
+953,Raouf Boutaba,University of Waterloo,1,0.2
+954,Tim Brecht,University of Waterloo,1,0.2
+955,Sebastian Fischmeister,University of Waterloo,1,0.2
+956,Urs Hengartner,University of Waterloo,1,0.3
+957,David Jao,University of Waterloo,1,0.3
+958,Martin Karsten,University of Waterloo,1,0.3
+959,Yuying Li,University of Waterloo,1,0.2
+960,Bin Ma,University of Waterloo,1,0.1
+961,Sujaya Maiyya,University of Waterloo,1,0.1
+962,Alfred Menezes,University of Waterloo,1,0.2
+963,Zhiyun Qian,Univ. of California - Riverside,38,8.5
+964,Rajiv Gupta,Univ. of California - Riverside,28,10.2
+965,Nael B.,Univ. of California - Riverside,21,4.7
+966,Heng Yin,Univ. of California - Riverside,20,5.2
+967,Manu Sridharan,Univ. of California - Riverside,19,5.2
+968,Chengyu Song,Univ. of California - Riverside,18,3.4
+969,Daniel Wong,Univ. of California - Riverside,8,2.8
+970,Zhijia Zhao,Univ. of California - Riverside,8,2.7
+971,Srikanth V.,Univ. of California - Riverside,7,1.2
+972,Hung-Wei Tseng,Univ. of California - Riverside,6,1.6
+973,K. K.,Univ. of California - Riverside,6,1.2
+974,Mohsen Lesani,Univ. of California - Riverside,5,1.6
+975,Elaheh Sadredini,Univ. of California - Riverside,5,0.9
+976,Michalis Faloutsos,Univ. of California - Riverside,4,1.1
+977,Cong Liu,Univ. of California - Riverside,3,0.5
+978,Qian Zhang,Univ. of California - Riverside,3,0.8
+979,Shaolei Ren,Univ. of California - Riverside,2,0.8
+980,Silas Richelson,Univ. of California - Riverside,2,0.4
+981,Yan Gu,Univ. of California - Riverside,1,0.3
+982,Yihan Sun,Univ. of California - Riverside,1,0.3
+983,Walid A.,Univ. of California - Riverside,1,0.3
+984,Frank Vahid,Univ. of California - Riverside,1,0.3
+985,Emery D.,University of Massachusetts Amherst,18,6.5
+986,Yuriy Brun,University of Massachusetts Amherst,17,5.2
+987,Amir Houmansadr,University of Massachusetts Amherst,16,5.2
+988,Arun Venkataramani,University of Massachusetts Amherst,15,3.4
+989,Brian Neil,University of Massachusetts Amherst,10,3.2
+990,Deepak Ganesan,University of Massachusetts Amherst,8,2.3
+991,Prashant J.,University of Massachusetts Amherst,6,1.7
+992,Ramesh K.,University of Massachusetts Amherst,6,1.4
+993,Don Towsley,University of Massachusetts Amherst,5,1.4
+994,Jeremy Gummeson,University of Massachusetts Amherst,4,0.8
+995,David E.,University of Massachusetts Amherst,3,0.8
+996,Weibo Gong,University of Massachusetts Amherst,3,0.9
+997,Hui Guan,University of Massachusetts Amherst,3,0.9
+998,Alexandra Meliou,University of Massachusetts Amherst,3,1.2
+999,Adam O'Neill,University of Massachusetts Amherst,3,0.7
+1000,James F.,University of Massachusetts Amherst,2,0.5
+1001,Marco Serafini,University of Massachusetts Amherst,2,0.4
+1002,Laure Thompson,University of Massachusetts Amherst,2,0.3
+1003,Andrew McGregor,University of Massachusetts Amherst,1,0.3
+1004,Jie Xiong,University of Massachusetts Amherst,1,0.5
+1005,David D.,University of Massachusetts Amherst,1,0.3
+1006,Erik G.,University of Massachusetts Amherst,1,0.3
+1007,Benjamin M.,University of Massachusetts Amherst,1,0.3
+1008,Gerome Miklau,University of Massachusetts Amherst,1,0.3
+1009,Jay Taneja,University of Massachusetts Amherst,1,0.1
+1010,Charles C.,University of Massachusetts Amherst,1,0.2
+1011,Yair Zick,University of Massachusetts Amherst,1,0.3
+1012,Shlomo Zilberstein,University of Massachusetts Amherst,1,0.2
+1013,Tao Xie,Peking University,44,9.2
+1014,Lu Zhang,Peking University,36,6.6
+1015,Xin Jin,Peking University,23,3.9
+1016,Yingfei Xiong,Peking University,20,3.4
+1017,Hong Mei,Peking University,16,3.3
+1018,Dan Hao,Peking University,15,2.4
+1019,Minghui Zhou,Peking University,14,4.4
+1020,Xuanzhe Liu,Peking University,9,1.4
+1021,Ding Li,Peking University,8,1.6
+1022,Yun Liang,Peking University,8,1.1
+1023,Guangyu Sun,Peking University,8,1.1
+1024,Zhenjiang Hu,Peking University,8,2.5
+1025,Gang Huang,Peking University,7,1.1
+1026,Xin Zhang,Peking University,7,1.6
+1027,Bing Xie,Peking University,7,1
+1028,Yao Guo,Peking University,6,0.8
+1029,Qun Huang,Peking University,5,0.9
+1030,Tao Wang,Peking University,5,0.7
+1031,Di Wang,Peking University,5,1.8
+1032,Jie Zhang,Peking University,5,1.4
+1033,Xinhui Han,Peking University,4,0.6
+1034,Jiasu Sun,Peking University,4,0.8
+1035,Wenfei Wu,Peking University,4,0.5
+1036,Tong Yang,Peking University,3,0.4
+1037,Zhi Jin,Peking University,3,0.5
+1038,Fuqing Yang,Peking University,3,0.9
+1039,Ge Li,Peking University,2,0.3
+1040,Zhi Yang,Peking University,2,0.2
+1041,Kaigui Bian,Peking University,2,0.5
+1042,Xiangqun Chen,Peking University,2,0.3
+1043,Chenren Xu,Peking University,2,0.3
+1044,Haiyan Zhao,Peking University,2,0.3
+1045,Xiaoming Li,Peking University,1,0.1
+1046,Wei Zhang,Peking University,1,0.1
+1047,Yansong Feng,Peking University,1,0.1
+1048,Zongming Guo,Peking University,1,0.2
+1049,Wenpin Jiao,Peking University,1,0.2
+1050,Wenxin Li,Peking University,1,0.3
+1051,Yingwei Luo,Peking University,1,0.1
+1052,Bin Sun,Peking University,1,0.2
+1053,Yanchun Sun,Peking University,1,0.2
+1054,Xinggong Zhang,Peking University,1,0.2
+1055,Jonathan Katz,University of Maryland - College Park,31,8.8
+1056,Michelle L.,University of Maryland - College Park,28,5.4
+1057,Dave Levin,University of Maryland - College Park,22,4.4
+1058,Ian Miers,University of Maryland - College Park,14,4
+1059,Bobby Bhattacharjee,University of Maryland - College Park,13,2.9
+1060,Tudor Dumitras,University of Maryland - College Park,13,3.4
+1061,Neil Spring,University of Maryland - College Park,13,3.5
+1062,Adam A.,University of Maryland - College Park,9,2.6
+1063,David Van,University of Maryland - College Park,8,2.3
+1064,Atif M.,University of Maryland - College Park,6,1.6
+1065,Xiaodi Wu,University of Maryland - College Park,6,1.4
+1066,Nirupam Roy,University of Maryland - College Park,4,1.3
+1067,Rajeev Barua,University of Maryland - College Park,3,0.7
+1068,Rance Cleaveland,University of Maryland - College Park,3,1.3
+1069,Dana Dachman-Soled,University of Maryland - College Park,3,0.6
+1070,Leonidas Lampropoulos,University of Maryland - College Park,3,0.8
+1071,Donald Yeung,University of Maryland - College Park,3,1.3
+1072,Min Wu,University of Maryland - College Park,2,0.5
+1073,Laxman Dhulipala,University of Maryland - College Park,2,0.6
+1074,Gang Qu,University of Maryland - College Park,1,0.3
+1075,Daniel J.,University of Maryland - College Park,1,0.1
+1076,Bahar Asgari,University of Maryland - College Park,1,0.2
+1077,John S.,University of Maryland - College Park,1,0.3
+1078,Jeffrey K.,University of Maryland - College Park,1,0.2
+1079,Hal Daumé,University of Maryland - College Park,1,0.2
+1080,Keith Marzullo,University of Maryland - College Park,1,0.3
+1081,James M.,University of Maryland - College Park,1,0.3
+1082,Aravind Srinivasan,University of Maryland - College Park,1,0.3
+1083,Alan Sussman,University of Maryland - College Park,1,0.1
+1084,Haibo Chen,Shanghai Jiao Tong University,32,6.1
+1085,Binyu Zang,Shanghai Jiao Tong University,17,3
+1086,Yubin Xia,Shanghai Jiao Tong University,12,2.1
+1087,Xiaoyao Liang,Shanghai Jiao Tong University,11,2.4
+1088,Rong Chen,Shanghai Jiao Tong University,10,2.3
+1089,Jingwen Leng,Shanghai Jiao Tong University,10,1.7
+1090,Minyi Guo,Shanghai Jiao Tong University,9,1.4
+1091,Haojin Zhu,Shanghai Jiao Tong University,9,1.4
+1092,Quan Chen,Shanghai Jiao Tong University,7,1.1
+1093,Chao Li,Shanghai Jiao Tong University,7,1.2
+1094,Hao Zhong,Shanghai Jiao Tong University,6,1.5
+1095,Hongfei Fu,Shanghai Jiao Tong University,6,1.3
+1096,Dawu Gu,Shanghai Jiao Tong University,6,1.1
+1097,Haibing Guan,Shanghai Jiao Tong University,6,1
+1098,Dong Du,Shanghai Jiao Tong University,5,0.8
+1099,Guoxing Chen,Shanghai Jiao Tong University,5,1.3
+1100,Guoqiang Li,Shanghai Jiao Tong University,4,0.6
+1101,Xiaodong Gu,Shanghai Jiao Tong University,4,1.1
+1102,Yuting Chen,Shanghai Jiao Tong University,4,1.1
+1103,Xingda Wei,Shanghai Jiao Tong University,4,1
+1104,Yi-Chao Chen,Shanghai Jiao Tong University,3,0.5
+1105,Yuanyuan Zhang,Shanghai Jiao Tong University,3,0.6
+1106,Yu Yu,Shanghai Jiao Tong University,2,0.5
+1107,Yuting Wang,Shanghai Jiao Tong University,2,0.6
+1108,Li Jiang,Shanghai Jiao Tong University,2,0.3
+1109,Dongyao Chen,Shanghai Jiao Tong University,2,0.4
+1110,Guihai Chen,Shanghai Jiao Tong University,2,0.2
+1111,Zeyu Mi,Shanghai Jiao Tong University,2,0.4
+1112,Zhengwei Qi,Shanghai Jiao Tong University,2,0.3
+1113,Beijun Shen,Shanghai Jiao Tong University,2,0.5
+1114,Zhaoguo Wang,Shanghai Jiao Tong University,2,0.3
+1115,Mingyu Wu,Shanghai Jiao Tong University,1,0.1
+1116,Weijia Jia,Shanghai Jiao Tong University,1,0.2
+1117,Weinan Zhang,Shanghai Jiao Tong University,1,0.1
+1118,Yong Yu,Shanghai Jiao Tong University,1,0.1
+1119,Fan Wu,Shanghai Jiao Tong University,1,0.1
+1120,Zhen Liu,Shanghai Jiao Tong University,1,0.3
+1121,Haopeng Chen,Shanghai Jiao Tong University,1,0.2
+1122,James Lin,Shanghai Jiao Tong University,1,0.1
+1123,Geng Wang,Shanghai Jiao Tong University,1,0.2
+1124,Xinbing Wang,Shanghai Jiao Tong University,1,0.1
+1125,Ningyi Xu,Shanghai Jiao Tong University,1,0.1
+1126,Wenli Zheng,Shanghai Jiao Tong University,1,0.1
+1127,Kenny Q.,Shanghai Jiao Tong University,1,0.3
+1128,Eran Yahav,Technion,24,8.5
+1129,Dan Tsafrir,Technion,15,3.5
+1130,Yuval Ishai,Technion,14,3.3
+1131,Mark Silberstein,Technion,14,3
+1132,Yoav Etsion,Technion,13,4.1
+1133,Erez Petrank,Technion,10,4
+1134,Ittay Eyal,Technion,7,2.5
+1135,Dana Drachsler-Cohen,Technion,6,1.2
+1136,Idit Keidar,Technion,6,1.3
+1137,Isaac Keslassy,Technion,4,0.7
+1138,Ori Rottenstreich,Technion,4,1
+1139,Assaf Schuster,Technion,4,0.9
+1140,Uri C.,Technion,4,1.3
+1141,Eli Ben-Sasson,Technion,3,0.6
+1142,Joseph Gil,Technion,3,1.8
+1143,Hagit Attiya,Technion,2,0.5
+1144,Roy Friedman,Technion,2,0.3
+1145,Shahar Kvatinsky,Technion,2,0.4
+1146,Shie Mannor,Technion,2,0.5
+1147,Ofer Strichman,Technion,2,0.6
+1148,Israel Cidon,Technion,1,0.3
+1149,Ran El-Yaniv,Technion,1,0.3
+1150,Avigdor Gal,Technion,1,0.5
+1151,Orna Grumberg,Technion,1,0.3
+1152,Benny Kimelfeld,Technion,1,0.3
+1153,Ariel Orda,Technion,1,0.1
+1154,Eitan Yaakobi,Technion,1,0.1
+1155,Zhiqiang Lin,Ohio State University,40,10.3
+1156,Atanas Rountev,Ohio State University,19,6
+1157,Michael D.,Ohio State University,16,4.7
+1158,Feng Qin,Ohio State University,12,2.2
+1159,Radu Teodorescu,Ohio State University,11,3.5
+1160,Yang Wang,Ohio State University,8,1.4
+1161,Ting Zhu,Ohio State University,5,1
+1162,Carter Yagemann,Ohio State University,4,0.7
+1163,Kannan Srinivasan,Ohio State University,3,1
+1164,Martin Kong,Ohio State University,3,0.8
+1165,Ten-Hwang Lai,Ohio State University,2,0.5
+1166,Christopher Stewart,Ohio State University,2,0.7
+1167,Shaileshh Bojja,Ohio State University,2,0.3
+1168,Xiaorui Wang,Ohio State University,2,0.6
+1169,Dong Xuan,Ohio State University,2,0.4
+1170,Xiaodong Zhang,Ohio State University,1,0.3
+1171,Anish Arora,Ohio State University,1,0.2
+1172,Raef Bassily,Ohio State University,1,0.3
+1173,Paolo A.,Ohio State University,1,0.5
+1174,Neelam Soundarajan,Ohio State University,1,0.5
+1175,Hai-Xin Duan,Tsinghua University,28,3.6
+1176,Chao Zhang,Tsinghua University,19,2.7
+1177,Qi Li,Tsinghua University,14,2.2
+1178,Yu Jiang,Tsinghua University,11,1.6
+1179,Wenguang Chen,Tsinghua University,10,2.1
+1180,Yuanjie Li,Tsinghua University,9,1.5
+1181,Jidong Zhai,Tsinghua University,9,1.3
+1182,Kang Chen,Tsinghua University,8,1.3
+1183,Dan Pei,Tsinghua University,8,1.1
+1184,Yongwei Wu,Tsinghua University,8,1.3
+1185,Mingwei Xu,Tsinghua University,8,1.3
+1186,Shi-Min Hu,Tsinghua University,7,1.4
+1187,Fei He,Tsinghua University,6,2
+1188,Ke Xu,Tsinghua University,6,0.9
+1189,Zhuotao Liu,Tsinghua University,6,0.9
+1190,Jia-Guang Sun,Tsinghua University,5,0.7
+1191,Zhenhua Li,Tsinghua University,5,0.6
+1192,Jianjun Chen,Tsinghua University,5,0.8
+1193,Youyou Lu,Tsinghua University,5,1.1
+1194,Jianping Wu,Tsinghua University,5,0.7
+1195,Dan Li,Tsinghua University,4,0.5
+1196,Fengyuan Ren,Tsinghua University,4,1
+1197,Youhui Zhang,Tsinghua University,4,0.7
+1198,Bin Liu,Tsinghua University,3,0.3
+1199,Zheng Yang,Tsinghua University,3,0.5
+1200,Yangdong Deng,Tsinghua University,3,0.5
+1201,Dong Xiang,Tsinghua University,3,0.7
+1202,Jun Zhu,Tsinghua University,2,0.5
+1203,Yong Cui,Tsinghua University,2,0.3
+1204,Yuanchun Shi,Tsinghua University,2,0.4
+1205,Zhiliang Wang,Tsinghua University,2,0.2
+1206,Wenwu Zhu,Tsinghua University,1,0.1
+1207,Dongsheng Wang,Tsinghua University,1,0.3
+1208,Yuan He,Tsinghua University,1,0.1
+1209,Jun Bi,Tsinghua University,1,0.2
+1210,Ran Duan,Tsinghua University,1,0.1
+1211,Lin Qiao,Tsinghua University,1,0
+1212,Hai Wan,Tsinghua University,1,0.2
+1213,Andrew Chi-Chih,Tsinghua University,1,0.5
+1214,Xia Yin,Tsinghua University,1,0.1
+1215,Yaoxue Zhang,Tsinghua University,1,0.3
+1216,Youjian Zhao,Tsinghua University,1,0.2
+1217,Jianwei Zhuge,Tsinghua University,1,0.2
+1218,Zhou Li,Univ. of California - Irvine,24,4.3
+1219,Sam Malek,Univ. of California - Irvine,20,6.7
+1220,Gene Tsudik,Univ. of California - Irvine,18,4.5
+1221,Brian Demsky,Univ. of California - Irvine,16,5.4
+1222,Qi Alfred,Univ. of California - Irvine,13,2.7
+1223,Michael Franz,Univ. of California - Irvine,12,1.9
+1224,James A.,Univ. of California - Irvine,10,3.8
+1225,Richard N.,Univ. of California - Irvine,10,3.6
+1226,Iftekhar Ahmed,Univ. of California - Irvine,8,1.9
+1227,Joshua Garcia,Univ. of California - Irvine,8,2
+1228,André van,Univ. of California - Irvine,8,3
+1229,Ardalan Amiri,Univ. of California - Irvine,7,1.4
+1230,Mohsen Imani,Univ. of California - Irvine,6,1.3
+1231,Stanislaw Jarecki,Univ. of California - Irvine,6,1.7
+1232,Cristina V.,Univ. of California - Irvine,6,2.4
+1233,Sangeetha Abdu,Univ. of California - Irvine,5,1.4
+1234,Michael T.,Univ. of California - Irvine,4,3.3
+1235,Alexander V.,Univ. of California - Irvine,4,0.7
+1236,Pierre Baldi,Univ. of California - Irvine,3,0.5
+1237,Sang Woo,Univ. of California - Irvine,3,0.6
+1238,David F.,Univ. of California - Irvine,3,1
+1239,Nikil D.,Univ. of California - Irvine,2,0.3
+1240,Mohammad Abdullah,Univ. of California - Irvine,2,0.8
+1241,Aparna Chandramowlishwaran,Univ. of California - Irvine,1,0.2
+1242,Paul Dourish,Univ. of California - Irvine,1,0.5
+1243,David Eppstein,Univ. of California - Irvine,1,0.3
+1244,Vijay V.,Univ. of California - Irvine,1,0.2
+1245,Damon McCoy,New York University,33,5.1
+1246,Michael Walfish,New York University,22,5
+1247,Aurojit Panda,New York University,19,3
+1248,Anirudh Sivaraman,New York University,15,2.6
+1249,Jinyang Li,New York University,13,3.1
+1250,Joseph Bonneau,New York University,11,3.3
+1251,Justin Cappos,New York University,11,2.5
+1252,Lakshminarayanan Subramanian,New York University,11,2.7
+1253,Brendan Dolan-Gavitt,New York University,10,2.5
+1254,Joseph Tassarotti,New York University,10,2.4
+1255,Patrick Cousot,New York University,8,3.3
+1256,Rachel Greenstadt,New York University,7,1.4
+1257,Thomas Wies,New York University,7,2.4
+1258,Yevgeniy Dodis,New York University,5,1.2
+1259,Nasir D.,New York University,3,1
+1260,Dennis E.,New York University,3,0.8
+1261,Victor Shoup,New York University,3,0.8
+1262,Siddharth Garg,New York University,2,0.5
+1263,Danny Yuxing,New York University,2,0.2
+1264,Ramesh Karri,New York University,2,0.5
+1265,Marshall Ball,New York University,1,0.3
+1266,Phyllis G.,New York University,1,0.3
+1267,Daniel A.,Texas A&M University,24,8.6
+1268,Jeff Huang,Texas A&M University,23,9.5
+1269,Guofei Gu,Texas A&M University,23,4.8
+1270,Yupeng Zhang,Texas A&M University,17,4.1
+1271,Paul Gratz,Texas A&M University,10,1.8
+1272,Nitesh Saxena,Texas A&M University,9,3.3
+1273,Abdullah Muzahid,Texas A&M University,6,1.9
+1274,Eun Jung,Texas A&M University,5,1.5
+1275,Nick G.,Texas A&M University,5,1.7
+1276,Dmitri Loguinov,Texas A&M University,5,1.4
+1277,Chia-che Tsai,Texas A&M University,5,1
+1278,Juan A.,Texas A&M University,2,0.5
+1279,Jiang Hu,Texas A&M University,1,0.1
+1280,Catherine C.,Texas A&M University,1,0.1
+1281,Dilma Da,Texas A&M University,1,0.2
+1282,Tor M.,University of British Columbia,22,6.2
+1283,Gail C.,University of British Columbia,21,7.7
+1284,Ali Mesbah,University of British Columbia,20,7.2
+1285,Prashant J.,University of British Columbia,14,3.7
+1286,Ivan Beschastnikh,University of British Columbia,12,2.4
+1287,Reid Holmes,University of British Columbia,12,4.4
+1288,Julia Rubin,University of British Columbia,8,2.7
+1289,Karthik Pattabiraman,University of British Columbia,7,2.1
+1290,William Aiello,University of British Columbia,6,1.4
+1291,Alexandra Fedorova,University of British Columbia,6,1.1
+1292,Mathias Lécuyer,University of British Columbia,6,1.1
+1293,Margo I.,University of British Columbia,5,1
+1294,William J.,University of British Columbia,4,1.3
+1295,Ronald Garcia,University of British Columbia,4,1.4
+1296,Aastha Mehta,University of British Columbia,4,0.7
+1297,William S.,University of British Columbia,2,1
+1298,Nicholas J.,University of British Columbia,2,0.4
+1299,Alan J.,University of British Columbia,2,1
+1300,Caroline Lemieux,University of British Columbia,2,0.4
+1301,Thomas Pasquier,University of British Columbia,2,0.3
+1302,Mohammad Shahrad,University of British Columbia,2,0.4
+1303,Gregor Kiczales,University of British Columbia,1,0.5
+1304,F. Bruce,University of British Columbia,1,0.2
+1305,Gregg Rothermel,North Carolina State University,25,6.8
+1306,Xipeng Shen,North Carolina State University,25,6.4
+1307,William Enck,North Carolina State University,18,3.9
+1308,Tim Menzies,North Carolina State University,17,5.4
+1309,Alexandros Kapravelos,North Carolina State University,13,2.6
+1310,James Tuck,North Carolina State University,13,4.1
+1311,Amro Awad,North Carolina State University,11,3.1
+1312,Bradley Reaves,North Carolina State University,11,2.1
+1313,Eric Rotenberg,North Carolina State University,11,3.6
+1314,Xu Liu,North Carolina State University,10,2.4
+1315,Guoliang Jin,North Carolina State University,10,2.6
+1316,Laurie A.,North Carolina State University,8,2.6
+1317,Kathryn T.,North Carolina State University,7,2.8
+1318,Marcelo d'Amorim,North Carolina State University,7,1.7
+1319,Huiyang Zhou,North Carolina State University,6,2
+1320,Douglas S.,North Carolina State University,4,1.3
+1321,Alessandra Scafuro,North Carolina State University,3,0.8
+1322,Anupam Das,North Carolina State University,2,0.6
+1323,Munindar P.,North Carolina State University,2,0.7
+1324,Frank Mueller,North Carolina State University,1,0.2
+1325,Jiajia Li,North Carolina State University,1,0.3
+1326,Muhammad Shahzad,North Carolina State University,1,0.3
+1327,Greg Byrd,North Carolina State University,1,0.3
+1328,Xiaohui Gu,North Carolina State University,1,0.2
+1329,Sandeep Kaur,North Carolina State University,1,0.3
+1330,John-Paul Ore,North Carolina State University,1,0.2
+1331,Shmuel Sagiv,Tel Aviv University,29,6.3
+1332,Adam Morrison,Tel Aviv University,21,5.7
+1333,Ori Lahav,Tel Aviv University,16,4.6
+1334,Shahar Maoz,Tel Aviv University,16,6.6
+1335,Sharon Shoham,Tel Aviv University,13,3.1
+1336,Eran Tromer,Tel Aviv University,13,3.6
+1337,Noam Rinetzky,Tel Aviv University,12,3.1
+1338,Eyal Ronen,Tel Aviv University,8,2.2
+1339,Omer Levy,Tel Aviv University,2,0.5
+1340,Mahmood Sharif,Tel Aviv University,2,0.5
+1341,Haim Kaplan,Tel Aviv University,1,0.5
+1342,Sivan Toledo,Tel Aviv University,1,0.2
+1343,Peter Sewell,University of Cambridge,26,5.4
+1344,Robert N.,University of Cambridge,17,2.4
+1345,Timothy M.,University of Cambridge,13,4
+1346,Neelakantan R.,University of Cambridge,11,4.5
+1347,Simon W.,University of Cambridge,9,0.9
+1348,Anil Madhavapeddy,University of Cambridge,7,1.3
+1349,Ross J.,University of Cambridge,5,1.4
+1350,Jon Crowcroft,University of Cambridge,5,0.6
+1351,Timothy G.,University of Cambridge,5,1.9
+1352,Richard Mortier,University of Cambridge,5,1
+1353,Marcelo P.,University of Cambridge,4,2.2
+1354,Andrew W.,University of Cambridge,3,0.5
+1355,Alastair R.,University of Cambridge,3,0.9
+1356,Srinivasan Keshav,University of Cambridge,3,0.8
+1357,Cecilia Mascolo,University of Cambridge,3,0.9
+1358,Andrew M.,University of Cambridge,3,2
+1359,Jeremy Yallop,University of Cambridge,3,1
+1360,Markus G.,University of Cambridge,2,2
+1361,Andrew C.,University of Cambridge,2,0.7
+1362,Damon Wischik,University of Cambridge,2,0.4
+1363,José Miguel,University of Cambridge,1,0.1
+1364,Nicholas D.,University of Cambridge,1,0.1
+1365,Ian M.,University of Cambridge,1,0.1
+1366,Robert D.,University of Cambridge,1,0.3
+1367,Alan Mycroft,University of Cambridge,1,0.5
+1368,Lawrence C.,University of Cambridge,1,0.3
+1369,Frank Stajano,University of Cambridge,1,0.3
+1370,Abhishek Bhattacharjee,Yale University,25,8.7
+1371,Charalampos Papamanthou,Yale University,23,6.2
+1372,Zhong Shao,Yale University,22,6
+1373,Yang Richard,Yale University,13,2.9
+1374,Fan Zhang,Yale University,8,1.4
+1375,Wenjun Hu,Yale University,8,1.9
+1376,Ruzica Piskac,Yale University,8,1.6
+1377,Anurag Khandelwal,Yale University,7,1.8
+1378,Robert Soulé,Yale University,7,1.1
+1379,Jakub Szefer,Yale University,7,2.3
+1380,Lin Zhong,Yale University,6,1.5
+1381,Ben Fisch,Yale University,4,0.8
+1382,Rajit Manohar,Yale University,3,0.7
+1383,Joan Feigenbaum,Yale University,2,0.6
+1384,John D.,Yale University,2,0.5
+1385,Avi Silberschatz,Yale University,2,0.5
+1386,Yang Cai,Yale University,1,0.3
+1387,James Aspnes,Yale University,1,0.1
+1388,Michael J.,Yale University,1,0.1
+1389,David Gelernter,Yale University,1,0.2
+1390,Leandros Tassiulas,Yale University,1,0.1
+1391,Nick Nikiforakis,Stony Brook University,24,5.8
+1392,Dongyoon Lee,Stony Brook University,18,4.4
+1393,R. Sekar,Stony Brook University,17,5.3
+1394,Michalis Polychronakis,Stony Brook University,16,4
+1395,Michael Ferdman,Stony Brook University,12,2.7
+1396,Omar Chowdhury,Stony Brook University,9,1.7
+1397,Nima Honarmand,Stony Brook University,8,2.2
+1398,Radu Sion,Stony Brook University,8,2.6
+1399,Aruna Balasubramanian,Stony Brook University,6,1.5
+1400,Amir Rahmati,Stony Brook University,6,1.3
+1401,Shuai Mu,Stony Brook University,5,1.4
+1402,Erez Zadok,Stony Brook University,5,1.4
+1403,Peter A.,Stony Brook University,4,1
+1404,Scott D.,Stony Brook University,4,0.8
+1405,Samir Ranjan,Stony Brook University,3,0.6
+1406,Nengkun Yu,Stony Brook University,3,1
+1407,Himanshu Gupta,Stony Brook University,2,0.3
+1408,Zhenhua Liu,Stony Brook University,2,0.4
+1409,Shubham Jain,Stony Brook University,2,0.4
+1410,Xin Wang,Stony Brook University,1,0.1
+1411,Yanhong A.,Stony Brook University,1,0.2
+1412,Omkant Pandey,Stony Brook University,1,0.3
+1413,C. R.,Stony Brook University,1,0.3
+1414,Owen Rambow,Stony Brook University,1,0.3
+1415,Dimitris Samaras,Stony Brook University,1,0.2
+1416,Rong Zhao,Stony Brook University,1,0.3
+1417,Cristian Cadar,Imperial College London,16,5.1
+1418,Nobuko Yoshida,Imperial College London,14,5.6
+1419,Arthur Gervais,Imperial College London,12,2.7
+1420,Jeff Kramer,Imperial College London,12,3
+1421,Alastair F.,Imperial College London,11,3.5
+1422,Antonio Filieri,Imperial College London,11,3
+1423,Cristiano Calcagno,Imperial College London,9,3.7
+1424,Philippa Gardner,Imperial College London,9,2.3
+1425,Peter R.,Imperial College London,8,1.3
+1426,Azalea Raad,Imperial College London,7,1.9
+1427,Dalal Alrajeh,Imperial College London,6,1.6
+1428,Lluís Vilanova,Imperial College London,6,1.4
+1429,Alessandra Russo,Imperial College London,5,1.2
+1430,Marios Kogias,Imperial College London,4,0.9
+1431,Sergio Maffeis,Imperial College London,4,1.1
+1432,Yves-Alexandre de,Imperial College London,4,1
+1433,Antoine Cully,Imperial College London,2,0.5
+1434,Soteris Demetriou,Imperial College London,2,0.5
+1435,William J.,Imperial College London,2,0.4
+1436,Nicolas Wu,Imperial College London,2,0.5
+1437,Sophia Drossopoulou,Imperial College London,1,0.3
+1438,Wayne Luk,Imperial College London,1,0.1
+1439,Emil C.,Imperial College London,1,0.3
+1440,Ramesh Govindan,University of Southern California,29,6.5
+1441,Murali Annavaram,University of Southern California,22,5.5
+1442,Chao Wang,University of Southern California,20,7.1
+1443,Nenad Medvidovic,University of Southern California,14,3.7
+1444,William G.,University of Southern California,13,3.8
+1445,Barath Raghavan,University of Southern California,11,2.7
+1446,Mukund Raghothaman,University of Southern California,10,2.6
+1447,Muhammad Naveed,University of Southern California,9,1.7
+1448,Weihang Wang,University of Southern California,6,1.2
+1449,Souti Chattopadhyay,University of Southern California,3,0.6
+1450,Barry W.,University of Southern California,2,1.3
+1451,Xiang Ren,University of Southern California,1,0.2
+1452,Jyotirmoy V.,University of Southern California,1,0.2
+1453,Leana Golubchik,University of Southern California,1,0.3
+1454,Minlan Yu,Harvard University,28,4.8
+1455,David Brooks,Harvard University,27,5.8
+1456,Eddie Kohler,Harvard University,16,3.6
+1457,James W.,Harvard University,15,4.9
+1458,Stephen Chong,Harvard University,14,4.8
+1459,Nada Amin,Harvard University,5,2.1
+1460,Michael Mitzenmacher,Harvard University,5,1.1
+1461,Michael D.,Harvard University,4,1.3
+1462,H. T.,Harvard University,2,0.6
+1463,David C.,Harvard University,2,0.6
+1464,Boaz Barak,Harvard University,1,0.5
+1465,Krzysztof Z.,Harvard University,1,0.2
+1466,Elena L.,Harvard University,1,0.2
+1467,Salil P.,Harvard University,1,0.3
+1468,Matthew Hicks,Virginia Tech,20,6.5
+1469,Changwoo Min,Virginia Tech,16,3.5
+1470,Xun Jian,Virginia Tech,9,2.1
+1471,Francisco Servant,Virginia Tech,9,3.8
+1472,Na Meng,Virginia Tech,8,2
+1473,Peng Gao,Virginia Tech,8,1.1
+1474,Barbara G.,Virginia Tech,8,2.6
+1475,Taejoong Chung,Virginia Tech,7,1
+1476,Bimal Viswanath,Virginia Tech,7,1.2
+1477,Danfeng Yao,Virginia Tech,7,1.6
+1478,Muhammad Ali,Virginia Tech,4,0.8
+1479,Godmar Back,Virginia Tech,3,1
+1480,Shaddi Hasan,Virginia Tech,3,0.5
+1481,Dan Williams,Virginia Tech,3,0.6
+1482,Chris Brown,Virginia Tech,2,0.8
+1483,Ali Raza,Virginia Tech,2,0.4
+1484,Thang Hoang,Virginia Tech,2,0.4
+1485,Dimitrios S.,Virginia Tech,2,0.6
+1486,Eli Tilevich,Virginia Tech,2,1
+1487,Kirk W.,Virginia Tech,1,0.1
+1488,Wenjing Lou,Virginia Tech,1,0.3
+1489,Naren Ramakrishnan,Virginia Tech,1,0.3
+1490,Chandan K.,Virginia Tech,1,0.1
+1491,Jangwoo Kim,Seoul National University,31,6.3
+1492,Byoungyoung Lee,Seoul National University,23,5
+1493,Jae W.,Seoul National University,22,3.8
+1494,Chung-Kil Hur,Seoul National University,17,3.5
+1495,Jung Ho,Seoul National University,16,2.8
+1496,Byung-Gon Chun,Seoul National University,13,2.6
+1497,Kwangkeun Yi,Seoul National University,9,2.1
+1498,Jaejin Lee,Seoul National University,8,1.9
+1499,Yunheung Paek,Seoul National University,5,0.8
+1500,Jaewoong Sim,Seoul National University,5,1.1
+1501,Jihong Kim,Seoul National University,4,0.6
+1502,Jung Hee,Seoul National University,3,0.9
+1503,Sungjoo Yoo,Seoul National University,3,0.8
+1504,Kiyoung Choi,Seoul National University,2,0.5
+1505,Ted Taekyoung,Seoul National University,2,0.4
+1506,Seung-won Hwang,Seoul National University,1,0.3
+1507,Sang Lyul,Seoul National University,1,0.1
+1508,Cormac Flanagan,Univ. of California - Santa Cruz,17,7.2
+1509,Heiner Litz,Univ. of California - Santa Cruz,13,2.4
+1510,Jose Renau,Univ. of California - Santa Cruz,11,3.5
+1511,Andrew Quinn,Univ. of California - Santa Cruz,7,1.6
+1512,Alvaro A.,Univ. of California - Santa Cruz,7,1.7
+1513,E. James,Univ. of California - Santa Cruz,6,1.3
+1514,Tyler Sorensen,Univ. of California - Santa Cruz,5,1.5
+1515,Owen Arden,Univ. of California - Santa Cruz,4,0.9
+1516,Abhradeep Thakurta,Univ. of California - Santa Cruz,4,0.8
+1517,Alexander L.,Univ. of California - Santa Cruz,4,1.7
+1518,Chen Qian,Univ. of California - Santa Cruz,3,0.8
+1519,Carlos Maltzahn,Univ. of California - Santa Cruz,3,0.5
+1520,Yang Liu,Univ. of California - Santa Cruz,2,0.3
+1521,Peter Alvaro,Univ. of California - Santa Cruz,2,0.3
+1522,Lindsey Kuper,Univ. of California - Santa Cruz,2,0.5
+1523,Ethan L.,Univ. of California - Santa Cruz,2,0.4
+1524,Scott Beamer,Univ. of California - Santa Cruz,1,0.1
+1525,Scott A.,Univ. of California - Santa Cruz,1,0.2
+1526,Daniel J.,Univ. of California - Santa Cruz,1,0.2
+1527,Matthew R.,Univ. of California - Santa Cruz,1,0.3
+1528,Darrell D.,Univ. of California - Santa Cruz,1,0.2
+1529,Anujan Varma,Univ. of California - Santa Cruz,1,0.3
+1530,Sebastian G.,University of Virginia,30,8.8
+1531,David Evans,University of Virginia,17,7.1
+1532,Sandhya Dwarkadas,University of Virginia,17,4.9
+1533,Matthew B.,University of Virginia,15,4
+1534,Kevin Skadron,University of Virginia,15,3.1
+1535,Yonghwi Kwon,University of Virginia,13,2.2
+1536,Yuan Tian,University of Virginia,12,2
+1537,Tianhao Wang,University of Virginia,11,2.2
+1538,Samira Manabi,University of Virginia,11,2.3
+1539,Ashish Venkat,University of Virginia,11,3.3
+1540,Mary Lou,University of Virginia,10,3
+1541,Felix Xiaozhu,University of Virginia,6,2
+1542,Jack W.,University of Virginia,5,0.9
+1543,Yixin Sun,University of Virginia,4,0.7
+1544,Wajih Ul,University of Virginia,3,0.8
+1545,Bradford Campbell,University of Virginia,2,0.5
+1546,Mohammad Mahmoody,University of Virginia,1,0.1
+1547,Haiying Shen,University of Virginia,1,0.1
+1548,Kevin Sullivan,University of Virginia,1,0.3
+1549,Michael K.,Duke University,49,15.1
+1550,Neil Zhenqiang,Duke University,16,4.9
+1551,Alvin R.,Duke University,15,3.7
+1552,Bruce M.,Duke University,15,2.4
+1553,Daniel J.,Duke University,14,4.4
+1554,Xiaowei Yang,Duke University,11,3.3
+1555,Kartik Nayak,Duke University,10,2.1
+1556,Danyang Zhuo,Duke University,10,1.5
+1557,Jeffrey S.,Duke University,8,1.7
+1558,Lisa Wu,Duke University,7,1.7
+1559,Yiran Chen,Duke University,5,0.8
+1560,Hai Helen,Duke University,3,0.6
+1561,Pardis Emami,Duke University,3,0.6
+1562,Matthew Lentz,Duke University,2,0.5
+1563,Ashwin Machanavajjhala,Duke University,2,0.5
+1564,Sayan Mukherjee,Duke University,1,0.2
+1565,Miroslav Pajic,Duke University,1,0.2
+1566,Jian Pei,Duke University,1,0.3
+1567,Xinyu Xing,Northwestern University,26,5.1
+1568,Xiao Wang,Northwestern University,20,4.6
+1569,Yan Chen,Northwestern University,16,2.7
+1570,Simone Campanoni,Northwestern University,10,1.9
+1571,Gokhan Memik,Northwestern University,10,2.4
+1572,Robert Bruce,Northwestern University,9,2.7
+1573,Nikos Hardavellas,Northwestern University,8,1.4
+1574,Peter A.,Northwestern University,7,1.2
+1575,Fabián E.,Northwestern University,6,1.7
+1576,Christos Dimoulas,Northwestern University,6,1.4
+1577,Aleksandar Kuzmanovic,Northwestern University,6,2.3
+1578,Alok N.,Northwestern University,4,0.7
+1579,Russ Joseph,Northwestern University,4,1.4
+1580,Josiah D.,Northwestern University,3,0.6
+1581,Jie Gu,Northwestern University,1,0.3
+1582,Jason D.,Northwestern University,1,0.3
+1583,Ming-Yang Kao,Northwestern University,1,0.2
+1584,Konstantin Makarychev,Northwestern University,1,0.2
+1585,Hai Zhou,Northwestern University,1,0.2
+1586,Rajeev Balasubramonian,University of Utah,25,6.3
+1587,P. Sadayappan,University of Utah,16,2.9
+1588,John Regehr,University of Utah,11,2.8
+1589,Jun Xu,University of Utah,10,1.6
+1590,Al Davis,University of Utah,10,1.8
+1591,Ryan Stutsman,University of Utah,9,1.4
+1592,Pavel Panchekha,University of Utah,7,1.7
+1593,Matthew Flatt,University of Utah,6,2.5
+1594,Mu Zhang,University of Utah,5,0.8
+1595,Mary W.,University of Utah,5,1.2
+1596,Stefan Nagy,University of Utah,4,1.1
+1597,Mahdi Nazm,University of Utah,3,1.1
+1598,Pierre-Emmanuel Gaillardon,University of Utah,3,0.5
+1599,Ganesh Gopalakrishnan,University of Utah,3,0.8
+1600,Jacobus E.,University of Utah,3,0.7
+1601,Anton Burtsev,University of Utah,2,0.3
+1602,Zvonimir Rakamaric,University of Utah,2,0.5
+1603,Vivek Srikumar,University of Utah,2,0.4
+1604,Tamara Denning,University of Utah,1,0.3
+1605,Sneha Kumar,University of Utah,1,0.1
+1606,Erin Parker,University of Utah,1,0.3
+1607,Sameer Patil,University of Utah,1,0.2
+1608,Chang Xu,Nanjing University,25,5.6
+1609,Baowen Xu,Nanjing University,16,2.8
+1610,Jian Lu,Nanjing University,13,2.2
+1611,Xiaoxing Ma,Nanjing University,13,2.3
+1612,Yanyan Jiang,Nanjing University,11,2.3
+1613,Xinyu Feng,Nanjing University,10,4.3
+1614,Chen Tian,Nanjing University,8,1
+1615,Zhenyu Chen,Nanjing University,8,1.4
+1616,Zhiqiang Zuo,Nanjing University,8,1.2
+1617,Yang Feng,Nanjing University,8,1.5
+1618,Hongjin Liang,Nanjing University,7,2.9
+1619,Chunrong Fang,Nanjing University,7,1.3
+1620,Lei Xu,Nanjing University,6,0.9
+1621,Lin Chen,Nanjing University,6,1
+1622,Yuming Zhou,Nanjing University,6,0.9
+1623,Chun Cao,Nanjing University,5,0.8
+1624,Xuandong Li,Nanjing University,5,0.8
+1625,Bing Mao,Nanjing University,5,0.9
+1626,Fengyuan Xu,Nanjing University,5,0.7
+1627,He Zhang,Nanjing University,4,0.9
+1628,Minxue Pan,Nanjing University,4,0.6
+1629,Yuan Yao,Nanjing University,3,0.4
+1630,Bin Luo,Nanjing University,3,0.4
+1631,Yue Li,Nanjing University,3,0.7
+1632,Linzhang Wang,Nanjing University,3,0.4
+1633,Tian Tan,Nanjing University,2,0.6
+1634,Tian Zhang,Nanjing University,2,0.4
+1635,Xiaoliang Wang,Nanjing University,2,0.3
+1636,Sheng Zhong,Nanjing University,2,0.5
+1637,Wei Wang,Nanjing University,2,0.4
+1638,Changhai Nie,Nanjing University,2,0.5
+1639,Yibiao Yang,Nanjing University,2,0.3
+1640,Qingkai Zeng,Nanjing University,2,0.5
+1641,Yuan Zhang,Nanjing University,1,0.3
+1642,Lijun Chen,Nanjing University,1,0.2
+1643,Feng Xu,Nanjing University,1,0.1
+1644,Wei Hu,Nanjing University,1,0.3
+1645,Jia Liu,Nanjing University,1,0.2
+1646,Jiajun Chen,Nanjing University,1,0.1
+1647,Wan-Chun Dou,Nanjing University,1,0.1
+1648,Shen Furao,Nanjing University,1,0.1
+1649,Dong Shao,Nanjing University,1,0.3
+1650,Enyi Tang,Nanjing University,1,0.1
+1651,XianPing Tao,Nanjing University,1,0.3
+1652,Jianhua Zhao,Nanjing University,1,0.1
+1653,Zhi-Hua Zhou,Nanjing University,1,0.1
+1654,Mark Handley,University College London,21,5.3
+1655,Earl T.,University College London,19,4.7
+1656,Federica Sarro,University College London,11,2.7
+1657,Brad Karp,University College London,10,2.9
+1658,Emmanuel Letier,University College London,8,3.3
+1659,Steven J.,University College London,8,3.3
+1660,Stefano Vissicchio,University College London,8,1.8
+1661,Emiliano De,University College London,7,1.3
+1662,Wolfgang Emmerich,University College London,7,2.2
+1663,Lorenzo Cavallaro,University College London,6,1.1
+1664,Philipp Jovanovic,University College London,6,0.9
+1665,Jens Krinke,University College London,5,1.1
+1666,Sergey Mechtaev,University College London,5,1.4
+1667,James Brotherston,University College London,4,1.6
+1668,Ran Ben-Basat,University College London,3,0.5
+1669,Nicolas E.,University College London,3,0.5
+1670,Licia Capra,University College London,2,1.3
+1671,David Clark,University College London,2,0.3
+1672,Fabio Zanasi,University College London,2,0.5
+1673,Chris Evans,University College London,1,0.3
+1674,Mirco Musolesi,University College London,1,0.3
+1675,Tim Weyrich,University College London,1,0.2
+1676,Boris Grot,University of Edinburgh,21,4.8
+1677,Aggelos Kiayias,University of Edinburgh,18,5.5
+1678,Markulf Kohlweiss,University of Edinburgh,16,3.3
+1679,Vijay Nagarajan,University of Edinburgh,13,3.6
+1680,Michael F.,University of Edinburgh,9,2.5
+1681,Michio Honda,University of Edinburgh,5,0.9
+1682,Gordon D.,University of Edinburgh,5,1.8
+1683,Philip Wadler,University of Edinburgh,5,1.7
+1684,Myungjin Lee,University of Edinburgh,4,1.1
+1685,Antonio Barbalace,University of Edinburgh,2,0.3
+1686,James Cheney,University of Edinburgh,2,0.4
+1687,Björn Franke,University of Edinburgh,2,0.5
+1688,Chris Heunen,University of Edinburgh,2,0.6
+1689,Hugh Leather,University of Edinburgh,2,0.5
+1690,Liam O'Connor,University of Edinburgh,2,0.6
+1691,Ian Stark,University of Edinburgh,2,0.1
+1692,Nigel P.,University of Edinburgh,2,0.5
+1693,Stratis Viglas,University of Edinburgh,2,0.5
+1694,Myrto Arapinis,University of Edinburgh,1,0.1
+1695,Murray Cole,University of Edinburgh,1,0.2
+1696,Kousha Etessami,University of Edinburgh,1,0.3
+1697,Richard Mayr,University of Edinburgh,1,0.5
+1698,Paul Patras,University of Edinburgh,1,0.2
+1699,Ajitha Rajan,University of Edinburgh,1,0.3
+1700,Michel Steuwer,University of Edinburgh,1,0.2
+1701,Danny Dig,University of Colorado Boulder,21,5.3
+1702,Eric Wustrow,University of Colorado Boulder,10,2.1
+1703,Bor-Yuh Evan,University of Colorado Boulder,9,3.1
+1704,Nolen Scaife,University of Colorado Boulder,8,1.5
+1705,Sriram Sankaranarayanan,University of Colorado Boulder,6,1.8
+1706,Joseph Izraelevitz,University of Colorado Boulder,5,1.5
+1707,Eric Keller,University of Colorado Boulder,5,1.3
+1708,Eric Rozner,University of Colorado Boulder,5,0.8
+1709,Dirk Grunwald,University of Colorado Boulder,4,1.3
+1710,Gowtham Kaki,University of Colorado Boulder,3,0.9
+1711,John Black,University of Colorado Boulder,2,0.8
+1712,Daniel Massey,University of Colorado Boulder,2,0.3
+1713,Ashutosh Trivedi,University of Colorado Boulder,1,0.3
+1714,Kenneth M.,University of Colorado Boulder,1,0.3
+1715,Sidney K.,University of Colorado Boulder,1,0.2
+1716,Sangtae Ha,University of Colorado Boulder,1,0.2
+1717,Alexandra Kolla,University of Colorado Boulder,1,0.3
+1718,Tamara Silbergleit,University of Colorado Boulder,1,0.3
+1719,Kangjie Lu,University of Minnesota,22,5
+1720,Nicholas Hopper,University of Minnesota,12,3.7
+1721,Stephen McCamant,University of Minnesota,11,2.6
+1722,Pen-Chung Yew,University of Minnesota,11,2.2
+1723,Zhi-Li Zhang,University of Minnesota,11,3
+1724,Feng Qian,University of Minnesota,10,1.3
+1725,Antonia Zhai,University of Minnesota,5,1
+1726,Mattia Fazzini,University of Minnesota,4,0.7
+1727,Mats P.,University of Minnesota,4,1.2
+1728,Tian He,University of Minnesota,3,0.6
+1729,Shashi Shekhar,University of Minnesota,2,0.5
+1730,Eric Van,University of Minnesota,2,0.8
+1731,Kuen-Bang Hou,University of Minnesota,1,0.5
+1732,Abhishek Chandra,University of Minnesota,1,0.3
+1733,Shing-Chi Cheung,HKUST,38,9
+1734,Charles Zhang,HKUST,23,7.3
+1735,Sunghun Kim,HKUST,22,6.7
+1736,Kai Chen,HKUST,15,2.5
+1737,Shuai Wang,HKUST,10,2.1
+1738,Dimitrios Papadopoulos,HKUST,9,2.1
+1739,Amir Kafshdar,HKUST,7,1.6
+1740,Ke Yi,HKUST,2,0.7
+1741,Wei Wang,HKUST,2,0.2
+1742,Qiang Yang,HKUST,1,0.1
+1743,Mordecai J.,HKUST,1,0.3
+1744,Lionel Parreaux,HKUST,1,0.3
+1745,Ang Chen,Rice University,15,3.1
+1746,Dan S.,Rice University,11,3.2
+1747,Scott Rixner,Rice University,9,3.2
+1748,T. S.,Rice University,8,1.5
+1749,Vladimir Braverman,Rice University,7,1.1
+1750,Alan L.,Rice University,6,1.6
+1751,Nathan Dautenhahn,Rice University,6,1.5
+1752,Konstantinos Mamouras,Rice University,4,0.9
+1753,Edward W.,Rice University,3,1
+1754,John M.,Rice University,3,0.7
+1755,Chris Jermaine,Rice University,2,0.6
+1756,Keith D.,Rice University,1,0.2
+1757,Vicente Ordonez,Rice University,1,0.2
+1758,Anshumali Shrivastava,Rice University,1,0.5
+1759,Moshe Y.,Rice University,1,0.2
+1760,Peter J.,Rice University,1,0.3
+1761,Ashok Veeraraghavan,Rice University,1,0.1
+1762,Santosh Nagarakatte,Rutgers University,19,6.8
+1763,Shiqing Ma,Rutgers University,18,3
+1764,Srinivas Narayana,Rutgers University,8,1.3
+1765,Marco Gruteser,Rutgers University,5,0.8
+1766,Sudarsun Kannan,Rutgers University,5,1.2
+1767,Thu D.,Rutgers University,5,1.2
+1768,He Zhu,Rutgers University,3,0.9
+1769,Ulrich Kremer,Rutgers University,3,1.1
+1770,Eddy Z.,Rutgers University,3,0.5
+1771,Mridul Aanjaneya,Rutgers University,2,0.6
+1772,Desheng Zhang,Rutgers University,2,0.3
+1773,Hui Xiong,Rutgers University,1,0.3
+1774,Richard P.,Rutgers University,1,0.2
+1775,Naftaly H.,Rutgers University,1,0.3
+1776,Periklis A.,Rutgers University,1,0.3
+1777,Wade Trappe,Rutgers University,1,0.1
+1778,Premkumar T.,Univ. of California - Davis,35,9.3
+1779,Vladimir Filkov,Univ. of California - Davis,17,4.1
+1780,Hao Chen,Univ. of California - Davis,10,3.6
+1781,Cindy Rubio-González,Univ. of California - Davis,7,1.8
+1782,Aditya V.,Univ. of California - Davis,6,1.9
+1783,Phillip Rogaway,Univ. of California - Davis,5,2.3
+1784,Zubair Shafiq,Univ. of California - Davis,5,1.2
+1785,Jason Lowe-Power,Univ. of California - Davis,4,0.9
+1786,Venkatesh Akella,Univ. of California - Davis,3,0.6
+1787,Matt Bishop,Univ. of California - Davis,3,0.9
+1788,Matthew K.,Univ. of California - Davis,3,1
+1789,John D.,Univ. of California - Davis,3,0.6
+1790,Chen-Nee Chuah,Univ. of California - Davis,2,0.5
+1791,Raissa M.,Univ. of California - Davis,2,0.5
+1792,Matthew K.,Univ. of California - Davis,2,0.7
+1793,Prasant Mohapatra,Univ. of California - Davis,2,0.5
+1794,Shyhtsun Felix,Univ. of California - Davis,2,0.4
+1795,Houman Homayoun,Univ. of California - Davis,1,0.1
+1796,Christopher Nitta,Univ. of California - Davis,1,0.3
+1797,Shriram Krishnamurthi,Brown University,14,4.2
+1798,Vasileios P.,Brown University,10,2.2
+1799,Seny Kamara,Brown University,9,2.5
+1800,Roberto Tamassia,Brown University,8,2.2
+1801,Anna Lysyanskaya,Brown University,7,2.1
+1802,Malte Schwarzkopf,Brown University,6,1.1
+1803,Nikos Vasilakis,Brown University,6,1
+1804,Steven P.,Brown University,5,2.9
+1805,Theophilus Benson,Brown University,4,1.3
+1806,Maurice Herlihy,Brown University,2,0.7
+1807,Philip N.,Brown University,1,0.3
+1808,George Dimitri,Brown University,1,0.2
+1809,Peihan Miao,Brown University,1,0.3
+1810,Sherief Reda,Brown University,1,0.3
+1811,Daniel Ritchie,Brown University,1,0.2
+1812,Kun Sun,George Mason University,16,3.2
+1813,Kevin Moran,George Mason University,14,2.5
+1814,David S.,George Mason University,14,4.2
+1815,Giuseppe Ateniese,George Mason University,11,3.5
+1816,ThanhVu Nguyen,George Mason University,9,2.3
+1817,Xiaokuan Zhang,George Mason University,7,1.5
+1818,S. Dov,George Mason University,6,1.6
+1819,Thomas D.,George Mason University,6,1.8
+1820,Paul Ammann,George Mason University,5,1.4
+1821,Khaled N.,George Mason University,5,1.1
+1822,Wing Lam,George Mason University,5,0.9
+1823,Qiang Zeng,George Mason University,4,1.2
+1824,Brittany Johnson,George Mason University,4,0.9
+1825,Evgenios M.,George Mason University,4,1.2
+1826,Sanjeev Setia,George Mason University,4,1.2
+1827,Xinyuan Wang,George Mason University,4,1.5
+1828,Duminda Wijesekera,George Mason University,4,1.7
+1829,Eric Osterweil,George Mason University,3,0.6
+1830,Lishan Yang,George Mason University,3,0.6
+1831,Bo Han,George Mason University,2,0.4
+1832,Foteini Baldimtsi,George Mason University,2,0.8
+1833,Lannan Luo,George Mason University,2,0.5
+1834,Daniel A.,George Mason University,2,1
+1835,Alexander Brodsky,George Mason University,1,0.3
+1836,Cong Wang,George Mason University,1,0.2
+1837,Songqing Chen,George Mason University,1,0.3
+1838,Hassan Gomaa,George Mason University,1,0.5
+1839,A. Jefferson,George Mason University,1,0.2
+1840,Parth H.,George Mason University,1,0.1
+1841,Kai Chen,Chinese Academy of Sciences,22,3.6
+1842,Yan Cai,Chinese Academy of Sciences,14,4.2
+1843,Jun Wei,Chinese Academy of Sciences,8,1.4
+1844,Qing Wang,Chinese Academy of Sciences,8,1.2
+1845,Guozhu Meng,Chinese Academy of Sciences,8,1.2
+1846,Junjie Wang,Chinese Academy of Sciences,6,1.1
+1847,Ling Li,Chinese Academy of Sciences,6,0.6
+1848,Xiaobing Feng,Chinese Academy of Sciences,6,0.8
+1849,Yungang Bao,Chinese Academy of Sciences,6,0.9
+1850,Wensheng Dou,Chinese Academy of Sciences,6,1.1
+1851,Zhenfeng Zhang,Chinese Academy of Sciences,5,1.2
+1852,Lian Li,Chinese Academy of Sciences,4,0.7
+1853,Shaowei Cai,Chinese Academy of Sciences,4,0.6
+1854,Shimin Chen,Chinese Academy of Sciences,4,0.7
+1855,Jingqiang Lin,Chinese Academy of Sciences,3,0.5
+1856,Guoquan Wu,Chinese Academy of Sciences,3,0.5
+1857,Yanjun Wu,Chinese Academy of Sciences,3,0.3
+1858,Zhilin Wu,Chinese Academy of Sciences,3,0.5
+1859,Jiaxin Zhu,Chinese Academy of Sciences,3,0.7
+1860,Mingyu Chen,Chinese Academy of Sciences,2,0.4
+1861,Ying Wang,Chinese Academy of Sciences,2,0.4
+1862,Jun Yan,Chinese Academy of Sciences,2,0.3
+1863,JingZheng Wu,Chinese Academy of Sciences,2,0.6
+1864,Libo Zhang,Chinese Academy of Sciences,1,0.1
+1865,Yanyan Lan,Chinese Academy of Sciences,1,0.1
+1866,Huawei Li,Chinese Academy of Sciences,1,0.2
+1867,Andrei Sabelfeld,Chalmers/GU,7,2.1
+1868,Magnus O.,Chalmers/GU,6,2.1
+1869,Alejandro Russo,Chalmers/GU,6,1.3
+1870,Gül Çalikli,Chalmers/GU,6,1.4
+1871,David Sands,Chalmers/GU,4,1.5
+1872,Philipp Leitner,Chalmers/GU,4,1.1
+1873,Per Stenström,Chalmers/GU,4,1.7
+1874,Nils Anders,Chalmers/GU,3,2.3
+1875,Nir Piterman,Chalmers/GU,3,0.7
+1876,Andreas Abel,Chalmers/GU,2,0.6
+1877,John Hughes,Chalmers/GU,2,0.4
+1878,Jan Bosch,Chalmers/GU,2,1.3
+1879,Koen Claessen,Chalmers/GU,2,0.6
+1880,Robert Feldt,Chalmers/GU,2,0.6
+1881,Gregory Gay,Chalmers/GU,2,0.5
+1882,Riccardo Scandariato,Chalmers/GU,2,0.7
+1883,Magnus Almgren,Chalmers/GU,1,0.3
+1884,Niklas Broberg,Chalmers/GU,1,0.5
+1885,Michel R.,Chalmers/GU,1,0.5
+1886,Ivica Crnkovic,Chalmers/GU,1,0.5
+1887,Regina Hebig,Chalmers/GU,1,0.2
+1888,Patrik Jansson,Chalmers/GU,1,0.3
+1889,Eric Knauss,Chalmers/GU,1,0.3
+1890,Gerardo Schneider,Chalmers/GU,1,0.3
+1891,Vinod Ganapathy,IISc Bangalore,15,4.1
+1892,Arkaprava Basu,IISc Bangalore,14,3.7
+1893,Uday Bondhugula,IISc Bangalore,7,1.8
+1894,R. Govindarajan,IISc Bangalore,6,1.9
+1895,Aditya Kanade,IISc Bangalore,6,1.9
+1896,Arpita Patra,IISc Bangalore,5,1.3
+1897,K. Gopinath,IISc Bangalore,4,1.3
+1898,Raghavan Komondoor,IISc Bangalore,3,1
+1899,Deepak D'Souza,IISc Bangalore,2,0.5
+1900,Matthew J.,IISc Bangalore,2,0.7
+1901,Chaya Ganesh,IISc Bangalore,1,0.3
+1902,Bhavana Kanukurthi,IISc Bangalore,1,0.3
+1903,P. Vijay,IISc Bangalore,1,0.1
+1904,Herbert Bos,VU Amsterdam,38,7.7
+1905,Cristiano Giuffrida,VU Amsterdam,35,7.3
+1906,Klaus von,VU Amsterdam,6,1.3
+1907,Erik van,VU Amsterdam,4,1
+1908,Balakrishnan Chandrasekaran,VU Amsterdam,3,0.3
+1909,Andrew S.,VU Amsterdam,3,1.7
+1910,Maarten van,VU Amsterdam,2,0.2
+1911,Hans van,VU Amsterdam,2,0.8
+1912,Lin Wang,VU Amsterdam,1,0.3
+1913,Henri E.,VU Amsterdam,1,0.2
+1914,Jasmin Christian,VU Amsterdam,1,0.3
+1915,Alexandru Iosup,VU Amsterdam,1,0.1
+1916,Patricia Lago,VU Amsterdam,1,0.5
+1917,Ivano Malavolta,VU Amsterdam,1,0.2
+1918,Animesh Trivedi,VU Amsterdam,1,0.2
+1919,Michael Backes,CISPA Helmholtz Center,68,16.3
+1920,Thorsten Holz,CISPA Helmholtz Center,41,9.1
+1921,Sascha Fahl,CISPA Helmholtz Center,25,4.4
+1922,Andreas Zeller,CISPA Helmholtz Center,23,7.5
+1923,Yang Zhang,CISPA Helmholtz Center,22,4.9
+1924,Michael Schwarz,CISPA Helmholtz Center,20,3.4
+1925,Christian Rossow,CISPA Helmholtz Center,18,4.9
+1926,Cas Cremers,CISPA Helmholtz Center,16,4.6
+1927,Sven Bugiel,CISPA Helmholtz Center,15,3.5
+1928,Ben Stock,CISPA Helmholtz Center,15,4
+1929,Giancarlo Pellegrino,CISPA Helmholtz Center,10,2.6
+1930,Katharina Krombholz,CISPA Helmholtz Center,8,1.8
+1931,Nils Ole,CISPA Helmholtz Center,8,1.8
+1932,Ali Abbasi,CISPA Helmholtz Center,7,1.2
+1933,Mario Fritz,CISPA Helmholtz Center,7,2
+1934,Cristian-Alexandru Staicu,CISPA Helmholtz Center,6,1.8
+1935,Lucjan Hanzlik,CISPA Helmholtz Center,4,1.4
+1936,Julian Loss,CISPA Helmholtz Center,4,1.2
+1937,Karl Wüst,CISPA Helmholtz Center,4,0.8
+1938,Bernd Finkbeiner,CISPA Helmholtz Center,3,0.8
+1939,Nico Döttling,CISPA Helmholtz Center,2,0.4
+1940,Wouter Lueks,CISPA Helmholtz Center,2,0.5
+1941,Mridula Singh,CISPA Helmholtz Center,2,0.5
+1942,Lea Schönherr,CISPA Helmholtz Center,1,0.2
+1943,XiaoFeng Wang,Indiana University,75,13.6
+1944,Xiaojing Liao,Indiana University,22,3.1
+1945,Luyi Xing,Indiana University,22,3.3
+1946,Yan Huang,Indiana University,12,2.9
+1947,Jeremy G.,Indiana University,10,3.7
+1948,Apu Kapadia,Indiana University,9,2.5
+1949,Sam Tobin-Hochstadt,Indiana University,8,2.1
+1950,Haixu Tang,Indiana University,7,1.1
+1951,Andrew Lukefahr,Indiana University,5,1.1
+1952,Amr Sabry,Indiana University,5,1.9
+1953,Lei Jiang,Indiana University,4,1.3
+1954,Steven Myers,Indiana University,3,1
+1955,Prateek Sharma,Indiana University,2,0.6
+1956,Yong-Yeol Ahn,Indiana University,1,0.3
+1957,Geoffrey Brown,Indiana University,1,0.2
+1958,L. Jean,Indiana University,1,1
+1959,David J.,Indiana University,1,0.3
+1960,Chung-chieh Shan,Indiana University,1,0.5
+1961,Alaa R.,Simon Fraser University,15,3.2
+1962,Arrvindh Shriraman,Simon Fraser University,11,2.8
+1963,William N.,Simon Fraser University,9,2.6
+1964,Tao Wang,Simon Fraser University,7,3.7
+1965,Yuepeng Wang,Simon Fraser University,5,1.2
+1966,Saba Alimadadi,Simon Fraser University,4,1.2
+1967,Keval Vora,Simon Fraser University,4,1
+1968,Mohamed Hefeeda,Simon Fraser University,2,0.8
+1969,Steven Y.,Simon Fraser University,2,0.3
+1970,Jiannan Wang,Simon Fraser University,2,0.3
+1971,Robert D.,Simon Fraser University,1,0.5
+1972,Rodrigo Rodrigues,Universidade de Lisboa,10,2.5
+1973,Luis Pedrosa,Universidade de Lisboa,7,1.1
+1974,Nuno Santos,Universidade de Lisboa,6,1.6
+1975,Rui Abreu,Universidade de Lisboa,5,1.1
+1976,Luís E.,Universidade de Lisboa,4,1.2
+1977,João Dias,Universidade de Lisboa,2,1
+1978,Vasco M.,Universidade de Lisboa,2,0.3
+1979,Pedro Tomás,Universidade de Lisboa,2,0.6
+1980,Vasco Thudichum,Universidade de Lisboa,2,0.7
+1981,João Marques-Silva,Universidade de Lisboa,1,0.3
+1982,Paolo Romano,Universidade de Lisboa,1,0.2
+1983,Alysson Neves,Universidade de Lisboa,1,0.3
+1984,Marco Giunti,Universidade de Lisboa,1,0.5
+1985,Mikolás Janota,Universidade de Lisboa,1,0.3
+1986,Antónia Lopes,Universidade de Lisboa,1,0.3
+1987,Inês Lynce,Universidade de Lisboa,1,0.1
+1988,Miguel Matos,Universidade de Lisboa,1,0.3
+1989,Nuno Roma,Universidade de Lisboa,1,0.3
+1990,António Manuel,Universidade de Lisboa,1,0.5
+1991,Yuhao Zhu,University of Rochester,14,4
+1992,Michael C.,University of Rochester,13,4
+1993,John Criswell,University of Rochester,11,2.7
+1994,Chen Ding,University of Rochester,9,2.3
+1995,Michael L.,University of Rochester,9,2
+1996,Kai Shen,University of Rochester,7,3.5
+1997,Sreepathi Pai,University of Rochester,4,1.1
+1998,Muthuramakrishnan Venkitasubramaniam,University of Rochester,4,0.9
+1999,Tong Geng,University of Rochester,2,0.2
+2000,Lars Birkedal,Aarhus University,16,3.8
+2001,Anders Møller,Aarhus University,14,4.6
+2002,Andreas Pavlogiannis,Aarhus University,12,4.4
+2003,Peter Scholl,Aarhus University,8,1.8
+2004,Aslan Askarov,Aarhus University,7,2.5
+2005,Amin Timany,Aarhus University,7,1.6
+2006,Claudio Orlandi,Aarhus University,6,1.5
+2007,Magnus Madsen,Aarhus University,4,1.2
+2008,Jean Pichon-Pharabod,Aarhus University,4,1
+2009,Jesper Buus,Aarhus University,3,0.6
+2010,Diego F.,Aarhus University,2,0.5
+2011,Ivan Damgård,Aarhus University,1,0.2
+2012,Panagiotis Karras,Aarhus University,1,0.2
+2013,Gianluca Stringhini,Boston University,16,3.4
+2014,Marco Gaboardi,Boston University,14,3.1
+2015,Manuel Egele,Boston University,11,2.2
+2016,Zaoxing Liu,Boston University,8,1.4
+2017,Ran Canetti,Boston University,6,1.8
+2018,Sharon Goldberg,Boston University,6,1.6
+2019,Mark Crovella,Boston University,5,1.6
+2020,Leonid Reyzin,Boston University,5,1.2
+2021,Mayank Varia,Boston University,4,1.2
+2022,Jonathan Appavoo,Boston University,3,0.5
+2023,George Kollios,Boston University,3,0.7
+2024,John Liagouris,Boston University,3,0.4
+2025,John W.,Boston University,2,0.3
+2026,Vasiliki Kalavri,Boston University,2,0.3
+2027,Adam D.,Boston University,2,0.7
+2028,Evimaria Terzi,Boston University,1,0.3
+2029,Hongwei Xi,Boston University,1,0.3
+2030,Ahmad-Reza Sadeghi,TU Darmstadt,36,6.6
+2031,Mira Mezini,TU Darmstadt,19,5.3
+2032,Thomas Schneider,TU Darmstadt,14,3.1
+2033,Michael Waidner,TU Darmstadt,11,3.5
+2034,Sebastian Faust,TU Darmstadt,9,2.2
+2035,Stefan Katzenbeisser,TU Darmstadt,7,2
+2036,Matthias Hollick,TU Darmstadt,7,1.4
+2037,Guido Salvaneschi,TU Darmstadt,7,2
+2038,Jean Paul,TU Darmstadt,5,2.5
+2039,Marc Fischlin,TU Darmstadt,5,1.5
+2040,Neeraj Suri,TU Darmstadt,4,0.9
+2041,Heiko Mantel,TU Darmstadt,2,2
+2042,Max Mühlhäuser,TU Darmstadt,2,0.4
+2043,Alejandro P.,TU Darmstadt,1,0.3
+2044,Zsolt István,TU Darmstadt,1,0.3
+2045,Iasonas Polakis,University of Illinois at Chicago,14,3.3
+2046,V. N.,University of Illinois at Chicago,13,3.3
+2047,Chris Kanich,University of Illinois at Chicago,12,2.3
+2048,Mark Grechanik,University of Illinois at Chicago,10,2.7
+2049,Zhichun Zhu,University of Illinois at Chicago,4,1
+2050,Jakob Eriksson,University of Illinois at Chicago,3,0.9
+2051,William Mansky,University of Illinois at Chicago,3,0.5
+2052,Balajee Vamanan,University of Illinois at Chicago,3,0.9
+2053,Luís Pina,University of Illinois at Chicago,2,0.5
+2054,Jon A.,University of Illinois at Chicago,2,0.7
+2055,Elena Zheleva,University of Illinois at Chicago,2,0.3
+2056,Ian A.,University of Illinois at Chicago,1,0.3
+2057,A. Prasad,University of Illinois at Chicago,1,0.2
+2058,Wei Tang,University of Illinois at Chicago,1,0.2
+2059,Yan Shoshitaishvili,Arizona State University,24,3.8
+2060,Adam Doupé,Arizona State University,20,3.1
+2061,Xusheng Xiao,Arizona State University,18,2.8
+2062,Ruoyu Wang,Arizona State University,14,1.9
+2063,Carole-Jean Wu,Arizona State University,14,2.6
+2064,Gail-Joon Ahn,Arizona State University,13,2.1
+2065,Tiffany Bao,Arizona State University,12,1.7
+2066,Jedidiah R.,Arizona State University,9,2
+2067,Stephanie Forrest,Arizona State University,7,2
+2068,Adil Ahmad,Arizona State University,5,1.4
+2069,Ni Trieu,Arizona State University,5,1.5
+2070,Chaowei Xiao,Arizona State University,4,0.6
+2071,Deliang Fan,Arizona State University,3,0.8
+2072,Charles J.,Arizona State University,2,0.6
+2073,Rakibul Hasan,Arizona State University,2,0.5
+2074,Ming Zhao,Arizona State University,1,0.2
+2075,Michel A.,Arizona State University,1,0.2
+2076,Dejan Kostic,KTH Royal Institute of Technology,16,2.9
+2077,Mads Dam,KTH Royal Institute of Technology,7,2.8
+2078,Martin Monperrus,KTH Royal Institute of Technology,6,2.6
+2079,Roberto Guanciale,KTH Royal Institute of Technology,5,1.4
+2080,Musard Balliu,KTH Royal Institute of Technology,4,1.2
+2081,Benoit Baudry,KTH Royal Institute of Technology,4,1.3
+2082,Gerald Q.,KTH Royal Institute of Technology,4,0.7
+2083,Marco Chiesa,KTH Royal Institute of Technology,2,0.3
+2084,Johan Håstad,KTH Royal Institute of Technology,1,0.3
+2085,Panagiotis Papadimitratos,KTH Royal Institute of Technology,1,0.1
+2086,Zhenchang Xing,Australian National University,17,3.1
+2087,Stephen M.,Australian National University,10,2.7
+2088,Michael Norrish,Australian National University,6,1.1
+2089,James Noble,Australian National University,4,1.5
+2090,Rajeev Goré,Australian National University,3,0.9
+2091,Thomas Haines,Australian National University,3,0.9
+2092,Antony L.,Australian National University,3,0.8
+2093,Alex Potanin,Australian National University,3,0.8
+2094,Alwen Tiu,Australian National University,2,0.4
+2095,Shoaib Akram,Australian National University,1,0.3
+2096,Sid Chi-Kin,Australian National University,1,1
+2097,Ranald Clouston,Australian National University,1,0.3
+2098,Melina C.,Australian National University,1,1
+2099,Juan Caballero,IMDEA Software Institute,18,4.6
+2100,Boris Köpf,IMDEA Software Institute,12,3.7
+2101,Dario Fiore,IMDEA Software Institute,10,3.4
+2102,Pedro Moreno-Sanchez,IMDEA Software Institute,9,2.3
+2103,Alessandra Gorla,IMDEA Software Institute,7,1.4
+2104,Marco Guarnieri,IMDEA Software Institute,7,2
+2105,Aleksandar Nanevski,IMDEA Software Institute,7,2.4
+2106,Benedikt Schmidt,IMDEA Software Institute,7,1.5
+2107,Alexey Gotsman,IMDEA Software Institute,6,1.5
+2108,Niki Vazou,IMDEA Software Institute,6,1.4
+2109,Pierre Ganty,IMDEA Software Institute,3,1.1
+2110,Denys Poshyvanyk,College of William and Mary,29,5.4
+2111,Adwait Jog,College of William and Mary,11,1.9
+2112,Adwait Nadkarni,College of William and Mary,8,1.9
+2113,Dmitry Evtyushkin,College of William and Mary,7,1.9
+2114,Oscar Chaparro,College of William and Mary,5,0.8
+2115,Bin Ren,College of William and Mary,5,0.8
+2116,Stephen Herwig,College of William and Mary,3,0.8
+2117,Qun Li,College of William and Mary,3,0.6
+2118,Zhenming Liu,College of William and Mary,2,0.3
+2119,Evgenia Smirni,College of William and Mary,2,0.5
+2120,Yifan Sun,College of William and Mary,1,0.1
+2121,Gang Zhou,College of William and Mary,1,0.2
+2122,Anita Sarma,Oregon State University,15,3.6
+2123,Yeongjin Jang,Oregon State University,13,2.6
+2124,Mike Rosulek,Oregon State University,12,4
+2125,Margaret M.,Oregon State University,8,1.4
+2126,Martin Erwig,Oregon State University,6,2.5
+2127,Lizhong Chen,Oregon State University,3,1.3
+2128,Christopher Scaffidi,Oregon State University,3,0.7
+2129,Sanghyun Hong,Oregon State University,2,0.3
+2130,Patrick Chiang,Oregon State University,1,0.3
+2131,Xiaoli Z.,Oregon State University,1,0.1
+2132,Weng-Keen Wong,Oregon State University,1,0.1
+2133,Matteo Maffei,TU Wien,18,4.5
+2134,Maria Christakis,TU Wien,9,2.8
+2135,Pavol Cerný,TU Wien,6,1.7
+2136,Jürgen Cito,TU Wien,6,1.4
+2137,Florian Zuleger,TU Wien,4,1.4
+2138,Stefan Biffl,TU Wien,3,1.3
+2139,M. Anton,TU Wien,2,0.8
+2140,Georg Fuchsbauer,TU Wien,2,1.3
+2141,Radu Grosu,TU Wien,2,0.7
+2142,Laura Kovács,TU Wien,2,0.7
+2143,Martina Lindorfer,TU Wien,2,0.3
+2144,Ezio Bartocci,TU Wien,1,0.2
+2145,Axel Jantsch,TU Wien,1,0.1
+2146,Wolfgang Kastner,TU Wien,1,0.2
+2147,Jens Knoop,TU Wien,1,0.3
+2148,Shuaiwen Song,University of Sydney,8,1.5
+2149,Willy Zwaenepoel,University of Sydney,8,2.4
+2150,Qiang Tang,University of Sydney,7,2.2
+2151,Rahul Gopinath,University of Sydney,7,1.9
+2152,Bernhard Scholz,University of Sydney,6,1.5
+2153,Vincent Gramoli,University of Sydney,2,0.7
+2154,Julián Mestre,University of Sydney,1,0.2
+2155,Dacheng Tao,University of Sydney,1,0.1
+2156,Ying Zhou,University of Sydney,1,0.1
+2157,Gabriele Bavota,Università della Svizzera italiana,30,5.3
+2158,Mauro Pezzè,Università della Svizzera italiana,19,5.8
+2159,Paolo Tonella,Università della Svizzera italiana,15,4.1
+2160,Michele Lanza,Università della Svizzera italiana,11,2.2
+2161,Antonio Carzaniga,Università della Svizzera italiana,7,2.1
+2162,Patrick Eugster,Università della Svizzera italiana,7,2
+2163,Matthias Hauswirth,Università della Svizzera italiana,7,2.3
+2164,Carlo A.,Università della Svizzera italiana,3,1
+2165,Walter Binder,Università della Svizzera italiana,1,0.1
+2166,Mehdi Jazayeri,Università della Svizzera italiana,1,0.3
+2167,Nathaniel Nystrom,Università della Svizzera italiana,1,0.3
+2168,Frank Piessens,KU Leuven,33,9.2
+2169,Wouter Joosen,KU Leuven,18,4.1
+2170,Dominique Devriese,KU Leuven,9,2.7
+2171,Bart Preneel,KU Leuven,8,1.9
+2172,Claudia Díaz,KU Leuven,6,1.5
+2173,Ingrid Verbauwhede,KU Leuven,6,1.4
+2174,Tom Schrijvers,KU Leuven,4,1.4
+2175,Nigel P.,KU Leuven,4,1
+2176,Stijn Volckaert,KU Leuven,4,0.6
+2177,Bart Jacobs,KU Leuven,3,1
+2178,Frederik Vercauteren,KU Leuven,1,0.3
+2179,Danny Weyns,KU Leuven,1,0.5
+2180,David Lo,Singapore Management University,33,7.6
+2181,Jun Sun,Singapore Management University,23,5.4
+2182,Xiaofei Xie,Singapore Management University,13,1.8
+2183,Lingxiao Jiang,Singapore Management University,11,3.6
+2184,Rajesh Krishna,Singapore Management University,5,2.3
+2185,Robert H.,Singapore Management University,5,1.3
+2186,Xuhua Ding,Singapore Management University,5,1.5
+2187,Debin Gao,Singapore Management University,5,1.8
+2188,Steven C.,Singapore Management University,1,0.2
+2189,Zimu Zhou,Singapore Management University,1,0.2
+2190,Michael Pradel,University of Stuttgart,32,11.6
+2191,Ralf Küsters,University of Stuttgart,19,6.2
+2192,Stefan Wagner,University of Stuttgart,4,0.8
+2193,Steffen Staab,University of Stuttgart,1,0.3
+2194,Shouling Ji,Zhejiang University,29,4.5
+2195,Wenyuan Xu,Zhejiang University,21,4
+2196,Yajin Zhou,Zhejiang University,14,2.5
+2197,Kui Ren,Zhejiang University,11,1.6
+2198,Wenbo Shen,Zhejiang University,6,1
+2199,Peisen Yao,Zhejiang University,6,1.3
+2200,Xinyu Wang,Zhejiang University,4,0.7
+2201,Song Li,Zhejiang University,4,1
+2202,Lei Wu,Zhejiang University,4,0.6
+2203,Lingfeng Bao,Zhejiang University,4,0.7
+2204,Shanping Li,Zhejiang University,4,0.6
+2205,Zhan Qin,Zhejiang University,4,0.7
+2206,Zhiyuan Wan,Zhejiang University,4,0.7
+2207,Zhibo Wang,Zhejiang University,4,0.6
+2208,Chunming Wu,Zhejiang University,3,0.3
+2209,Jianwei Yin,Zhejiang University,3,0.3
+2210,Jian Liu,Zhejiang University,2,0.6
+2211,Feng Lin,Zhejiang University,1,0.2
+2212,Zhongjie Ba,Zhejiang University,1,0.2
+2213,Kai Bu,Zhejiang University,1,0.2
+2214,Wenzhi Chen,Zhejiang University,1,0.1
+2215,Shuiguang Deng,Zhejiang University,1,0.1
+2216,Jinsong Han,Zhejiang University,1,0.1
+2217,Qinming He,Zhejiang University,1,0.1
+2218,Jianling Sun,Zhejiang University,1,0.2
+2219,Weiwei Xu,Zhejiang University,1,0.2
+2220,Ziqi Yang,Zhejiang University,1,0.3
+2221,Bingsheng Zhang,Zhejiang University,1,0.3
+2222,Dmitry V.,Binghamton University,10,2.7
+2223,Yu David,Binghamton University,9,3.1
+2224,Zeyu Ding,Binghamton University,4,0.9
+2225,Jeremy Blackburn,Binghamton University,4,0.7
+2226,Kanad Ghose,Binghamton University,4,1.4
+2227,Seunghee Shin,Binghamton University,4,1
+2228,William T.,Binghamton University,3,0.4
+2229,Hoda Naghibi,Binghamton University,3,0.8
+2230,Adnan Siraj,Binghamton University,3,0.8
+2231,Aravind Prakash,Binghamton University,2,0.8
+2232,Ping Yang,Binghamton University,1,0.3
+2233,Guanhua Yan,Binghamton University,1,0.3
+2234,Min Yang,Fudan University,31,4.3
+2235,Xin Peng,Fudan University,21,3.5
+2236,Bihuan Chen,Fudan University,18,3.4
+2237,Yuan Zhang,Fudan University,17,2.1
+2238,Zhemin Yang,Fudan University,15,2
+2239,Guangliang Yang,Fudan University,8,1.5
+2240,Wenyun Zhao,Fudan University,8,1.6
+2241,Yangfan Zhou,Fudan University,7,0.9
+2242,Zhe Zhou,Fudan University,6,1.2
+2243,Weili Han,Fudan University,3,0.6
+2244,Hui Xu,Fudan University,2,0.3
+2245,Cheng Jin,Fudan University,2,0.4
+2246,Chaofeng Sha,Fudan University,2,0.3
+2247,Xiaoyang Sean,Fudan University,2,0.3
+2248,Yunlei Zhao,Fudan University,2,1.5
+2249,Xin Wang,Fudan University,1,0.3
+2250,Kai Zhang,Fudan University,1,0.1
+2251,Wei Wang,Fudan University,1,0.3
+2252,Peng Wang,Fudan University,1,0.3
+2253,Yun Xiong,Fudan University,1,0.1
+2254,Weihua Zhang,Fudan University,1,0.1
+2255,Georgios Portokalidis,Stevens Institute of Technology,12,2.7
+2256,Michael Greenberg,Stevens Institute of Technology,9,3.4
+2257,Eric Koskinen,Stevens Institute of Technology,9,3.2
+2258,Nikos Triandopoulos,Stevens Institute of Technology,8,1.9
+2259,David A.,Stevens Institute of Technology,6,2.2
+2260,Tegan Brennan,Stevens Institute of Technology,5,1.3
+2261,Wendy Hui,Stevens Institute of Technology,2,0.6
+2262,Eduardo Bonelli,Stevens Institute of Technology,1,0.3
+2263,Susanne Wetzel,Stevens Institute of Technology,1,0.3
+2264,Ziming Zhao,University at Buffalo,8,1.6
+2265,Hongxin Hu,University at Buffalo,8,1.8
+2266,Xianghang Mi,University at Buffalo,7,1
+2267,Wenyao Xu,University at Buffalo,6,1.1
+2268,Jinjun Xiong,University at Buffalo,4,0.4
+2269,Lukasz Ziarek,University at Buffalo,4,0.9
+2270,Andrew K.,University at Buffalo,3,1.5
+2271,Haonan Lu,University at Buffalo,3,0.7
+2272,Chunming Qiao,University at Buffalo,3,0.4
+2273,Marina Blanton,University at Buffalo,2,0.7
+2274,Karthik Dantu,University at Buffalo,2,0.4
+2275,Xin He,University at Buffalo,2,0.3
+2276,Lu Su,University at Buffalo,2,0.3
+2277,Yaxiong Xie,University at Buffalo,2,0.5
+2278,Yan Solihin,University of Central Florida,23,5.9
+2279,Paul Gazzillo,University of Central Florida,6,2.3
+2280,David Mohaisen,University of Central Florida,4,1
+2281,Fan Yao,University of Central Florida,4,1
+2282,Mark A.,University of Central Florida,3,1
+2283,Cliff Changchun,University of Central Florida,2,0.6
+2284,Jun Wang,University of Central Florida,1,0.3
+2285,Mary Jean,University of Central Florida,1,0.2
+2286,Rickard Ewetz,University of Central Florida,1,0.2
+2287,Joseph J.,University of Central Florida,1,0.1
+2288,Gary T.,University of Central Florida,1,0.5
+2289,Elaine J.,University of Central Florida,1,1
+2290,Kasper Bonne,University of Oxford,11,3.7
+2291,Ivan Martinovic,University of Oxford,10,2.6
+2292,C.-H. Luke,University of Oxford,8,2.9
+2293,Sam Staton,University of Oxford,5,2.2
+2294,Marta Z.,University of Oxford,3,1.7
+2295,James Worrell,University of Oxford,2,0.3
+2296,Luca Cardelli,University of Oxford,2,0.8
+2297,Jeremy Gibbons,University of Oxford,2,0.6
+2298,Bartek Klin,University of Oxford,2,0.5
+2299,Thomas F.,University of Oxford,2,0.7
+2300,Andrzej S.,University of Oxford,2,0.8
+2301,Tam Vu,University of Oxford,1,0.1
+2302,Michael Benedikt,University of Oxford,1,0.5
+2303,Sven Apel,Saarland University,33,7.5
+2304,Jan Reineke,Saarland University,6,1.9
+2305,Sebastian Hack,Saarland University,5,2.2
+2306,Benjamin Lucien,Saarland University,5,1.1
+2307,Martina Maggio,Saarland University,5,1.7
+2308,Holger Hermanns,Saarland University,1,0.5
+2309,Andreas Keller,Saarland University,1,0.2
+2310,Manfred Pinkal,Saarland University,1,0.2
+2311,Reinhard Wilhelm,Saarland University,1,0.2
+2312,Arie van,TU Delft,19,5.3
+2313,Mauricio Finavaro,TU Delft,7,1.4
+2314,Annibale Panichella,TU Delft,6,1.4
+2315,Sebastian Proksch,TU Delft,5,1.2
+2316,Soham Chakraborty,TU Delft,4,1
+2317,Przemyslaw Pawelczak,TU Delft,4,0.7
+2318,Andy Zaidman,TU Delft,4,1
+2319,Thomas Durieux,TU Delft,3,0.8
+2320,Georgios Smaragdakis,TU Delft,3,0.4
+2321,Jesper Cockx,TU Delft,2,0.6
+2322,Stjepan Picek,TU Delft,2,0.4
+2323,Benedikt Ahrens,TU Delft,1,0.3
+2324,Kaitai Liang,TU Delft,1,0.2
+2325,Giovane Cesar,TU Delft,1,0.1
+2326,Casper Bach,TU Delft,1,0.2
+2327,Johan A.,TU Delft,1,0.2
+2328,Stephanie Wehner,TU Delft,1,0.1
+2329,Apostolis Zarras,TU Delft,1,0.2
+2330,Marco Zuniga,TU Delft,1,0.3
+2331,Tien N.,University of Texas at Dallas,32,8.4
+2332,Wei Yang,University of Texas at Dallas,15,2.8
+2333,Shuang Hao,University of Texas at Dallas,15,2.6
+2334,Andrian Marcus,University of Texas at Dallas,14,2.9
+2335,Shiyi Wei,University of Texas at Dallas,7,1.5
+2336,Kevin W.,University of Texas at Dallas,6,2
+2337,Kangkook Jee,University of Texas at Dallas,6,0.9
+2338,Chung Hwan,University of Texas at Dallas,6,0.8
+2339,Vincent Ng,University of Texas at Dallas,3,0.4
+2340,Murat Kantarcioglu,University of Texas at Dallas,3,0.6
+2341,Feng Chen,University of Texas at Dallas,1,0.2
+2342,Yvo Desmedt,University of Texas at Dallas,1,0.5
+2343,Latifur Khan,University of Texas at Dallas,1,0.3
+2344,Yinqian Zhang,SUSTech,34,8.8
+2345,Yepang Liu,SUSTech,15,3.1
+2346,Shin Hwei,SUSTech,7,1.9
+2347,Fengwei Zhang,SUSTech,6,1.7
+2348,Yuqun Zhang,SUSTech,5,0.7
+2349,Xin Yao,SUSTech,2,0.8
+2350,Ke Tang,SUSTech,2,0.3
+2351,Jie Jiang,SUSTech,1,0.1
+2352,Jeffrey S.,Tufts University,21,6.3
+2353,Norman Ramsey,Tufts University,7,3.2
+2354,Daniel Votipka,Tufts University,7,1.4
+2355,Fahad R.,Tufts University,3,0.5
+2356,Samuel Z.,Tufts University,3,1.2
+2357,Raja R.,Tufts University,2,0.4
+2358,Saumya K.,University of Arizona,11,3.7
+2359,Larry L.,University of Arizona,11,2.8
+2360,Christian S.,University of Arizona,3,0.6
+2361,John H.,University of Arizona,3,0.9
+2362,Sazzadur Rahaman,University of Arizona,2,0.5
+2363,Beichuan Zhang,University of Arizona,2,0.5
+2364,Gregory R.,University of Arizona,1,0.3
+2365,Steven Bethard,University of Arizona,1,0.2
+2366,Chris Gniady,University of Arizona,1,0.3
+2367,John D.,University of Arizona,1,0.1
+2368,Todd A.,University of Arizona,1,0.5
+2369,Flavio D.,University of Birmingham,9,2.3
+2370,David F.,University of Birmingham,5,0.9
+2371,Tom Chothia,University of Birmingham,4,1
+2372,Leandro L.,University of Birmingham,4,1.3
+2373,Pascal Berrang,University of Birmingham,3,0.6
+2374,David Galindo,University of Birmingham,3,0.7
+2375,Dan R.,University of Birmingham,3,2.5
+2376,Mark Ryan,University of Birmingham,2,0.4
+2377,Paul Blain,University of Birmingham,2,1.5
+2378,Miqing Li,University of Birmingham,2,0.6
+2379,Uday S.,University of Birmingham,2,0.8
+2380,Shuo Wang,University of Birmingham,1,0.2
+2381,Mirco Giacobbe,University of Birmingham,1,0.3
+2382,Nicolai Kraus,University of Birmingham,1,0.5
+2383,Eike Ritter,University of Birmingham,1,0.1
+2384,Wei Meng,Chinese University of Hong Kong,12,3.4
+2385,Michael R.,Chinese University of Hong Kong,11,2.4
+2386,Qiang Xu,Chinese University of Hong Kong,4,0.8
+2387,Patrick P.,Chinese University of Hong Kong,3,0.6
+2388,John C.,Chinese University of Hong Kong,3,0.8
+2389,Hong Xu,Chinese University of Hong Kong,2,0.3
+2390,Shengyu Zhang,Chinese University of Hong Kong,2,0.3
+2391,Zili Shao,Chinese University of Hong Kong,2,0.5
+2392,Bei Yu,Chinese University of Hong Kong,1,0.1
+2393,Hong Cheng,Chinese University of Hong Kong,1,0.3
+2394,Irwin King,Chinese University of Hong Kong,1,0.3
+2395,Martin P.,McGill University,19,9.6
+2396,Christophe Dubach,McGill University,6,1.3
+2397,Brigitte Pientka,McGill University,5,2.3
+2398,Xujie Si,McGill University,3,0.6
+2399,Prakash Panangaden,McGill University,1,0.3
+2400,Jingling Xue,UNSW,10,3
+2401,Gernot Heiser,UNSW,7,1.5
+2402,Boualem Benatallah,UNSW,2,0.5
+2403,Edwin V.,UNSW,2,0.5
+2404,Peng Di,UNSW,2,0.6
+2405,Kevin Elphinstone,UNSW,2,0.6
+2406,Ron van,UNSW,2,0.6
+2407,Haojun Ma,UNSW,1,0.2
+2408,Carroll Morgan,UNSW,1,0.3
+2409,Fethi A.,UNSW,1,0.2
+2410,Christine Rizkallah,UNSW,1,0.1
+2411,Wing Kwong,City University of Hong Kong,17,5.4
+2412,Cong Wang,City University of Hong Kong,4,0.7
+2413,Junqiao Qiu,City University of Hong Kong,3,0.9
+2414,Chun Jason,City University of Hong Kong,3,0.4
+2415,Qingchuan Zhao,City University of Hong Kong,3,0.7
+2416,Tei-Wei Kuo,City University of Hong Kong,2,0.2
+2417,Yuen-Tak Yu,City University of Hong Kong,2,0.5
+2418,Chee-Wei Tan,City University of Hong Kong,1,0.2
+2419,Gerhard P.,City University of Hong Kong,1,1
+2420,Xiaohua Jia,City University of Hong Kong,1,0.2
+2421,Albert Cohen,Ecole Normale Superieure,7,1.9
+2422,David Pointcheval,Ecole Normale Superieure,6,1.9
+2423,Xavier Rival,Ecole Normale Superieure,6,2.6
+2424,Marc Pouzet,Ecole Normale Superieure,4,0.8
+2425,Hoeteck Wee,Ecole Normale Superieure,4,1.3
+2426,Timothy Bourke,Ecole Normale Superieure,3,0.6
+2427,François Baccelli,Ecole Normale Superieure,2,0.8
+2428,Cezara Dragoi,Ecole Normale Superieure,2,0.6
+2429,Damien Vergnaud,Ecole Normale Superieure,2,0.7
+2430,Michel Abdalla,Ecole Normale Superieure,1,0.3
+2431,Francois Berenger,Ecole Normale Superieure,1,0.3
+2432,Jérôme Feret,Ecole Normale Superieure,1,0.1
+2433,David Naccache,Ecole Normale Superieure,1,0.3
+2434,Duong Hieu,Ecole Normale Superieure,1,0.2
+2435,Jacques Stern,Ecole Normale Superieure,1,0.3
+2436,Zhi Wang,Florida State University,15,3
+2437,Viet Tung,Florida State University,8,2.9
+2438,Grigory Fedyukovich,Florida State University,4,1.4
+2439,David B.,Florida State University,4,1.1
+2440,Jie Yang,Florida State University,3,0.8
+2441,Sonia Haiduc,Florida State University,3,0.4
+2442,Sudhir Aggarwal,Florida State University,2,0.5
+2443,Xin Yuan,Florida State University,1,0.3
+2444,An-I Wang,Florida State University,1,0.3
+2445,Hakjoo Oh,Korea University,19,6
+2446,Heejo Lee,Korea University,6,1.6
+2447,Gunjae Koo,Korea University,5,1
+2448,Xin Xia,Monash University,21,3.7
+2449,Li Li,Monash University,14,2.8
+2450,Chunyang Chen,Monash University,13,2.8
+2451,John C.,Monash University,10,2.7
+2452,Chakkrit Tantithamthavorn,Monash University,6,1.5
+2453,Jon Whittle,Monash University,4,1.2
+2454,Li Li,Monash University,4,0.6
+2455,Ron Steinfeld,Monash University,4,0.8
+2456,Joseph K.,Monash University,3,0.5
+2457,Amin Sakzad,Monash University,2,0.3
+2458,Xingliang Yuan,Monash University,2,0.3
+2459,Aldeida Aleti,Monash University,1,0.3
+2460,Yuan-Fang Li,Monash University,1,0.3
+2461,Matthew Wright,Rochester Institute of Technology,8,2.1
+2462,Mehdi Mirakhorli,Rochester Institute of Technology,7,1.7
+2463,Ivan Oliveira,Rochester Institute of Technology,5,1.3
+2464,Andrew Meneely,Rochester Institute of Technology,4,1.6
+2465,Hossein Hojjat,Rochester Institute of Technology,3,0.6
+2466,Matthew Fluet,Rochester Institute of Technology,2,0.6
+2467,Qi Yu,Rochester Institute of Technology,1,0.2
+2468,Hrishikesh B.,Rochester Institute of Technology,1,0.1
+2469,Fawad Ahmad,Rochester Institute of Technology,1,0.2
+2470,Mohan Kumar,Rochester Institute of Technology,1,0.1
+2471,Minseok Kwon,Rochester Institute of Technology,1,0.1
+2472,Xumin Liu,Rochester Institute of Technology,1,0.2
+2473,Mohamed Wiem,Rochester Institute of Technology,1,0.2
+2474,Christian D.,Rochester Institute of Technology,1,0.2
+2475,Heming Cui,University of Hong Kong,14,2.3
+2476,Man Ho,University of Hong Kong,6,1.4
+2477,T.-H. Hubert,University of Hong Kong,5,1.1
+2478,Bruno C.,University of Hong Kong,5,1.5
+2479,Chenshu Wu,University of Hong Kong,3,0.4
+2480,Chuan Wu,University of Hong Kong,1,0.1
+2481,Francis C.,University of Hong Kong,1,0.1
+2482,Tsz Hon,University of Hong Kong,1,0.2
+2483,Youtao Zhang,University of Pittsburgh,21,5.4
+2484,Xulong Tang,University of Pittsburgh,9,1.9
+2485,Rami G.,University of Pittsburgh,6,1.6
+2486,Bruce R.,University of Pittsburgh,4,0.8
+2487,Adam J.,University of Pittsburgh,2,0.8
+2488,Daniel Mossé,University of Pittsburgh,1,0.2
+2489,Audris Mockus,University of Tennessee,19,7.9
+2490,Doowon Kim,University of Tennessee,5,1
+2491,Max Schuchard,University of Tennessee,5,1.8
+2492,Jian Liu,University of Tennessee,3,0.6
+2493,Scott Ruoti,University of Tennessee,3,0.8
+2494,Micah Beck,University of Tennessee,1,0.3
+2495,James S.,University of Tennessee,1,0.3
+2496,Stefanos Kaxiras,Uppsala University,18,6.2
+2497,Chang Hyun,Uppsala University,6,1.6
+2498,Parosh Aziz,Uppsala University,6,1.3
+2499,Mohamed Faouzi,Uppsala University,6,1.3
+2500,David Black-Schaffer,Uppsala University,6,1.5
+2501,Erik Hagersten,Uppsala University,5,1.3
+2502,Johannes Borgström,Uppsala University,4,0.7
+2503,Philipp Rümmer,Uppsala University,4,0.7
+2504,Konstantinos Sagonas,Uppsala University,3,0.7
+2505,Tobias Wrigstad,Uppsala University,2,0.5
+2506,Tjark Weber,Uppsala University,1,0.2
+2507,Michael Schapira,Hebrew University of Jerusalem,13,2.8
+2508,Yossi Gilad,Hebrew University of Jerusalem,9,2.1
+2509,Aviv Zohar,Hebrew University of Jerusalem,3,0.8
+2510,Danny Dolev,Hebrew University of Jerusalem,2,0.5
+2511,Noam Nisan,Hebrew University of Jerusalem,2,0.6
+2512,Gil Segev,Hebrew University of Jerusalem,1,0.3
+2513,Dror G.,Hebrew University of Jerusalem,1,0.3
+2514,David Hay,Hebrew University of Jerusalem,1,0.3
+2515,Guy Katz,Hebrew University of Jerusalem,1,0.3
+2516,Daphna Weinshall,Hebrew University of Jerusalem,1,1
+2517,Iulian Neamtiu,NJIT,14,4.4
+2518,Shaohua Wang,NJIT,7,2.3
+2519,Reza Curtmola,NJIT,5,1.2
+2520,Martin Kellogg,NJIT,2,0.5
+2521,Cong Shi,NJIT,1,0.1
+2522,Ali Mili,NJIT,1,0.3
+2523,Kurt Rohloff,NJIT,1,0.1
+2524,Eric Bodden,Paderborn University,18,5.2
+2525,Juraj Somorovsky,Paderborn University,17,4.3
+2526,Johannes Blömer,Paderborn University,2,0.6
+2527,Patricia Arias,Paderborn University,2,0.4
+2528,Antonio González,Polytechnic University of Catalonia,30,8.8
+2529,Mateo Valero,Polytechnic University of Catalonia,27,5.3
+2530,Eduard Ayguadé,Polytechnic University of Catalonia,6,1.2
+2531,Ramon Canal,Polytechnic University of Catalonia,6,1.4
+2532,Joan-Manuel Parcerisa,Polytechnic University of Catalonia,5,1.7
+2533,Roger Espasa,Polytechnic University of Catalonia,3,0.6
+2534,Marc González,Polytechnic University of Catalonia,2,0.3
+2535,Jesús Labarta,Polytechnic University of Catalonia,2,0.5
+2536,José María,Polytechnic University of Catalonia,2,0.5
+2537,Albert Cabellos-Aparicio,Polytechnic University of Catalonia,1,0.3
+2538,Llorenç Cerdà-Alabern,Polytechnic University of Catalonia,1,0.3
+2539,Julita Corbalán,Polytechnic University of Catalonia,1,0.3
+2540,Jörg Schwenk,Ruhr-University Bochum,22,4.4
+2541,Thorsten Berger,Ruhr-University Bochum,12,2.9
+2542,Ghassan Karame,Ruhr-University Bochum,9,2
+2543,Kevin Borgolte,Ruhr-University Bochum,7,1.8
+2544,Amir Moradi,Ruhr-University Bochum,5,1.6
+2545,Alena Naiakshina,Ruhr-University Bochum,5,1.2
+2546,Eike Kiltz,Ruhr-University Bochum,4,0.9
+2547,M. Angela,Ruhr-University Bochum,3,0.7
+2548,Alexander May,Ruhr-University Bochum,2,0.5
+2549,Nils Fleischhacker,Ruhr-University Bochum,2,0.6
+2550,Tim Güneysu,Ruhr-University Bochum,2,0.4
+2551,Jens Grossklags,TU Munich,7,1.6
+2552,Helmut Seidl,TU Munich,5,1.6
+2553,Pramod Bhatotia,TU Munich,4,0.8
+2554,Martin Schulz,TU Munich,3,0.6
+2555,Javier Esparza,TU Munich,3,1.3
+2556,Alexander Pretschner,TU Munich,3,0.7
+2557,Claudia Eckert,TU Munich,1,0.1
+2558,Bernd Brügge,TU Munich,1,0.3
+2559,Georg Carle,TU Munich,1,0.2
+2560,Alfons Kemper,TU Munich,1,0.2
+2561,Alois C.,TU Munich,1,0.2
+2562,Jooyong Yi,UNIST,6,1.6
+2563,Yuseok Jeon,UNIST,4,0.8
+2564,Hyungon Moon,UNIST,4,0.6
+2565,Sam H.,UNIST,4,0.7
+2566,Woongki Baek,UNIST,3,0.9
+2567,Myeongjae Jeon,UNIST,3,0.5
+2568,Young-ri Choi,UNIST,2,0.4
+2569,Miran Kim,UNIST,2,0.5
+2570,Youngbin Im,UNIST,1,0.2
+2571,Mijung Kim,UNIST,1,0.3
+2572,Yannis Smaragdakis,University of Athens,18,5.8
+2573,Dimitris Gizopoulos,University of Athens,6,1.5
+2574,Vasileios Karakostas,University of Athens,4,0.6
+2575,Mema Roussopoulos,University of Athens,2,0.3
+2576,Bogdan Warinschi,University of Bristol,9,2.5
+2577,François Dupressoir,University of Bristol,7,1.2
+2578,Steven J.,University of Bristol,5,2
+2579,Awais Rashid,University of Bristol,4,0.6
+2580,Meng Wang,University of Bristol,2,0.4
+2581,Cristina David,University of Bristol,2,0.8
+2582,G. A.,University of Bristol,2,1.3
+2583,Inah Omoronyia,University of Bristol,2,0.4
+2584,Matthew Edwards,University of Bristol,1,0.2
+2585,Sanjay Rawat,University of Bristol,1,0.1
+2586,Ruzanna Chitchyan,University of Bristol,1,0.2
+2587,Joseph Hallett,University of Bristol,1,0.3
+2588,Robert J.,University of Calgary,12,5.2
+2589,Joel Reardon,University of Calgary,6,1.7
+2590,Ryan Henry,University of Calgary,5,2.2
+2591,Philip W.,University of Calgary,3,2.3
+2592,Michael E.,University of Calgary,3,0.7
+2593,Jörg Denzinger,University of Calgary,2,0.6
+2594,Frank Maurer,University of Calgary,1,0.3
+2595,Günther Ruhe,University of Calgary,1,0.5
+2596,Reihaneh Safavi-Naini,University of Calgary,1,0.5
+2597,Ryo Suzuki,University of Calgary,1,0.1
+2598,Hai Jin,HUST,15,2.1
+2599,Ming Wen,HUST,8,1.2
+2600,Xiaofei Liao,HUST,5,0.7
+2601,Deqing Zou,HUST,5,0.7
+2602,Yu Hua,HUST,4,1.1
+2603,Fangming Liu,HUST,3,0.5
+2604,Lin Gu,HUST,2,0.3
+2605,Long Zheng,HUST,2,0.2
+2606,Yu Zhang,HUST,2,0.3
+2607,Haikun Liu,HUST,2,0.3
+2608,Dan Feng,HUST,1,0.2
+2609,Dezhong Yao,HUST,1,0.1
+2610,Xiaojing Ma,HUST,1,0.2
+2611,Xuanhua Shi,HUST,1,0.1
+2612,Thomas A.,IST Austria,17,4.6
+2613,Krishnendu Chatterjee,IST Austria,15,3.8
+2614,Eleftherios Kokoris-Kogias,IST Austria,7,1.3
+2615,Krzysztof Pietrzak,IST Austria,1,0.1
+2616,Andrzej Wasowski,IT University of Copenhagen,6,1.4
+2617,Zhoulai Fu,IT University of Copenhagen,5,1.6
+2618,Claus Brabrand,IT University of Copenhagen,2,0.5
+2619,Marco Carbone,IT University of Copenhagen,2,0.8
+2620,Rasmus Ejlers,IT University of Copenhagen,2,0.8
+2621,Pinar Tözün,IT University of Copenhagen,2,0.5
+2622,Christoph Seidl,IT University of Copenhagen,1,0.2
+2623,Martin Aumüller,IT University of Copenhagen,1,0.3
+2624,Patrick Bahr,IT University of Copenhagen,1,0.3
+2625,Jesper Bengtson,IT University of Copenhagen,1,0.3
+2626,Bernardo Machado,IT University of Copenhagen,1,0.2
+2627,Yvonne Dittrich,IT University of Copenhagen,1,0.2
+2628,Mircea Lungu,IT University of Copenhagen,1,0.3
+2629,Paolo Tell,IT University of Copenhagen,1,0.2
+2630,Hridesh Rajan,Iowa State University,21,6.8
+2631,Myra B.,Iowa State University,12,2.9
+2632,Wei Le,Iowa State University,9,3.9
+2633,Samik Basu,Iowa State University,3,0.9
+2634,Meisam Mohammady,Iowa State University,2,0.3
+2635,Ying Cai,Iowa State University,1,0.5
+2636,James I.,Iowa State University,1,0.2
+2637,Robyn R.,Iowa State University,1,0.2
+2638,Andrew S.,Iowa State University,1,0.2
+2639,Yang Liu,Nanyang Technological University,45,7.1
+2640,Shangwei Lin,Nanyang Technological University,7,1.3
+2641,Rui Tan,Nanyang Technological University,2,0.5
+2642,Mo Li,Nanyang Technological University,1,0.1
+2643,Anupam Chattopadhyay,Nanyang Technological University,1,0.1
+2644,Sinno Jialin,Nanyang Technological University,1,0.3
+2645,Thomas Peyrin,Nanyang Technological University,1,0.5
+2646,Robbert Krebbers,Radboud University,14,4.3
+2647,Gunes Acar,Radboud University,7,1.3
+2648,Katharina Kohls,Radboud University,4,1.3
+2649,Daniel Strüber,Radboud University,3,0.6
+2650,Veelasha Moonsamy,Radboud University,3,0.6
+2651,Lejla Batina,Radboud University,2,0.4
+2652,Herman Geuvers,Radboud University,1,0.3
+2653,Bart Mennink,Radboud University,1,0.3
+2654,Erik Poll,Radboud University,1,0.5
+2655,Donald E.,University of North Carolina,11,2.2
+2656,Cynthia Sturton,University of North Carolina,7,1.9
+2657,Benjamin Berg,University of North Carolina,3,0.4
+2658,Saba Eskandarian,University of North Carolina,3,0.7
+2659,Kevin Jeffay,University of North Carolina,2,0.5
+2660,Colin Raffel,University of North Carolina,2,0.3
+2661,Samarjit Chakraborty,University of North Carolina,1,0.5
+2662,Natalie Stanley,University of North Carolina,1,0.2
+2663,Jiang Ming,University of Texas at Arlington,18,3.6
+2664,Christoph Csallner,University of Texas at Arlington,5,1.4
+2665,Shirin Nilizadeh,University of Texas at Arlington,3,0.8
+2666,Mohammad A.,University of Texas at Arlington,2,0.8
+2667,Yu Lei,University of Texas at Arlington,2,0.5
+2668,Ming Li,University of Texas at Arlington,2,0.5
+2669,Hong Jiang,University of Texas at Arlington,1,0.3
+2670,Song Jiang,University of Texas at Arlington,1,0.2
+2671,Rongxin Wu,Xiamen University,16,3
+2672,Jiwu Shu,Xiamen University,8,1.6
+2673,Qiao Li,Xiamen University,2,0.3
+2674,Congming Gao,Xiamen University,2,0.3
+2675,Yiming Zhang,Xiamen University,1,0.2
+2676,Lu Tang,Xiamen University,1,0.1
+2677,Qiao Xiang,Xiamen University,1,0.2
+2678,Micah Sherr,Georgetown University,10,2.1
+2679,Wenchao Zhou,Georgetown University,8,1.5
+2680,Matt Blaze,Georgetown University,4,0.8
+2681,Kobbi Nissim,Georgetown University,4,1
+2682,Clay Shields,Georgetown University,4,1.2
+2683,Calvin C.,Georgetown University,2,1.5
+2684,Justin Thaler,Georgetown University,2,0.3
+2685,Benjamin E.,Georgetown University,2,0.3
+2686,Matthew Green,Johns Hopkins University,24,6
+2687,Yinzhi Cao,Johns Hopkins University,17,3.4
+2688,Susan Hohenberger,Johns Hopkins University,12,4.4
+2689,Aviel D.,Johns Hopkins University,6,1.8
+2690,Abhishek Jain,Johns Hopkins University,3,0.8
+2691,Soudeh Ghorbani,Johns Hopkins University,2,0.4
+2692,Randal C.,Johns Hopkins University,1,0.1
+2693,Jason Eisner,Johns Hopkins University,1,0.3
+2694,Yuval Yarom,University of Adelaide,24,4.6
+2695,Minhui Xue,University of Adelaide,14,2.1
+2696,Muhammad Ali,University of Adelaide,6,1.2
+2697,Sebastian Baltes,University of Adelaide,4,1.4
+2698,Damith Chinthana,University of Adelaide,2,0.4
+2699,Markus Wagner,University of Adelaide,1,0.2
+2700,James Clause,University of Delaware,7,2.7
+2701,Lori L.,University of Delaware,6,1.6
+2702,Xing Gao,University of Delaware,5,1.1
+2703,Rui Zhang,University of Delaware,3,0.7
+2704,Rudolf Eigenmann,University of Delaware,2,0.8
+2705,K. Vijay-Shanker,University of Delaware,2,0.7
+2706,Chengmo Yang,University of Delaware,1,0.3
+2707,Roberto Perdisci,University of Georgia,17,3.9
+2708,Kyu Hyung,University of Georgia,6,1.3
+2709,Le Guan,University of Georgia,5,0.9
+2710,Kang Li,University of Georgia,4,0.8
+2711,Tianming Liu,University of Georgia,3,0.4
+2712,Mustakimur Khandaker,University of Georgia,2,0.5
+2713,Chenglin Miao,University of Georgia,1,0.2
+2714,Jeff Yan,University of Strathclyde,7,1.9
+2715,Robert Atkey,University of Strathclyde,3,1.7
+2716,Marc Roper,University of Strathclyde,3,1
+2717,Neil Ghani,University of Strathclyde,2,0.8
+2718,Glynn Winskel,University of Strathclyde,2,0.8
+2719,Feng Dong,University of Strathclyde,1,0.1
+2720,Shishir Nagaraja,University of Strathclyde,1,0.2
+2721,Chao Shen,Xi'an Jiaotong University,6,1.1
+2722,Ting Liu,Xi'an Jiaotong University,6,0.9
+2723,Peng Zhang,Xi'an Jiaotong University,4,0.8
+2724,Hao Li,Xi'an Jiaotong University,3,0.5
+2725,Longjun Liu,Xi'an Jiaotong University,3,0.4
+2726,Qinghua Zheng,Xi'an Jiaotong University,3,0.4
+2727,Hongbin Sun,Xi'an Jiaotong University,2,0.3
+2728,Wuxia Jin,Xi'an Jiaotong University,2,0.3
+2729,Nanning Zheng,Xi'an Jiaotong University,1,0.1
+2730,Jun Liu,Xi'an Jiaotong University,1,0.1
+2731,Xiaoyan Zhu,Xi'an Jiaotong University,1,0.2
+2732,Zhongmin Cai,Xi'an Jiaotong University,1,0.3
+2733,Danfeng Shan,Xi'an Jiaotong University,1,0.1
+2734,Wei Xi,Xi'an Jiaotong University,1,0.1
+2735,Jizhong Zhao,Xi'an Jiaotong University,1,0.1
+2736,Filippo Bonchi,Ecole Normale Superieure de Lyon,3,1
+2737,Pierre Clairambault,Ecole Normale Superieure de Lyon,3,1.2
+2738,Benoît Libert,Ecole Normale Superieure de Lyon,3,1.2
+2739,Shi Bai,Ecole Normale Superieure de Lyon,2,0.2
+2740,Denis Kuperberg,Ecole Normale Superieure de Lyon,2,0.5
+2741,Jean-Bernard Stefani,Ecole Normale Superieure de Lyon,2,0.8
+2742,Damien Stehlé,Ecole Normale Superieure de Lyon,2,0.5
+2743,Sanjay Bhattacherjee,Ecole Normale Superieure de Lyon,1,0.2
+2744,Laure Gonnord,Ecole Normale Superieure de Lyon,1,0.3
+2745,Fabien Laguillaumie,Ecole Normale Superieure de Lyon,1,0.3
+2746,Clément Pernet,Ecole Normale Superieure de Lyon,1,0.1
+2747,Tomofumi Yuki,Ecole Normale Superieure de Lyon,1,0.1
+2748,Sorav Bansal,IIT Delhi,6,2.4
+2749,Smruti R.,IIT Delhi,6,2.2
+2750,Amit Kumar,IIT Delhi,1,0.3
+2751,Subodh Sharma,IIT Delhi,1,0.2
+2752,Abhilash Jindal,IIT Delhi,1,0.5
+2753,Sanjiva Prasad,IIT Delhi,1,0.3
+2754,Yunhao Liu,Michigan State University,10,1.4
+2755,Betty H.,Michigan State University,3,1.5
+2756,Laura K.,Michigan State University,3,1.2
+2757,Qiben Yan,Michigan State University,2,0.5
+2758,Li Xiao,Michigan State University,1,0.2
+2759,Zhichao Cao,Michigan State University,1,0.2
+2760,Yu Kong,Michigan State University,1,0.3
+2761,Eric Torng,Michigan State University,1,0.2
+2762,Jisung Park,POSTECH,10,1.2
+2763,Gwangsun Kim,POSTECH,6,1.3
+2764,Jong Kim,POSTECH,3,0.8
+2765,Sungwoo Park,POSTECH,3,1.2
+2766,Hyojin Sung,POSTECH,2,0.8
+2767,Kyungmin Bae,POSTECH,1,0.5
+2768,Chanik Park,POSTECH,1,0.2
+2769,Eunhyeok Park,POSTECH,1,0.3
+2770,Wei You,Renmin University of China,11,1.7
+2771,Bin Liang,Renmin University of China,9,1.5
+2772,Jianjun Huang,Renmin University of China,8,1.5
+2773,Wenchang Shi,Renmin University of China,6,0.9
+2774,Xiaofeng Meng,Renmin University of China,1,0.3
+2775,Yunpeng Chai,Renmin University of China,1,0.5
+2776,Martin R.,Royal Holloway University of London,7,1.9
+2777,Matthew Hague,Royal Holloway University of London,4,0.8
+2778,Jason Crampton,Royal Holloway University of London,3,2.3
+2779,Julien Lange,Royal Holloway University of London,3,0.8
+2780,Reuben N.,Royal Holloway University of London,3,0.7
+2781,Dan O'Keeffe,Royal Holloway University of London,2,0.2
+2782,Gregory Z.,Royal Holloway University of London,1,0.3
+2783,Elizabeth A.,Royal Holloway University of London,1,0.5
+2784,Matteo Sammartino,Royal Holloway University of London,1,0.2
+2785,Jean-Pierre Seifert,TU Berlin,12,3.9
+2786,Stefan Schmid,TU Berlin,3,0.8
+2787,Florian Tschorsch,TU Berlin,2,0.7
+2788,Sabine Glesner,TU Berlin,1,0.5
+2789,Manfred Hauswirth,TU Berlin,1,0.3
+2790,Stefan Tai,TU Berlin,1,0.2
+2791,Adam Wolisz,TU Berlin,1,0.1
+2792,Patrick Traynor,University of Florida,22,4.3
+2793,Kevin R.,University of Florida,20,4
+2794,Thomas Shrimpton,University of Florida,14,3.7
+2795,Vincent Bindschaedler,University of Florida,7,1.6
+2796,Sara Rampazzi,University of Florida,4,0.6
+2797,Prabhat Mishra,University of Florida,1,0.3
+2798,Lisa Anthony,University of Florida,1,0.1
+2799,José A.,University of Florida,1,0.3
+2800,Jih-Kwon Peir,University of Florida,1,0.2
+2801,Tuba Yavuz,University of Florida,1,0.2
+2802,Mohammad Alian,University of Kansas,8,1.3
+2803,Bo Luo,University of Kansas,6,1.2
+2804,Drew Davidson,University of Kansas,4,0.9
+2805,Fengjun Li,University of Kansas,4,0.8
+2806,Alexandru G.,University of Kansas,2,0.5
+2807,Reza Ahmadi,University of Kansas,1,0.5
+2808,Aveek Dutta,University of Kansas,1,0.3
+2809,Mark Batty,University of Kent,9,1.8
+2810,Scott Owens,University of Kent,6,1.2
+2811,Frank Wang,University of Kent,4,0.9
+2812,Radu Grigore,University of Kent,3,1.7
+2813,Olaf Chitil,University of Kent,2,1
+2814,Stefan Marr,University of Kent,2,0.6
+2815,Budi Arief,University of Kent,1,0.2
+2816,Richard E.,University of Kent,1,0.3
+2817,Andy King,University of Kent,1,0.3
+2818,Dominic A.,University of Kent,1,0.5
+2819,Simon J.,University of Kent,1,0.3
+2820,Christoph Treude,University of Melbourne,21,5.3
+2821,Olga Ohrimenko,University of Melbourne,8,1.7
+2822,Toby C.,University of Melbourne,4,0.6
+2823,Patanamon Thongtanunam,University of Melbourne,4,1.1
+2824,Benjamin I.,University of Melbourne,1,0.3
+2825,Vanessa Teague,University of Melbourne,1,0.3
+2826,Benny Pinkas,Bar-Ilan University,23,6.8
+2827,Yehuda Lindell,Bar-Ilan University,15,5.2
+2828,Gilad Asharov,Bar-Ilan University,3,0.6
+2829,Joseph Keshet,Bar-Ilan University,1,0.2
+2830,Yoni Zohar,Bar-Ilan University,1,0.1
+2831,Hailong Sun,Beihang University,4,0.7
+2832,Xiang Gao,Beihang University,4,1.1
+2833,Depei Qian,Beihang University,4,1
+2834,Xudong Liu,Beihang University,3,0.6
+2835,Xianglong Liu,Beihang University,1,0.1
+2836,Wei Li,Beihang University,1,0.1
+2837,Chunming Hu,Beihang University,1,0.2
+2838,Zhoujun Li,Beihang University,1,0.2
+2839,Rosario Gennaro,CUNY,10,3.4
+2840,Raffi Khatchadourian,CUNY,4,1.4
+2841,Tzipora Halevi,CUNY,2,0.8
+2842,Ping Ji,CUNY,1,0.3
+2843,Soon Ae,CUNY,1,0.3
+2844,Sven Dietrich,CUNY,1,0.2
+2845,Nelly Fazio,CUNY,1,0.3
+2846,Anita Raja,CUNY,1,0.2
+2847,Paul C.,Carleton University,13,4.6
+2848,Sonia Chiasson,Carleton University,6,1.3
+2849,Anil Somayaji,Carleton University,5,1.5
+2850,AbdelRahman Abdou,Carleton University,2,0.5
+2851,Olga Baysal,Carleton University,2,0.7
+2852,Robert Biddle,Carleton University,2,0.5
+2853,Peter C.,Concordia University,15,5.5
+2854,Tse-Hsun (Peter),Concordia University,8,1.9
+2855,Weiyi Shang,Concordia University,8,2.2
+2856,Emad Shihab,Concordia University,8,1.8
+2857,Nikolaos Tsantalis,Concordia University,8,2.5
+2858,Jinqiu Yang,Concordia University,5,1.3
+2859,Yann-Gaël Guéhéneuc,Concordia University,2,0.5
+2860,Juergen Rilling,Concordia University,1,0.3
+2861,Yasemin Acar,George Washington University,20,3.6
+2862,Adam J.,George Washington University,12,2.9
+2863,Arkady Yerukhimovich,George Washington University,5,0.9
+2864,Timothy Wood,George Washington University,4,0.9
+2865,Sibin Mohan,George Washington University,2,0.4
+2866,Poorvi L.,George Washington University,2,0.3
+2867,Xiuzhen Cheng,George Washington University,1,0.1
+2868,Mythili Vutukuru,IIT Bombay,4,1.2
+2869,Ashutosh Gupta,IIT Bombay,3,0.7
+2870,Biswabandan Panda,IIT Bombay,3,1.2
+2871,Manoj Prabhakaran,IIT Bombay,2,0.5
+2872,Shankara Narayanan,IIT Bombay,1,0.3
+2873,Stefan K.,Illinois Institute of Technology,4,2
+2874,Yue Duan,Illinois Institute of Technology,3,0.6
+2875,Binghui Wang,Illinois Institute of Technology,3,1.2
+2876,Rujia Wang,Illinois Institute of Technology,2,0.5
+2877,Kyle C.,Illinois Institute of Technology,1,0.1
+2878,Xian-He Sun,Illinois Institute of Technology,1,0.1
+2879,Dirk Beyer,LMU Munich,15,3.8
+2880,Martin Hofmann,LMU Munich,7,3.1
+2881,John V.,Naval Postgraduate School,3,3
+2882,Geoffrey G.,Naval Postgraduate School,3,0.7
+2883,Ted Huffmire,Naval Postgraduate School,2,0.3
+2884,Cynthia E.,Naval Postgraduate School,2,0.6
+2885,Joshua A.,Naval Postgraduate School,2,0.3
+2886,Armon Barton,Naval Postgraduate School,1,0.3
+2887,Britta Hale,Naval Postgraduate School,1,0.3
+2888,Justin P.,Naval Postgraduate School,1,0.2
+2889,Dennis M.,Naval Postgraduate School,1,0.5
+2890,Ahmed E.,Queen’s University,22,6
+2891,Bram Adams,Queen’s University,11,2.8
+2892,Jürgen Dingel,Queen’s University,6,3
+2893,T. C.,Queen’s University,2,0.7
+2894,Patrick Martin,Queen’s University,1,0.2
+2895,Yuan Tian,Queen’s University,1,0.3
+2896,Xiapu Luo,The Hong Kong Polytechnic University,31,4.8
+2897,Bin Xiao,The Hong Kong Polytechnic University,1,0.3
+2898,David Zhang,The Hong Kong Polytechnic University,1,0.3
+2899,Jiannong Cao,The Hong Kong Polytechnic University,1,0.1
+2900,Dan Wang,The Hong Kong Polytechnic University,1,0.1
+2901,Qixin Wang,The Hong Kong Polytechnic University,1,0.2
+2902,Ítalo S.,UFMG,5,0.7
+2903,Eduardo Figueiredo,UFMG,4,0.5
+2904,Marco Túlio,UFMG,4,1.3
+2905,André C.,UFMG,2,0.5
+2906,Fernando Magno,UFMG,2,0.8
+2907,Mário S.,UFMG,1,0.3
+2908,Dorgival O.,UFMG,1,0.3
+2909,Wagner Meira,UFMG,1,0.3
+2910,Sebastián Uchitel,University of Buenos Aires,24,6.7
+2911,Víctor A.,University of Buenos Aires,10,2.6
+2912,Diego Garbervetsky,University of Buenos Aires,5,1.1
+2913,Nicolás D'Ippolito,University of Buenos Aires,4,0.9
+2914,Juan P.,University of Buenos Aires,2,0.6
+2915,Hernán C.,University of Buenos Aires,1,0.3
+2916,Carlos López,University of Buenos Aires,1,0.3
+2917,Marten van,University of Connecticut,12,2.5
+2918,Caiwen Ding,University of Connecticut,5,0.5
+2919,Amir Herzberg,University of Connecticut,5,1.4
+2920,Alexander Russell,University of Connecticut,5,1.4
+2921,Yuan Hong,University of Connecticut,4,0.8
+2922,Benjamin Fuller,University of Connecticut,1,0.1
+2923,Minmei Wang,University of Connecticut,1,0.2
+2924,Yves Le,University of Luxembourg,15,2.6
+2925,Alex Biryukov,University of Luxembourg,5,2
+2926,Sjouke Mauw,University of Luxembourg,3,0.8
+2927,Thomas Engel,University of Luxembourg,1,0.1
+2928,Peter Y.,University of Luxembourg,1,0.3
+2929,Birhanu Eshete,University of Michigan-Dearborn,5,1.1
+2930,Anys Bacha,University of Michigan-Dearborn,3,1.5
+2931,Foyzul Hassan,University of Michigan-Dearborn,3,1
+2932,Marouane Kessentini,University of Michigan-Dearborn,1,0.2
+2933,Di Ma,University of Michigan-Dearborn,1,0.5
+2934,Hamid Bagheri,University of Nebraska,9,2.7
+2935,Robert Dyer,University of Nebraska,4,1.3
+2936,Bonita Sharif,University of Nebraska,3,0.6
+2937,Nirnimesh Ghose,University of Nebraska,2,0.7
+2938,Witawas Srisa-an,University of Nebraska,2,0.5
+2939,Lisong Xu,University of Nebraska,2,0.8
+2940,N. V.,University of Nebraska,1,0.2
+2941,Jane Cleland-Huang,University of Notre Dame,17,3.6
+2942,Collin McMillan,University of Notre Dame,8,1.9
+2943,Yanfang Ye,University of Notre Dame,2,0.3
+2944,Meng Jiang,University of Notre Dame,1,0.2
+2945,Peter M.,University of Notre Dame,1,0.5
+2946,Ronald A.,University of Notre Dame,1,0.2
+2947,Michael T.,University of Notre Dame,1,0.5
+2948,Joanna C.,University of Notre Dame,1,0.2
+2949,Douglas Thain,University of Notre Dame,1,0.2
+2950,Yingjiu Li,University of Oregon,5,1.3
+2951,Michal Young,University of Oregon,3,0.8
+2952,Ramakrishnan Durairajan,University of Oregon,2,0.5
+2953,Zena M.,University of Oregon,1,0.3
+2954,Stephen Fickas,University of Oregon,1,1
+2955,Daniel Lowd,University of Oregon,1,0.5
+2956,Reza Rejaie,University of Oregon,1,0.2
+2957,Yulei Sui,University of Technology Sydney,12,2.6
+2958,Mingsheng Ying,University of Technology Sydney,7,2.2
+2959,Yuan Feng,University of Technology Sydney,2,0.6
+2960,Runyao Duan,University of Technology Sydney,1,0.3
+2961,Xiaoyin Wang,University of Texas at San Antonio,16,3.6
+2962,Jianwei Niu,University of Texas at San Antonio,5,1.1
+2963,Wei Wang,University of Texas at San Antonio,4,0.7
+2964,Rocky Slavin,University of Texas at San Antonio,4,0.7
+2965,Murtuza Jadliwala,University of Texas at San Antonio,1,0.1
+2966,Pierre Laperdrix,CRIStAL,5,1.4
+2967,Stéphane Ducasse,CRIStAL,4,1.2
+2968,Walter Rudametkin,CRIStAL,3,0.8
+2969,Romain Rouvoy,CRIStAL,2,0.5
+2970,Nicolas Anquetil,CRIStAL,1,0.3
+2971,Anne Etien,CRIStAL,1,0.2
+2972,Joachim Niehren,CRIStAL,1,0.2
+2973,Louis-Noël Pouchet,Colorado State University,13,2.7
+2974,Sanjay V.,Colorado State University,2,0.8
+2975,Indrajit Ray,Colorado State University,2,0.5
+2976,Christos Papadopoulos,Colorado State University,1,0.3
+2977,L. Darrell,Colorado State University,1,0.3
+2978,Yuanfang Cai,Drexel University,8,1.7
+2979,Geoffrey Mainland,Drexel University,3,1
+2980,Zhibo Sun,Drexel University,3,0.3
+2981,Preetha Chatterjee,Drexel University,1,0.3
+2982,Colin S.,Drexel University,1,0.3
+2983,Davide Balzarotti,EURECOM,26,6.7
+2984,Aurélien Francillon,EURECOM,8,3
+2985,Simone Aonzo,EURECOM,3,0.8
+2986,Maurizio Filippone,EURECOM,1,0.5
+2987,Daniel Gruss,Graz University of Technology,27,4.7
+2988,Stefan Mangard,Graz University of Technology,12,2.5
+2989,Christian Rechberger,Graz University of Technology,6,1.1
+2990,Roderick Bloem,Graz University of Technology,1,0.2
+2991,Mainak Chaudhuri,IIT Kanpur,6,3.3
+2992,Subhajit Roy,IIT Kanpur,4,1.2
+2993,Amey Karkare,IIT Kanpur,2,0.3
+2994,Piyush Rai,IIT Kanpur,1,0.2
+2995,Nisheeth Srivastava,IIT Kanpur,1,0
+2996,Thorsten Strufe,Karlsruhe Institute of Technology,4,1.1
+2997,Christian Wressnegger,Karlsruhe Institute of Technology,3,0.6
+2998,Ralf H.,Karlsruhe Institute of Technology,2,0.5
+2999,Mehdi Baradaran,Karlsruhe Institute of Technology,2,0.3
+3000,Frank Bellosa,Karlsruhe Institute of Technology,1,0.3
+3001,Ina Schaefer,Karlsruhe Institute of Technology,1,0.2
+3002,Gregor Snelting,Karlsruhe Institute of Technology,1,0.5
+3003,Walter F.,Karlsruhe Institute of Technology,1,0.3
+3004,Masahiro Goshima,National Institute of Informatics,3,0.8
+3005,Ichiro Hasuo,National Institute of Informatics,3,1
+3006,Taro Sekiyama,National Institute of Informatics,3,1.2
+3007,Kensuke Fukuda,National Institute of Informatics,1,0.3
+3008,Katsumi Inoue,National Institute of Informatics,1,0.2
+3009,Hiroyuki Kato,National Institute of Informatics,1,0.2
+3010,Michihiro Koibuchi,National Institute of Informatics,1,0.2
+3011,Makoto Tatsuta,National Institute of Informatics,1,0.3
+3012,Luciano Baresi,Politecnico di Milano,5,1.4
+3013,Stefano Zanero,Politecnico di Milano,4,0.7
+3014,Matteo Pradella,Politecnico di Milano,2,0.6
+3015,Marco Brambilla,Politecnico di Milano,1,0.5
+3016,Alessandro Barenghi,Politecnico di Milano,1,0.3
+3017,Antonio Capone,Politecnico di Milano,1,0.1
+3018,Stefano Ceri,Politecnico di Milano,1,0.5
+3019,Dino Mandrioli,Politecnico di Milano,1,0.3
+3020,Alessandro Margara,Politecnico di Milano,1,0.3
+3021,Luca Mottola,Politecnico di Milano,1,0.3
+3022,Elisabetta Di,Politecnico di Milano,1,0.2
+3023,Marco D.,Politecnico di Milano,1,0.2
+3024,Joost-Pieter Katoen,RWTH Aachen,5,1.1
+3025,Bernhard Rumpe,RWTH Aachen,3,1
+3026,Klaus Wehrle,RWTH Aachen,3,0.5
+3027,Jürgen Giesl,RWTH Aachen,1,0.3
+3028,Matthias Jarke,RWTH Aachen,1,0.5
+3029,Ulrike Meyer,RWTH Aachen,1,0.3
+3030,Camil Demetrescu,Sapienza University of Rome,4,1.5
+3031,Daniele Venturi,Sapienza University of Rome,2,0.5
+3032,Salvatore Pontarelli,Sapienza University of Rome,2,0.2
+3033,Leonardo Querzoni,Sapienza University of Rome,2,0.4
+3034,Emiliano Casalicchio,Sapienza University of Rome,1,0.2
+3035,Luigi V.,Sapienza University of Rome,1,0.3
+3036,Alessandro Panconesi,Sapienza University of Rome,1,0.2
+3037,Martin Johns,TU Braunschweig,11,2.9
+3038,Konrad Rieck,TU Braunschweig,8,1.8
+3039,Roland Meyer,TU Braunschweig,2,1
+3040,Rüdiger Kapitza,TU Braunschweig,2,0.3
+3041,Anthony Widjaja,TU Kaiserslautern,5,1.2
+3042,Jens B.,TU Kaiserslautern,3,1
+3043,Ralf Hinze,TU Kaiserslautern,2,1.3
+3044,Annette Bieniusa,TU Kaiserslautern,1,0.3
+3045,Wolfgang Kunz,TU Kaiserslautern,1,0.3
+3046,Arnd Poetzsch-Heffter,TU Kaiserslautern,1,0.3
+3047,Yinxing Xue,USTC,11,1.9
+3048,Xiang-Yang Li,USTC,2,0.3
+3049,Enhong Chen,USTC,2,0.2
+3050,Yinlong Xu,USTC,2,0.3
+3051,Xuehai Zhou,USTC,2,0.2
+3052,Liusheng Huang,USTC,1,0.1
+3053,Yan Xiong,USTC,1,0.2
+3054,Hongli Xu,USTC,1,0.1
+3055,Lan Zhang,USTC,1,0.2
+3056,Dominique Schröder,University of Erlangen–Nuremberg,12,2.8
+3057,Felix C.,University of Erlangen–Nuremberg,4,1
+3058,Dirk Riehle,University of Erlangen–Nuremberg,2,0.5
+3059,Joachim Hornegger,University of Erlangen–Nuremberg,1,0.3
+3060,Michael Philippsen,University of Erlangen–Nuremberg,1,0.3
+3061,Andreas Podelski,University of Freiburg,15,5.1
+3062,Peter Thiemann,University of Freiburg,5,1.9
+3063,Markus Dürmuth,University of Hannover,10,2.5
+3064,Kurt Schneider,University of Hannover,4,1.2
+3065,Daniel Lohmann,University of Hannover,3,0.8
+3066,Jan S.,University of Hannover,1,0.1
+3067,Xinwen Fu,University of Massachusetts Lowell,4,0.7
+3068,Sashank Narain,University of Massachusetts Lowell,4,1
+3069,Yimin Chen,University of Massachusetts Lowell,3,0.6
+3070,Matteo Cimini,University of Massachusetts Lowell,3,1.5
+3071,Paul Downen,University of Massachusetts Lowell,1,0.3
+3072,Benyuan Liu,University of Massachusetts Lowell,1,0.2
+3073,Jay A.,University of Massachusetts Lowell,1,0.1
+3074,Rocco Oliveto,University of Molise,17,2.8
+3075,Gennaro Parlato,University of Molise,3,1.2
+3076,Anna Lisa,University of Molise,1,0.3
+3077,Alberto Ros,University of Murcia,17,5.8
+3078,Alexandra Jimborean,University of Murcia,4,1.1
+3079,Juan L.,University of Murcia,3,0.7
+3080,Manuel E.,University of Murcia,1,0.3
+3081,J. Rubén,University of Murcia,1,0.2
+3082,Hongyu Zhang,University of Newcastle,43,7.6
+3083,Andrea De,University of Salerno,5,0.8
+3084,Fabio Palomba,University of Salerno,4,0.7
+3085,Giuseppe Persiano,University of Salerno,3,1.1
+3086,Filomena Ferrucci,University of Salerno,2,0.4
+3087,Barbara Masucci,University of Salerno,1,0.3
+3088,Alfredo De,University of Salerno,1,0.3
+3089,Salvatore La,University of Salerno,1,0.3
+3090,Ivan Visconti,University of Salerno,1,0.5
+3091,Yao Liu,University of South Florida,8,1.9
+3092,Jay Ligatti,University of South Florida,4,1.3
+3093,Xinming Ou,University of South Florida,4,1.1
+3094,Attila A.,University of South Florida,2,0.5
+3095,Margaret-Anne D.,University of Victoria,13,4.3
+3096,Daniel M.,University of Victoria,8,2
+3097,Daniela E.,University of Victoria,6,1.3
+3098,Kui Wu,University of Victoria,1,0.2
+3099,Neil A.,University of Victoria,1,0.2
+3100,Bruce M.,University of Victoria,1,0.3
+3101,Alberto Bacchelli,University of Zurich,17,4.7
+3102,Harald C.,University of Zurich,15,3.3
+3103,Thomas Fritz,University of Zurich,13,3.9
+3104,Abraham Bernstein,University of Zurich,2,0.3
+3105,Martin Glinz,University of Zurich,1,0.3
+3106,Haipeng Cai,Washington State University,7,2.1
+3107,Aravind Sukumaran-Rajam,Washington State University,2,0.3
+3108,Xuechen Zhang,Washington State University,2,0.5
+3109,Venera Arnaoudova,Washington State University,1,0.3
+3110,Zhe Dang,Washington State University,1,0.5
+3111,Carl H.,Washington State University,1,0.3
+3112,Ning Zhang,Washington University in St. Louis,4,1
+3113,Yevgeniy Vorobeychik,Washington University in St. Louis,3,0.4
+3114,Chenyang Lu,Washington University in St. Louis,2,0.3
+3115,Kunal Agrawal,Washington University in St. Louis,2,0.4
+3116,Patrick Crowley,Washington University in St. Louis,2,0.3
+3117,Ron Cytron,Washington University in St. Louis,2,0.7
+3118,William Yeoh,Washington University in St. Louis,1,0.1
+3119,Christopher D.,Washington University in St. Louis,1,0.1
+3120,Roch Guérin,Washington University in St. Louis,1,0.3
+3121,I-Ting Angelina,Washington University in St. Louis,1,0.2
+3122,Russell W.,Aalto University,5,1.1
+3123,Chris Brzuska,Aalto University,4,1
+3124,Tuomas Aura,Aalto University,3,0.9
+3125,Casper Lassenius,Aalto University,2,0.8
+3126,Alexander Jung,Aalto University,1,0.1
+3127,Janne Lindqvist,Aalto University,1,0.2
+3128,Antti Oulasvirta,Aalto University,1,0.2
+3129,Haoyu Wang,BUPT,12,1.7
+3130,Anfu Zhou,BUPT,2,0.4
+3131,Liang Liu,BUPT,1,0.1
+3132,Tao Huang,BUPT,1,0.1
+3133,Huadong Ma,BUPT,1,0.1
+3134,Shangguang Wang,BUPT,1,0.2
+3135,Mengwei Xu,BUPT,1,0.1
+3136,Johannes Kinder,Bundeswehr University Munich,7,2.2
+3137,Stefan Brunthaler,Bundeswehr University Munich,3,0.6
+3138,Paige Rodeghero,Clemson University,4,0.9
+3139,Xiaolong Ma,Clemson University,3,0.3
+3140,Jacob Sorber,Clemson University,3,0.7
+3141,Long Cheng,Clemson University,2,0.4
+3142,Kelly Caine,Clemson University,2,0.4
+3143,Zhenkai Zhang,Clemson University,2,0.4
+3144,Eileen T.,Clemson University,1,0.2
+3145,Bo Wu,Colorado School of Mines,4,1.3
+3146,Mehmet Esat,Colorado School of Mines,2,0.5
+3147,Jedidiah McClurg,Colorado School of Mines,2,0.5
+3148,R. Iris,Colorado School of Mines,1,0.5
+3149,Chuan Yue,Colorado School of Mines,1,0.3
+3150,Sebastian Mödersheim,DTU,2,1.3
+3151,Christian Damsgaard,DTU,1,0.5
+3152,Flemming Nielson,DTU,1,0.5
+3153,Hanne Riis,DTU,1,0.5
+3154,Andrea Vandin,DTU,1,0.3
+3155,Sean W.,Dartmouth College,5,1.8
+3156,David Kotz,Dartmouth College,2,0.7
+3157,Xia Zhou,Dartmouth College,2,0.3
+3158,Alberto Quattrini,Dartmouth College,1,0.2
+3159,Shagufta Mehnaz,Dartmouth College,1,0.2
+3160,Ting Su,East China Normal University,14,2.5
+3161,Min Zhang,East China Normal University,1,0.5
+3162,Mingsong Chen,East China Normal University,1,0.3
+3163,Yuxin Deng,East China Normal University,1,0.2
+3164,Bogdan Carbunar,Florida International University,4,1.1
+3165,A. Selcuk,Florida International University,2,0.5
+3166,Geoffrey Smith,Florida International University,1,0.5
+3167,Mo Sha,Florida International University,1,0.3
+3168,Jason Liu,Florida International University,1,0.3
+3169,Raju Rangaswami,Florida International University,1,0.3
+3170,Lars Grunske,Humboldt University of Berlin,7,3
+3171,Timo Kehrer,Humboldt University of Berlin,3,0.7
+3172,Björn Scheuermann,Humboldt University of Berlin,1,0.5
+3173,Zhenyu Ning,Hunan University,3,1.1
+3174,Guo Chen,Hunan University,2,0.2
+3175,Wenqiang Jin,Hunan University,2,0.5
+3176,Fei Peng,Hunan University,2,0.3
+3177,Kenli Li,Hunan University,1,0.3
+3178,Wanli Chang,Hunan University,1,0.1
+3179,Yufeng Zhang,Hunan University,1,0.2
+3180,Hao Chen,Hunan University,1,0.3
+3181,Xu He,Hunan University,1,0.2
+3182,K. C.,IIT Madras,5,1.4
+3183,Kartik Nagar,IIT Madras,3,0.8
+3184,Shweta Agrawal,IIT Madras,2,0.5
+3185,Ayon Chakraborty,IIT Madras,1,0.3
+3186,V. Krishna,IIT Madras,1,0.2
+3187,C. Pandu,IIT Madras,1,0.3
+3188,Alexander Egyed,JKU Linz,7,4.9
+3189,Hanspeter Mössenböck,JKU Linz,2,0.5
+3190,René Mayrhofer,JKU Linz,1,0.2
+3191,John Hatcliff,Kansas State University,5,1
+3192,Robby 5,Kansas State University,5,1.1
+3193,Venkatesh Prasad,Kansas State University,2,0.5
+3194,Torben Amtoft,Kansas State University,1,0.3
+3195,Masaaki Mizuno,Kansas State University,1,0.3
+3196,Jie Zhang,King's College London,7,1.7
+3197,Fabio Pierazzi,King's College London,4,0.8
+3198,Luca Viganò,King's College London,1,0.3
+3199,Stephen Kell,King's College London,1,0.1
+3200,Kevin Lano,King's College London,1,0.1
+3201,Grigorios Loukides,King's College London,1,0.1
+3202,Magnus Jahre,NTNU,5,1.4
+3203,Rakesh Kumar,NTNU,3,0.6
+3204,Magnus Själander,NTNU,2,0.4
+3205,Jingyue Li,NTNU,1,0.5
+3206,Guttorm Sindre,NTNU,1,0.3
+3207,Hsu-Chun Hsiao,National Taiwan University,4,0.7
+3208,Wei-Chung Hsu,National Taiwan University,4,0.7
+3209,Chia-Lin Yang,National Taiwan University,4,0.9
+3210,Mike Y.,National Taiwan University,1,0.2
+3211,Shih-Wei Liao,National Taiwan University,1,0.2
+3212,Ting Yu,Qatar Computing Research Institute,11,3
+3213,Xiaosong Ma,Qatar Computing Research Institute,6,1.2
+3214,Ana L.,Rensselaer Polytechnic Institute,5,2.2
+3215,Carlos A.,Rensselaer Polytechnic Institute,1,0.5
+3216,Mohammed J.,Rensselaer Polytechnic Institute,1,0.2
+3217,Wenliang Du,Syracuse University,4,0.9
+3218,Md. Endadul,Syracuse University,3,0.4
+3219,Vir V.,Syracuse University,2,0.8
+3220,Qinru Qiu,Syracuse University,2,0.2
+3221,Yuzhe Tang,Syracuse University,2,0.5
+3222,Jian Tang,Syracuse University,1,0.1
+3223,Bryan S.,Syracuse University,1,0.1
+3224,Kristopher K.,Syracuse University,1,0.2
+3225,James S.,Syracuse University,1,0.5
+3226,Pramod K.,Syracuse University,1,0.3
+3227,Siobhán Clarke,Trinity College Dublin,3,1.3
+3228,David Gregg,Trinity College Dublin,2,0.8
+3229,Martin Emms,Trinity College Dublin,1,0.2
+3230,Vasileios Koutavas,Trinity College Dublin,1,0.5
+3231,John Waldron,Trinity College Dublin,1,0.5
+3232,Luís Caires,Universidade NOVA de Lisboa,2,1
+3233,Bernardo Toninho,Universidade NOVA de Lisboa,2,0.5
+3234,Carla Ferreira,Universidade NOVA de Lisboa,1,0.2
+3235,João Araújo,Universidade NOVA de Lisboa,1,0.2
+3236,Miguel Goulão,Universidade NOVA de Lisboa,1,0.2
+3237,Nuno M.,Universidade NOVA de Lisboa,1,0.2
+3238,António Ravara,Universidade NOVA de Lisboa,1,0.2
+3239,João Costa,Universidade NOVA de Lisboa,1,0.5
+3240,Valerio Terragni,University of Auckland,6,1.8
+3241,Kelly Blincoe,University of Auckland,4,0.9
+3242,Beryl Plimmer,University of Auckland,1,0.3
+3243,Ewan D.,University of Auckland,1,0.3
+3244,Clark D.,University of Auckland,1,0.3
+3245,Ian Warren,University of Auckland,1,0.5
+3246,Matthew Smith,University of Bonn,16,3.2
+3247,Fritz Henglein,University of Copenhagen,3,0.9
+3248,Martin Elsman,University of Copenhagen,2,0.5
+3249,Cosmin E.,University of Copenhagen,2,0.7
+3250,Andrzej Filinski,University of Copenhagen,1,1
+3251,Ken Friis,University of Copenhagen,1,0.3
+3252,Rasmus Pagh,University of Copenhagen,1,0.3
+3253,Mikkel Thorup,University of Copenhagen,1,0.3
+3254,Jan Jürjens,University of Koblenz-Landau,4,2
+3255,Ralf Lämmel,University of Koblenz-Landau,2,1.2
+3256,Paola Inverardi,University of L'Aquila,6,1.9
+3257,Patrizio Pelliccione,University of L'Aquila,5,1.2
+3258,Henry Muccini,University of L'Aquila,3,0.8
+3259,Davide Di,University of L'Aquila,3,0.6
+3260,Massimo Tivoli,University of L'Aquila,3,1
+3261,Marco Autili,University of L'Aquila,1,0.2
+3262,Alfonso Pierantonio,University of L'Aquila,1,0.2
+3263,Thomas Eisenbarth,University of Lübeck,10,2.3
+3264,Esfandiar Mohammadi,University of Lübeck,5,1.5
+3265,Martin Leucker,University of Lübeck,1,0.2
+3266,Maciej Liskiewicz,University of Lübeck,1,0.5
+3267,Patrick Gage,University of New Mexico,7,0.7
+3268,Deepak Kapur,University of New Mexico,4,1.1
+3269,Gruia-Catalin Roman,University of New Mexico,4,1.5
+3270,David H.,University of New Mexico,1,0.2
+3271,Thomas P.,University of New Mexico,1,0.2
+3272,Darko Stefanovic,University of New Mexico,1,0.2
+3273,Mauro Conti,University of Padova,7,1.3
+3274,Francesco Ranzato,University of Padova,4,1.2
+3275,Paolo Baldan,University of Padova,1,0.3
+3276,Eleonora Losiouk,University of Padova,1,0.2
+3277,Massimiliano Di,University of Sannio,27,4.9
+3278,Gerardo Canfora,University of Sannio,4,0.8
+3279,Corrado Aaron,University of Sannio,2,0.3
+3280,Lerina Aversano,University of Sannio,1,0.2
+3281,Luigi Cerulo,University of Sannio,1,0.2
+3282,Dominique Unruh,University of Tartu,7,3.2
+3283,Vesal Vojdani,University of Tartu,2,0.5
+3284,Kalmer Apinis,University of Tartu,1,0.3
+3285,Naoki Kobayashi,University of Tokyo,8,3.5
+3286,Shuichi Sakai,University of Tokyo,2,0.3
+3287,Hiroshi Esaki,University of Tokyo,1,0.3
+3288,Hidetsugu Irie,University of Tokyo,1,0.1
+3289,Hiroshi Unno,University of Tsukuba,6,2
+3290,Koji Hasebe,University of Tsukuba,1,0.3
+3291,Kazuhiko Kato,University of Tsukuba,1,0.3
+3292,Yasushi Shinjo,University of Tsukuba,1,0.5
+3293,Klaus Ostermann,University of Tübingen,8,2.3
+3294,Hendrik P.,University of Tübingen,1,0.2
+3295,Michael Menth,University of Tübingen,1,0.3
+3296,Joseph P.,University of Vermont,9,2.4
+3297,Jeremiah Onaolapo,University of Vermont,2,0.5
+3298,Christian Skalka,University of Vermont,2,0.3
+3299,Emma Tosch,University of Vermont,1,0.3
+3300,Stefan Dziembowski,University of Warsaw,5,1.5
+3301,Slawomir Lasota,University of Warsaw,1,0.3
+3302,Mikolaj Bojanczyk,University of Warsaw,1,0.3
+3303,Lorenzo Clemente,University of Warsaw,1,0.5
+3304,Eryk Kopczynski,University of Warsaw,1,0.5
+3305,Szymon Torunczyk,University of Warsaw,1,0.5
+3306,Yu Huang,Vanderbilt University,5,1.1
+3307,Kevin Leach,Vanderbilt University,5,0.8
+3308,Douglas C.,Vanderbilt University,3,0.6
+3309,Taylor T.,Vanderbilt University,2,0.4
+3310,Xenofon D.,Vanderbilt University,2,0.4
+3311,Daniel Fabbri,Vanderbilt University,1,0.1
+3312,Aniruddha S.,Vanderbilt University,1,0.1
+3313,Jules White,Vanderbilt University,1,0.3
+3314,Tachio Terauchi,Waseda University,9,4.1
+3315,Qian Wang,Wuhan University,7,1
+3316,Jifeng Xuan,Wuhan University,7,1.8
+3317,Xiaoyuan Jing,Wuhan University,3,0.7
+3318,Xiaoyuan Xie,Wuhan University,2,0.5
+3319,Shi Ying,Wuhan University,1,0.2
+3320,Youngsok Kim,Yonsei University,8,1.4
+3321,Hanjun Kim,Yonsei University,7,1.3
+3322,Bernd Burgstaller,Yonsei University,2,0.6
+3323,Jinho Lee,Yonsei University,1,0.1
+3324,Noseong Park,Yonsei University,1,0.3
+3325,Song Wang,York University,8,1.7
+3326,Zhen Ming,York University,7,2.1
+3327,Petros Faloutsos,York University,2,0.5
+3328,Diomidis Spinellis,AUEB,8,2.7
+3329,Dimitris Gritzalis,AUEB,1,0.2
+3330,Izzat El,American University of Beirut,5,0.8
+3331,Haitham Akkary,American University of Beirut,3,0.7
+3332,Wes Masri,American University of Beirut,2,0.5
+3333,Fadi A.,American University of Beirut,1,0.3
+3334,Yuval Elovici,Ben-Gurion University of the Negev,8,1.6
+3335,Yossef Oren,Ben-Gurion University of the Negev,7,1.7
+3336,Asaf Shabtai,Ben-Gurion University of the Negev,2,0.4
+3337,Andy Podgurski,Case Western Reserve University,6,1.8
+3338,Erman Ayday,Case Western Reserve University,5,1
+3339,Anthony Finkelstein,City University of London,5,1.7
+3340,Sebastian Hunt,City University of London,1,0.5
+3341,Paul Ralph,Dalhousie University,9,4.2
+3342,Mohammad Masudur,Dalhousie University,1,0.5
+3343,Tushar Sharma,Dalhousie University,1,0.2
+3344,Radha Jagadeesan,DePaul University,3,0.8
+3345,James Riely,DePaul University,3,0.8
+3346,Bamshad Mobasher,DePaul University,2,0.3
+3347,John McDonald,DePaul University,1,0.3
+3348,Stéphanie Delaune,Ecole Normale Superieure de Cachan,5,1.6
+3349,Hubert Comon-Lundh,Ecole Normale Superieure de Cachan,4,1.7
+3350,David Baelde,Ecole Normale Superieure de Cachan,2,0.5
+3351,Volker Roth,Freie Universitaet Berlin,3,0.7
+3352,Lutz Prechelt,Freie Universitaet Berlin,2,0.8
+3353,Claudia Müller-Birn,Freie Universitaet Berlin,1,0.2
+3354,Matthias Wählisch,Freie Universitaet Berlin,1,0.2
+3355,Yongjun Park,Hanyang University,7,1.8
+3356,Sang-Wook Kim,Hanyang University,1,0.3
+3357,Youngmoon Lee,Hanyang University,1,0.2
+3358,Heejin Park,Hanyang University,1,0.5
+3359,Christian Doerr,Hasso Plattner Institute,5,1.6
+3360,Holger Giese,Hasso Plattner Institute,3,0.6
+3361,Anja Lehmann,Hasso Plattner Institute,3,1
+3362,Nikolaos Laoutaris,IMDEA Networks Institute,4,0.8
+3363,Narseo Vallina-Rodriguez,IMDEA Networks Institute,4,0.7
+3364,Jörg Widmer,IMDEA Networks Institute,3,1
+3365,Sergey Gorinsky,IMDEA Networks Institute,2,0.8
+3366,Marco Canini,KAUST,12,1.9
+3367,Marc Dacier,KAUST,1,0.2
+3368,Panos Kalnis,KAUST,1,0.1
+3369,Peter Richtárik,KAUST,1,0.1
+3370,Jürgen Schmidhuber,KAUST,1,0.2
+3371,Dongsun Kim,Kyungpook National University,5,0.8
+3372,Seokin Hong,Kyungpook National University,4,1.1
+3373,Yunja Choi,Kyungpook National University,1,0.3
+3374,Sangwook Kim,Kyungpook National University,1,0.2
+3375,Mobin Javed,LUMS,4,0.9
+3376,Zafar Ayyub,LUMS,4,0.6
+3377,Ihsan Ayyub,LUMS,2,0.4
+3378,Michael F.,Lehigh University,3,0.6
+3379,Lichao Sun,Lehigh University,3,0.6
+3380,Yu Yang,Lehigh University,2,0.3
+3381,Daniel P.,Lehigh University,2,0.5
+3382,Roberto Palmieri,Lehigh University,1,0.1
+3383,Franco Raimondi,Middlesex University,4,1.1
+3384,Kelly Androutsopoulos,Middlesex University,2,0.3
+3385,Rajagopal Nagarajan,Middlesex University,1,0.5
+3386,Igor Steinmacher,Northern Arizona University,7,1.2
+3387,Marco Aurélio,Northern Arizona University,6,1.1
+3388,Alex Groce,Northern Arizona University,6,1.4
+3389,Bashar Nuseibeh,Open University UK,6,1.3
+3390,Yijun Yu,Open University UK,5,1.4
+3391,Arosha K.,Open University UK,2,0.6
+3392,Janet van,Open University UK,1,0.3
+3393,Blaine A.,Open University UK,1,0.3
+3394,Helen Sharp,Open University UK,1,0.3
+3395,Thein Than,Open University UK,1,0.1
+3396,Michel Wermelinger,Open University UK,1,0.3
+3397,Andrea Zisman,Open University UK,1,0.3
+3398,Katsuro Inoue,Osaka University,5,1.2
+3399,Yoshiki Higo,Osaka University,3,1.1
+3400,Shinji Kusumoto,Osaka University,3,1
+3401,Makoto Matsushita,Osaka University,3,0.8
+3402,Andrew P.,Portland State University,4,0.6
+3403,Wu-chang Feng,Portland State University,1,0.3
+3404,Mark P.,Portland State University,1,0.3
+3405,Suresh Singh,Portland State University,1,0.5
+3406,Jonathan Walpole,Portland State University,1,0.2
+3407,Gianni Antichi,Queen Mary University of London,8,1.5
+3408,Steve Uhlig,Queen Mary University of London,4,0.7
+3409,Gareth Tyson,Queen Mary University of London,3,0.4
+3410,Norman E.,Queen Mary University of London,1,0.2
+3411,Martin Neil,Queen Mary University of London,1,0.2
+3412,Sudipta Chattopadhyay,SUTD,3,0.7
+3413,Pawel Szalachowski,SUTD,3,0.8
+3414,Jianying Zhou,SUTD,1,0.3
+3415,Binbin Chen,SUTD,1,0.3
+3416,Tien Tuan,SUTD,1,0.2
+3417,Wenchao Jiang,SUTD,1,0.2
+3418,Fu Song,ShanghaiTech University,3,0.5
+3419,Yuqi Chen,ShanghaiTech University,2,0.7
+3420,Zhice Yang,ShanghaiTech University,2,0.5
+3421,Jingzhu He,ShanghaiTech University,1,0.2
+3422,Yutian Tang,ShanghaiTech University,1,0.2
+3423,LiGuo Huang,Southern Methodist University,3,0.4
+3424,Eric Larson,Southern Methodist University,2,1
+3425,Mitchell A.,Southern Methodist University,1,0.5
+3426,Willem Visser,Stellenbosch University,11,2.3
+3427,Jaco Geldenhuys,Stellenbosch University,2,0.6
+3428,Bernd Fischer,Stellenbosch University,1,0.5
+3429,Jakob Rehof,TU Dortmund,7,3
+3430,Klaus-Tycho Förster,TU Dortmund,2,0.4
+3431,Bernhard Steffen,TU Dortmund,1,0.3
+3432,Christof Fetzer,TU Dresden,4,0.8
+3433,Hermann Härtig,TU Dresden,2,0.4
+3434,Akash Kumar,TU Dresden,1,0.2
+3435,Christel Baier,TU Dresden,1,0.3
+3436,Wolfgang E.,TU Dresden,1,0.3
+3437,Luca Allodi,TU Eindhoven,3,2
+3438,Sandro Etalle,TU Eindhoven,2,0.5
+3439,Alexander Serebrenik,TU Eindhoven,2,0.5
+3440,Jerry den,TU Eindhoven,1,0.2
+3441,Martin Burtscher,Texas State University,5,1.7
+3442,Tao Hou,Texas State University,1,0.3
+3443,Rodion M.,Texas State University,1,0.1
+3444,Jinyuan Jia,Tongji University,10,2.9
+3445,Chenxi Zhang,Tongji University,3,0.4
+3446,Yang Shi,Tongji University,1,0.1
+3447,Shouhuai Xu,UCCS,2,0.7
+3448,Qing Yi,UCCS,2,0.7
+3449,Yanyan Zhuang,UCCS,2,0.3
+3450,Hyeran Jeon,Univ. of California - Merced,5,1.3
+3451,Dong Li,Univ. of California - Merced,3,0.7
+3452,Pengfei Su,Univ. of California - Merced,3,0.6
+3453,Shijia Pan,Univ. of California - Merced,1,0.1
+3454,Tingting Yu,University of Cincinnati,8,2
+3455,Nan Niu,University of Cincinnati,7,1.7
+3456,Polyvios Pratikakis,University of Crete,3,0.7
+3457,Xenofontas A.,University of Crete,2,0.4
+3458,Evangelos P.,University of Crete,2,0.4
+3459,Angelos Bilas,University of Crete,1,0.2
+3460,Vassilis Papaefstathiou,University of Crete,1,0.3
+3461,Rick Kazman,University of Hawaii at Manoa,7,1.9
+3462,Henri Casanova,University of Hawaii at Manoa,1,0.2
+3463,Dusko Pavlovic,University of Hawaii at Manoa,1,0.2
+3464,Weidong Shi,University of Houston,4,1.1
+3465,Mohammad Amin,University of Houston,2,0.5
+3466,Feng Yan,University of Houston,1,0.1
+3467,Omprakash Gnawali,University of Houston,1,0.2
+3468,J. Garrett,University of Iowa,3,1.1
+3469,Rishab Nithyanand,University of Iowa,3,0.5
+3470,Octav Chipara,University of Iowa,1,0.3
+3471,Norbert Siegmund,University of Leipzig,13,3.2
+3472,Lin Jiang,University of Liverpool,7,1.7
+3473,Rasmus Ibsen-Jensen,University of Liverpool,2,0.5
+3474,Sheng Chen,University of Louisiana - Lafayette,3,1.3
+3475,Xiali Hei,University of Louisiana - Lafayette,2,0.4
+3476,Xu Yuan,University of Louisiana - Lafayette,2,0.5
+3477,Li Chen,University of Louisiana - Lafayette,1,0.2
+3478,Arun Lakhotia,University of Louisiana - Lafayette,1,0.3
+3479,Nian-Feng Tzeng,University of Louisiana - Lafayette,1,0.2
+3480,Gordon Fraser,University of Passau,11,2.9
+3481,Christian Lengauer,University of Passau,6,1.4
+3482,Roberto Bruni,University of Pisa,3,0.8
+3483,Roberta Gori,University of Pisa,2,0.5
+3484,Vincenzo Gervasi,University of Pisa,1,0.3
+3485,Francesca Levi,University of Pisa,1,0.5
+3486,Ugo Montanari,University of Pisa,1,0.3
+3487,Susmit Sarkar,University of St Andrews,10,1.7
+3488,Dharini Balasubramaniam,University of St Andrews,1,0.2
+3489,Marwan Fayed,University of St Andrews,1,0.1
+3490,Christopher Jefferson,University of St Andrews,1,0.2
+3491,Sasa Radomirovic,University of Surrey,4,1
+3492,Ioana Boureanu,University of Surrey,3,0.7
+3493,Brijesh Dongol,University of Surrey,1,0.3
+3494,Constantin Catalin,University of Surrey,1,0.2
+3495,Daniel Gardham,University of Surrey,1,0.2
+3496,Mark Manulis,University of Surrey,1,0.2
+3497,Bruno Crispo,University of Trento,3,0.6
+3498,Kasim Sinan,University of Trento,3,0.7
+3499,Fabio Casati,University of Trento,1,0.3
+3500,Marco Roveri,University of Trento,1,0.3
+3501,Filip Sieczkowski,University of Wroclaw,5,1.1
+3502,Dariusz Biernacki,University of Wroclaw,3,0.8
+3503,Maciej Piróg,University of Wroclaw,3,0.8
+3504,Witold Charatonik,University of Wroclaw,1,0.3
+3505,Adi Shamir,Weizmann Institute of Science,5,1.2
+3506,Moni Naor,Weizmann Institute of Science,3,1.3
+3507,David Harel,Weizmann Institute of Science,1,0.5
+3508,Guy N.,Weizmann Institute of Science,1,0.3
+3509,Daniel J.,Worcester Polytechnic Institute,3,0.7
+3510,Xiaozhong Liu,Worcester Polytechnic Institute,3,0.4
+3511,Joshua D.,Worcester Polytechnic Institute,2,0.8
+3512,George T.,Worcester Polytechnic Institute,1,0.5
+3513,Cong Tian,Xidian University,3,1.1
+3514,Xiaofeng Chen,Xidian University,2,0.3
+3515,Haichang Gao,Xidian University,2,0.3
+3516,Jianfeng Ma,Xidian University,1,0.1
+3517,Jinku Li,Xidian University,1,0.1
+3518,Yulong Shen,Xidian University,1,0.1
+3519,Sen He,Augusta University,2,0.3
+3520,Gagan Agrawal,Augusta University,2,0.4
+3521,Harley Eades,Augusta University,1,0.3
+3522,Alexander A.,Augusta University,1,0.3
+3523,Gursimran Singh,Augusta University,1,0.3
+3524,Taolue Chen,Birkbeck University of London,6,1.1
+3525,Jean-Baptiste Tristan,Boston College,6,2.4
+3526,Lewis Tseng,Boston College,1,0.1
+3527,Liuba Shrira,Brandeis University,2,0.5
+3528,Timothy J.,Brandeis University,1,1
+3529,Kent E.,Brigham Young University,6,1.2
+3530,Daniel Zappala,Brigham Young University,3,0.4
+3531,Lukás Holík,Brno University of Technology,4,0.6
+3532,Tomás Vojnar,Brno University of Technology,3,0.5
+3533,Pinjia He,CUHK (SZ),6,1.4
+3534,Jurgen J.,CWI,2,0.8
+3535,Marc Stevens,CWI,1,0.5
+3536,Adam Wierman,California Institute of Technology,4,1.1
+3537,Li Xiong,Emory University,3,0.9
+3538,Chinmay Kulkarni,Emory University,1,0.1
+3539,Ymir Vigfusson,Emory University,1,0.1
+3540,Rahul Purandare,IIIT Delhi,4,0.8
+3541,Piyus Kedia,IIIT Delhi,1,0.2
+3542,Rahul Mohanani,IIIT Delhi,1,0.3
+3543,Praveen Tammana,IIT Hyderabad,3,0.9
+3544,Saurabh Joshi,IIT Hyderabad,1,0.3
+3545,Ramakrishna Upadrasta,IIT Hyderabad,1,0.5
+3546,Mainack Mondal,IIT Kharagpur,4,1.1
+3547,Niloy Ganguly,IIT Kharagpur,1,0.3
+3548,Sujoy Ghose,IIT Kharagpur,1,0.3
+3549,Satrajit Ghosh,IIT Kharagpur,1,0.2
+3550,Bivas Mitra,IIT Kharagpur,1,0.3
+3551,Debdeep Mukhopadhyay,IIT Kharagpur,1,0.1
+3552,Rachata Ausavarungnirun,KMUTNB,16,1.9
+3553,Jonathan I.,Kent State University,4,1.4
+3554,Atsushi Igarashi,Kyoto University,5,2.2
+3555,Kohei Suenaga,Kyoto University,1,0.3
+3556,Vasileios Giotsas,Lancaster University,4,0.5
+3557,David Bowes,Lancaster University,1,0.1
+3558,Tracy Hall,Lancaster University,1,0.1
+3559,Barry Porter,Lancaster University,1,0.3
+3560,Charalampos Rotsos,Lancaster University,1,0.1
+3561,Mark Rouncefield,Lancaster University,1,0.3
+3562,Gerald Baumgartner,Louisiana State University,2,0.4
+3563,Anas Mahmoud,Louisiana State University,2,0.6
+3564,Jian Zhang,Louisiana State University,1,0.3
+3565,Golden G.,Louisiana State University,1,0.2
+3566,Masoud Daneshtalab,Mälardalen University,1,0.5
+3567,Kristina Lundqvist,Mälardalen University,1,0.3
+3568,Alessandro Vittorio,Mälardalen University,1,0.3
+3569,Chi-Yu Li,National Chiao Tung University,5,0.9
+3570,Kate Ching-Ju,National Chiao Tung University,2,0.6
+3571,Jyh-Cheng Chen,National Chiao Tung University,1,0.1
+3572,Chun-Ying Huang,National Chiao Tung University,1,0.3
+3573,Joshua Reynolds,New Mexico State University,3,0.4
+3574,Satyajayant Misra,New Mexico State University,2,0.4
+3575,Roopa Vishwanathan,New Mexico State University,2,0.4
+3576,Tao Wang,New Mexico State University,1,0.3
+3577,Avinash Karanth,Ohio University,5,1.4
+3578,Gordon Stewart,Ohio University,2,0.4
+3579,Alessandro F.,PUC-RIO,9,1.3
+3580,Simone D.,PUC-RIO,1,0.1
+3581,Marcos Kalinowski,PUC-RIO,1,0.1
+3582,Carlos José,PUC-RIO,1,0.1
+3583,Mashael Al,Qatar University,4,1.3
+3584,Ryan Riley,Qatar University,2,0.4
+3585,Youcheng Sun,Queen's University Belfast,4,0.6
+3586,Georgios Karakonstantis,Queen's University Belfast,2,0.6
+3587,Vahid Garousi,Queen's University Belfast,1,0.3
+3588,Cemal Yilmaz,Sabancı University,4,1.1
+3589,Albert Levi,Sabancı University,1,0.5
+3590,Erkay Savas,Sabancı University,1,0.1
+3591,Hamid Sarbazi-Azad,Sharif University of Technology,5,1.2
+3592,Rasool Jalili,Sharif University of Technology,1,0.3
+3593,Zhiwu Xu,Shenzhen University,8,1.2
+3594,Junyang Chen,Shenzhen University,1,0.3
+3595,Yuhong Nan,Sun Yat-sen University,5,0.6
+3596,Zibin Zheng,Sun Yat-sen University,2,0.6
+3597,Janet Siegmund,TU Chemnitz,10,2.1
+3598,Billy Bob,Tampere University,7,2.1
+3599,Jeffrey C.,The University of Alabama,5,1.6
+3600,Jeffrey G.,The University of Alabama,1,0.3
+3601,Breno Miranda,UFPE,4,1
+3602,Fernando Castor,UFPE,3,0.4
+3603,Paulo Borba,UFPE,2,0.5
+3604,Sérgio Soares,UFPE,2,0.2
+3605,Leopoldo Teixeira,UFPE,1,0.2
+3606,Alexandre Bergel,Universidad de Chile,2,0.7
+3607,Pablo Barceló,Universidad de Chile,1,0.5
+3608,Jocelyn Simmonds,Universidad de Chile,1,0.3
+3609,Mario Linares-Vásquez,Universidad de los Andes,8,1.3
+3610,Kelly Garcés,Universidad de los Andes,1,0.5
+3611,Sandra Julieta,Universidad de los Andes,1,0.3
+3612,Abram Hindle,University of Alberta,4,0.7
+3613,Sarah Nadi,University of Alberta,2,0.5
+3614,Karim Ali,University of Alberta,1,0.3
+3615,José Nelson,University of Alberta,1,0.1
+3616,Jonathan Schaeffer,University of Alberta,1,0.1
+3617,Duane Szafron,University of Alberta,1,0.1
+3618,Janis Voigtländer,University of Duisburg-Essen,3,2.5
+3619,Barbara König,University of Duisburg-Essen,1,0.3
+3620,Simon J.,University of Glasgow,2,0.7
+3621,Mohamed Khamis,University of Glasgow,1,0.2
+3622,Tim Storer,University of Glasgow,1,0.5
+3623,Hassan Khan,University of Guelph,2,0.5
+3624,Xiaodong Lin,University of Guelph,1,0.1
+3625,Gary William,University of Guelph,1,0.5
+3626,Walid Maalej,University of Hamburg,4,1.2
+3627,Hannes Federrath,University of Hamburg,1,0.3
+3628,Rainer Böhme,University of Innsbruck,2,0.6
+3629,Michael Felderer,University of Innsbruck,1,0.3
+3630,Georg Moser,University of Innsbruck,1,0.5
+3631,Reinhard von,University of Kiel,2,0.5
+3632,Wilhelm Hasselbring,University of Kiel,2,0.5
+3633,Thomas Wilke,University of Kiel,1,0.3
+3634,Martin Pinzger,University of Klagenfurt,5,1.6
+3635,Elisabeth Oswald,University of Klagenfurt,1,0.3
+3636,Gunter Saake,University of Magdeburg,9,1.7
+3637,Sebastian Erdweg,University of Mainz,3,1.2
+3638,Andreas Hildebrandt,University of Mainz,1,0.3
+3639,Frederik Armknecht,University of Mannheim,6,1.3
+3640,Stephen Chang,University of Massachusetts Boston,4,1.4
+3641,Xiaohui Liang,University of Massachusetts Boston,1,0.1
+3642,Markus Müller-Olm,University of Münster,3,1
+3643,Thomas Hupperich,University of Münster,1,0.3
+3644,Dongpeng Xu,University of New Hampshire,7,1.5
+3645,Hyunsook Do,University of North Texas,3,1.1
+3646,Hui Zhao,University of North Texas,1,0.2
+3647,Yuede Ji,University of North Texas,1,0.3
+3648,Weishi Shi,University of North Texas,1,0.2
+3649,Thorsten Altenkirch,University of Nottingham,2,0.8
+3650,Graham Hutton,University of Nottingham,1,0.3
+3651,Jamie Twycross,University of Nottingham,1,0.5
+3652,Heike Wehrheim,University of Oldenburg,4,1.3
+3653,Andreas Winter,University of Oldenburg,1,0.3
+3654,Daniel Neider,University of Oldenburg,1,0.3
+3655,Phil McMinn,University of Sheffield,2,0.5
+3656,John A.,University of Sheffield,1,0.5
+3657,Robert M.,University of Sheffield,1,0.2
+3658,Pooyan Jamshidi,University of South Carolina,3,0.7
+3659,Srihari Nelakuditi,University of South Carolina,1,0.3
+3660,Biplav Srivastava,University of South Carolina,1,0.3
+3661,Sanjib Sur,University of South Carolina,1,0.3
+3662,Stephan Diehl,University of Trier,4,1.8
+3663,Dmitry Chistikov,University of Warwick,1,0.3
+3664,Florin Ciucu,University of Warwick,1,0.5
+3665,Graham Cormode,University of Warwick,1,0.2
+3666,Ligang He,University of Warwick,1,0.1
+3667,Radu Calinescu,University of York,2,0.8
+3668,Javier Cámara,University of York,1,0.3
+3669,Anders Drachen,University of York,1,0.5
+3670,Peter Nightingale,University of York,1,0.2
+3671,Jens Dietrich,Victoria University of Wellington,1,0.3
+3672,Dionysis Athanasopoulos,Victoria University of Wellington,1,0.3
+3673,Lindsay Groves,Victoria University of Wellington,1,0.3
+3674,Stuart Marshall,Victoria University of Wellington,1,0.3
+3675,Kostadin Damevski,Virginia Commonwealth University,3,1.1
+3676,Hong-Sheng Zhou,Virginia Commonwealth University,2,0.5
+3677,Zijiang Yang,Western Michigan University,7,1.6
+3678,Chen Hajaj,Ariel University,1,0.2
+3679,Kirill Kogan,Ariel University,1,0.2
+3680,Eran Omri,Ariel University,1,0.3
+3681,Jeffrey Overbey,Auburn University,2,0.6
+3682,Akond Ashfaque,Auburn University,2,0.6
+3683,Muhammet Mustafa,Bilkent University,3,0.2
+3684,Ozcan Ozturk,Bilkent University,2,0.3
+3685,Can Alkan,Bilkent University,2,0.1
+3686,Bogdan Dit,Boise State University,3,0.6
+3687,Catherine Mills,Boise State University,1,0.1
+3688,Elena Sherman,Boise State University,1,0.3
+3689,Oliver Hohlfeld,Brandenburg University of Technology,3,0.6
+3690,George Theodorakopoulos,Cardiff University,2,0.5
+3691,Tomas Petricek,Charles University,2,0.6
+3692,Petr Tuma,Charles University,1,0.1
+3693,Lubomír Bulej,Charles University,1,0.1
+3694,Zicheng Chi,Cleveland State University,3,0.6
+3695,Tianyun Zhang,Cleveland State University,1,0.1
+3696,Michael Sirivianos,Cyprus University of Technology,3,0.8
+3697,Vassos Soteriou,Cyprus University of Technology,1,0.3
+3698,David Pichardie,Ecole Normale Superieure de Rennes,6,1
+3699,Jason O.,Florida Atlantic University,1,0.5
+3700,Feng-Hao Liu,Florida Atlantic University,1,0.3
+3701,Christian Renner,Hamburg University of Technology,1,0.5
+3702,Cuiyun Gao,Harbin Institute of Technology,3,0.6
+3703,Qing Liao,Harbin Institute of Technology,1,0.1
+3704,Michael Gertz,Heidelberg University,1,0.2
+3705,Barbara Paech,Heidelberg University,1,0.5
+3706,Hans-Wolfgang Loidl,Heriot-Watt University,1,0.3
+3707,Manuel Maarek,Heriot-Watt University,1,0.1
+3708,James McKinna,Heriot-Watt University,1,0.5
+3709,Abhishek Bichhawat,IIT Gandhinagar,2,0.4
+3710,Anirban Dasgupta,IIT Gandhinagar,1,0.3
+3711,Sameer G.,IIT Gandhinagar,1,0.1
+3712,Pejman Lotfi-Kamran,IPM,4,1
+3713,Sourav Chakraborty,ISI Kolkata,1,0.2
+3714,Ansuman Banerjee,ISI Kolkata,1,0.3
+3715,Ayse Tosun,Istanbul Technical University,2,0.5
+3716,Ayse Yilmazer,Istanbul Technical University,1,0.2
+3717,Hideharu Amano,Keio University,1,0.2
+3718,Hiroki Matsutani,Keio University,1,0.2
+3719,Alptekin Küpçü,Koç University,2,0.5
+3720,Tao Chen,Loughborough University,2,0.7
+3721,Martin Höst,Lund University,1,0.3
+3722,Christoph Reichenbach,Lund University,1,0.3
+3723,Per Runeson,Lund University,1,0.3
+3724,Le Song,MBZUAI,2,0.3
+3725,Eric P.,MBZUAI,2,0.2
+3726,Qirong Ho,MBZUAI,1,0.1
+3727,Zhiqiang Xu,MBZUAI,1,0.2
+3728,Mohamed Ali,Macquarie University,2,0.4
+3729,Annabelle McIver,Macquarie University,1,0.3
+3730,Petr Svenda,Masaryk University,3,0.5
+3731,Vashek Matyas,Masaryk University,2,0.3
+3732,Sébastien Mosser,McMaster University,1,0.2
+3733,Wenbo He,McMaster University,1,0.1
+3734,Mark Lawford,McMaster University,1,0.1
+3735,T. S.,McMaster University,1,0.5
+3736,Alan Wassyng,McMaster University,1,0.1
+3737,Zhenlin Wang,Michigan Technological University,2,0.3
+3738,Soner Önder,Michigan Technological University,2,0.7
+3739,Nectarios Koziris,NTUA,2,0.3
+3740,Dionisios N.,NTUA,2,0.3
+3741,Georgios I.,NTUA,1,0.1
+3742,Nikolaos S.,NTUA,1,0.3
+3743,Lorie M.,New Mexico Tech,1,0.5
+3744,Mehdi Bagherzadeh,Oakland University,3,0.9
+3745,Shuai Hao,Old Dominion University,3,0.8
+3746,Giuliano Antoniol,Polytechnique Montreal,2,0.5
+3747,Jinghui Cheng,Polytechnique Montreal,2,0.6
+3748,Foutse Khomh,Polytechnique Montreal,1,0.1
+3749,Xiaodong Li,RMIT University,3,0.5
+3750,Huong Ha,RMIT University,1,0.5
+3751,Zhumin Chen,Shandong University,1,0.1
+3752,Pengjie Ren,Shandong University,1,0.1
+3753,Zhaochun Ren,Shandong University,1,0.1
+3754,Oguz Ergin,TOBB ETÜ,4,0.7
+3755,Patrick Mäder,TU Ilmenau,3,0.8
+3756,Xiaojiang Du,Temple University,2,0.6
+3757,Yan Wang,Temple University,1,0.1
+3758,Jamie Payton,Temple University,1,0.3
+3759,Abdul Serwadda,Texas Tech University,2,0.8
+3760,Hidehiko Masuhara,Tokyo Institute of Technology,2,0.8
+3761,Yasuhiko Minamide,Tokyo Institute of Technology,1,0.3
+3762,David V.,Toronto Metropolitan University,1,0.3
+3763,Denise M.,Toronto Metropolitan University,1,0.3
+3764,Wei Yu,Towson University,2,0.4
+3765,Chong Fu,UESTC,2,0.2
+3766,Yong Liao,UESTC,1,0.1
+3767,Yong Tang,UESTC,1,0.1
+3768,Ronaldo A.,UFMS,2,0.4
+3769,Bruno B.,UFMS,1,0.2
+3770,Razvan C.,UNC - Charlotte,4,1
+3771,Rodolfo Azevedo,UNICAMP,2,0.4
+3772,Guido Araujo,UNICAMP,1,0.1
+3773,Edson Borin,UNICAMP,1,0.2
+3774,Cecília M.,UNICAMP,1,0.2
+3775,Liliana Pasquale,University College Dublin,3,0.7
+3776,Shen Wang,University College Dublin,1,0.1
+3777,Thomas Gilray,University of Alabama - Birmingham,3,0.7
+3778,Dominik Herrmann,University of Bamberg,1,0.1
+3779,Gerald Lüttgen,University of Bamberg,1,0.3
+3780,Michael Mendler,University of Bamberg,1,0.1
+3781,Bernhard Westfechtel,University of Bayreuth,1,0.5
+3782,Andrey Bogdanov,University of Bergen,1,0.5
+3783,Jaakko Järvi,University of Bergen,1,0.2
+3784,Oscar Nierstrasz,University of Bern,2,0.7
+3785,Rainer Koschke,University of Bremen,2,0.8
+3786,Matthias Galster,University of Canterbury,2,0.5
+3787,Xiaoming Fu,University of Göttingen,1,0.1
+3788,Bela Gipp,University of Göttingen,1,0.1
+3789,Caroline Sporleder,University of Göttingen,1,0.2
+3790,Adi Akavia,University of Haifa,1,0.3
+3791,Dan Feldman,University of Haifa,1,0.3
+3792,Margarita Osadchy,University of Haifa,1,0.3
+3793,Panos Vassiliadis,University of Ioannina,1,0.3
+3794,Apostolos V.,University of Ioannina,1,0.3
+3795,Albert Zündorf,University of Kassel,2,0.4
+3796,Kenneth L.,University of Kentucky,1,0.3
+3797,Jim Griffioen,University of Kentucky,1,0.3
+3798,Zheng Wang,University of Leeds,4,0.7
+3799,Tom Kelly,University of Leeds,1,0.2
+3800,Cheng-Zhong Xu,University of Macau,1,0.2
+3801,Xiaobo Zhou,University of Macau,1,0.3
+3802,Neville Grech,University of Malta,2,0.5
+3803,Adrian Francalanza,University of Malta,1,0.2
+3804,Hadi Hemmati,University of Manitoba,3,0.8
+3805,Shaowei Wang,University of Manitoba,1,0.3
+3806,Gabriele Taentzer,University of Marburg,2,0.5
+3807,Bernd Freisleben,University of Marburg,1,0.2
+3808,Scott D.,University of Memphis,2,0.4
+3809,Santosh Kumar,University of Memphis,1,0.2
+3810,Rohit Chadha,University of Missouri,2,0.5
+3811,Yongjie Zheng,University of Missouri - Kansas City,1,0.5
+3812,Stefan Monnier,University of Montreal,2,0.6
+3813,Myoungkyu Song,University of Nebraska - Omaha,2,0.8
+3814,Andreas Stefik,University of Nevada Las Vegas,3,0.7
+3815,Jan Pedersen,University of Nevada Las Vegas,1,0.2
+3816,Phani Vadrevu,University of New Orleans,1,0.5
+3817,David M.,University of Otago,4,0.6
+3818,Zhiyi Huang,University of Otago,1,0.1
+3819,Amy P.,University of Ottawa,1,0.5
+3820,Hasan Ural,University of Ottawa,1,0.2
+3821,Christian Hammer,University of Potsdam,4,0.9
+3822,Guowei Yang,University of Queensland,4,0.9
+3823,Christoph M.,University of Salzburg,3,1
+3824,Ana Sokolova,University of Salzburg,1,0.2
+3825,Vladimiro Sassone,University of Southampton,2,0.7
+3826,Corina Cîrstea,University of Southampton,1,0.3
+3827,Bernhard Reus,University of Sussex,1,0.2
+3828,Peter Schrammel,University of Sussex,1,0.3
+3829,David Novick,University of Texas - El Paso,1,0.2
+3830,Saeid Tizpaz-Niari,University of Texas - El Paso,1,0.3
+3831,Tyler Moore,University of Tulsa,4,1.1
+3832,Frank Kargl,University of Ulm,1,0.2
+3833,Matthias Tichy,University of Ulm,1,0.1
+3834,Edgar R.,University of Vienna,4,0.8
+3835,Matthew J.,University of Waikato,4,0.9
+3836,John Tang,University of Wisconsin - Milwaukee,2,0.8
+3837,Christine Cheng,University of Wisconsin - Milwaukee,1,0
+3838,Ethan V.,University of Wisconsin - Milwaukee,1,0.3
+3839,Tibor Jager,University of Wuppertal,3,1.2
+3840,Alexandra Dmitrienko,University of Würzburg,3,0.5
+3841,Samuel Kounev,University of Würzburg,1,0.2
+3842,Ingo Scholtes,University of Würzburg,1,0.3
+3843,Jurriaan Hage,Utrecht University,2,0.5
+3844,Slinger Jansen,Utrecht University,1,0.2
+3845,Sucha Supittayapornpong,VISTEC,3,0.8
+3846,Amiangshu Bosu,Wayne State University,3,0.9
+3847,RhongHo Jang,Wayne State University,1,0.2
+3848,Kostas Kontogiannis,Western University,2,1
+3849,Zhiyong Shan,Wichita State University,2,0.6
+3850,Ismail Akturk,Özyeğin University,1,0.5
+3851,René Rydhof,Aalborg University,1,0.2
+3852,Kunal Korgaonkar,BITS Pilani-Goa,1,0.1
+3853,Greg Hamerly,Baylor University,1,0.3
+3854,Alon Rosen,Bocconi University,1,0.2
+3855,Alper Sen,Boğaziçi University,1,0.3
+3856,Steve Counsell,Brunel University London,1,0.1
+3857,K. Narayan,CMI,1,0.2
+3858,Mukesh Tiwari,DAIICT,1,0.3
+3859,David Budgen,Durham University,1,0.1
+3860,Yanqing Zhang,Georgia State University,1,0.1
+3861,K. Srinathan,IIIT Hyderabad,1,0.3
+3862,Amjed Tahir,Massey University,1,0.3
+3863,Byron J.,Mississippi State University,1,0.2
+3864,Keith W.,NYU Shanghai,1,0.3
+3865,Eric Chan-Tin,Oklahoma State University,1,0.3
+3866,Sabrina Marczak,PUC-RS,1,0.2
+3867,Luca Abeni,Scuola Superiore Sant'Anna,1,0.2
+3868,Helger Lipmaa,Simula UiB,1,0.3
+3869,Xiaofang Zhang,Soochow University,1,0.3
+3870,Michael W.,Tulane University,1,0.2
+3871,Leonardo Murta,UFF,1,0.3
+3872,Weverton Luis,UFRGS,1,0.1
+3873,Lisandro Z.,UFRGS,1,0.2
+3874,Jing Deng,UNC - Greensboro,1,0.3
+3875,Alfredo Goldman,USP,1,0.1
+3876,Márcio Eduardo,USP-ICMC,1,0.2
+3877,Alan T.,Univ. of Maryland - Baltimore County,1,0.1
+3878,Gregorio Robles,Universidad Rey Juan Carlos,2,0.3
+3879,Gabriel Rodríguez,University of A Coruña,1,0.3
+3880,Anuj Pathania,University of Amsterdam,1,0.3
+3881,Jia Di,University of Arkansas,1,0.1
+3882,Alexander Nelson,University of Arkansas,1,0.1
+3883,Andreas Vogelsang,University of Cologne,1,0.3
+3884,Zhengxiong Li,University of Colorado - Denver,2,0.3
+3885,Rinku Dewri,University of Denver,1,0.3
+3886,Ke Li,University of Exeter,1,0.2
+3887,Jussi Kangasharju,University of Helsinki,1,0.3
+3888,Stefan Leue,University of Konstanz,1,0.2
+3889,Pierre Olivier,University of Manchester,2,0.3
+3890,Mitsunori Ogihara,University of Miami,1,0.2
+3891,Engin Arslan,University of Nevada,1,0.1
+3892,Olaf Spinczyk,University of Osnabrück,1,0.1
+3893,Mihalis Psarakis,University of Piraeus,1,0.2
+3894,Habib Louafi,University of Regina,1,0.2
+3895,Udo Kelter,University of Siegen,1,0.3
+3896,Tamás Vinkó,University of Szeged,1,0.2
+3897,Diego Costa,Université du Québec à Montréal,1,0.3
+3898,Jean-François Raskin,Université libre de Bruxelles,1,0.2
+3899,Tung Nguyen,Utah State University,1,0.3
+3900,Hany H.,West Virginia University,1,0.3
